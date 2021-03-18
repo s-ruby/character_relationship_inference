@@ -2,7 +2,7 @@ import spacy
 from spanbert import SpanBERT
 from spacy_help_functions import get_entities, create_entity_pairs
 
-f = open("/content/SpanBERT/harrypotter1.txt")
+f = open("harrypotter1.txt")
 
 text = ''
 for each in f:

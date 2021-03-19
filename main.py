@@ -2,8 +2,10 @@ import spacy
 from spanbert import SpanBERT
 from spacy_help_functions import get_entities, create_entity_pairs
 
+# import file
 f = open("/content/SpanBERT/harrypotter1.txt")
 
+# clean text
 text = ''
 for each in f:
   if "Page |" not in each:

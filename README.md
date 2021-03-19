@@ -9,6 +9,10 @@ This respository is a fork from [SpanBert](https://github.com/gkaramanolakis/Spa
 `pip3 install -U spacy`\
 `python3 -m spacy download en_core_web_lg`\
 `pip3 install -r requirements.txt`\
+
+# To download the fine-tuned SpanBERT model run:
+
+
 `bash download_finetuned.sh`
 
 If the `bash` command results in an error, try `brew install wget`

@@ -1,21 +1,18 @@
-Note: A lot of this code come from my db TA, but it is a starting off.
+# Character Relationship Inference
+
+This respository is a fork from [SpanBert](https://github.com/gkaramanolakis/SpanBERT) which adapted the SpanBERT scripts from Facebook Research to support relation extraction from general documents beyond the TACRED dataset.
 
 
-To run, but all of these within file, when in the file, run the commands:
+# Install Requirements
 
+`pip3 install -U pip setuptools wheel` \
+`pip3 install -U spacy`\
+`python3 -m spacy download en_core_web_lg`\
+`pip3 install -r requirements.txt`\
+`bash download_finetuned.sh`
 
-pip3 install -U pip setuptools wheel
+If the `bash` command results in an error, try `brew install wget`
 
-pip3 install -U spacy
+# To Run
 
-python3 -m spacy download en_core_web_lg
-
-pip3 install -r requirements.txt
-
-bash download_finetuned.sh
-
-
-
-To run, simply call main, "python3 main.py"
-
-** note may have to change the file path to the Harry potter text
+`python3 main.py`

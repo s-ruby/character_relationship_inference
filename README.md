@@ -3,7 +3,6 @@ Note: A lot of this code come from my db TA, but it is a starting off.
 
 To run, but all of these within file, when in the file, run the commands:
 
-sudo pip install --upgrade scipy
 
 pip3 install -U pip setuptools wheel
 

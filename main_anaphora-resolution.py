@@ -6,7 +6,7 @@ f = open("harrypotter1_preprocessed.txt")
 
 text = ''
 for each in f:
-  if "Page |" not in each:
+  if "CHAPTER" not in each:
     text += each
 
 text = text.replace('\r', '').replace('\n', '')
@@ -33,28 +33,15 @@ for sentence in doc.sents:
     # create entity pairs
     candidate_pairs = []
     sentence_entity_pairs = create_entity_pairs(sentence, entities_of_interest)
-    # for ep in sentence_entity_pairs:
-    #     # TODO: keep subject-object pairs of the right type for the target relation (e.g., Person:Organization for the "Work_For" relation)
-    #     candidate_pairs.append({"tokens": ep[0], "subj": ep[1], "obj": ep[2]})  # e1=Subject, e2=Object
-    #     candidate_pairs.append({"tokens": ep[0], "subj": ep[2], "obj": ep[1]})  # e1=Object, e2=Subject
+    for ep in sentence_entity_pairs:
+        # TODO: keep subject-object pairs of the right type for the target relation (e.g., Person:Organization for the "Work_For" relation)
+        candidate_pairs.append({"tokens": ep[0], "subj": ep[1], "obj": ep[2]})  # e1=Subject, e2=Object
+        candidate_pairs.append({"tokens": ep[0], "subj": ep[2], "obj": ep[1]})  # e1=Object, e2=Subject
     
 
     # Classify Relations for all Candidate Entity Pairs using SpanBERT
-    for ep in sentence_entity_pairs:
-        # for enty in entity_pair: 
-        if ep[1][1] == "PERSON" and ep[2][1] == "PERSON":#if  correct entity pair for relation we are checking for -- add
-#               print("true") 
-                print("\n\nProcessing entence: {}".format(sentence))
-                # print("Tokenized sentence: {}".format([token.text for token in sentence]))
-                candidate_pairs.append({"tokens": ep[0], "subj": ep[1], "obj": ep[2]})  # e1=Subject, e2=Object
-                candidate_pairs.append({"tokens": ep[0], "subj": ep[2], "obj": ep[1]})  # e1=Object, e2=Subject
-                break
-
     candidate_pairs = [p for p in candidate_pairs if not p["subj"][1] in ["DATE", "LOCATION"]]  # ignore subject entities with date/location type
-    
-    for p in candidate_pairs:
-        print("Subject: {}\tObject: {}".format(p["subj"][0:2], p["obj"][0:2]))
-                
+ 
     if len(candidate_pairs) == 0:
         continue
     
@@ -67,3 +54,4 @@ for sentence in doc.sents:
           print("\nExtracted relations:")
           print("\tSubject: {}\tObject: {}\tRelation: {}\tConfidence: {:.2f}".format(ex["subj"][0], ex["obj"][0], pred[0], pred[1]))
 
+f.close()

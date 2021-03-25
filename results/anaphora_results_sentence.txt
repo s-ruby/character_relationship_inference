@@ -1,0 +1,221 @@
+Extracted relations:
+	Subject: Dursley	Object: Grunnings	Relation: per:employee_of	Confidence: 1.00
+
+Extracted relations:
+	Subject: Grunnings	Object: Dursley	Relation: org:top_members/employees	Confidence: 0.99
+
+Extracted relations:
+	Subject: Dursleys	Object: Dudley	Relation: per:children	Confidence: 0.94
+
+Extracted relations:
+	Subject: Dudley	Object: Dursleys	Relation: per:parents	Confidence: 0.98
+
+Extracted relations:
+	Subject: Potter	Object: Dursley	Relation: per:siblings	Confidence: 0.66
+
+Extracted relations:
+	Subject: Dursley	Object: Potter	Relation: per:other_family	Confidence: 0.50
+
+Extracted relations:
+	Subject: Potter	Object: Dursleys	Relation: per:other_family	Confidence: 0.54
+
+Extracted relations:
+	Subject: Dursley	Object: Potter	Relation: per:other_family	Confidence: 0.57
+
+Extracted relations:
+	Subject: Dursleys	Object: Dursley	Relation: per:other_family	Confidence: 0.74
+
+Extracted relations:
+	Subject: TheDursleys	Object: Dudley	Relation: org:subsidiaries	Confidence: 0.60
+
+Extracted relations:
+	Subject: Dudley	Object: TheDursleys	Relation: org:parents	Confidence: 0.94
+
+Extracted relations:
+	Subject: Uncle Vernon's	Object: Marge	Relation: per:other_family	Confidence: 0.54
+
+Extracted relations:
+	Subject: Marge	Object: Uncle Vernon's	Relation: per:siblings	Confidence: 0.64
+
+Extracted relations:
+	Subject: Dursleys	Object: Marge	Relation: per:other_family	Confidence: 0.68
+
+Extracted relations:
+	Subject: Marge	Object: Dursleys	Relation: per:other_family	Confidence: 0.67
+
+Extracted relations:
+	Subject: Uncle Vernon	Object: Marge	Relation: per:other_family	Confidence: 0.78
+
+Extracted relations:
+	Subject: Marge	Object: Uncle Vernon	Relation: per:other_family	Confidence: 0.75
+
+Extracted relations:
+	Subject: Uncle Vernon's	Object: Marge	Relation: per:siblings	Confidence: 0.76
+
+Extracted relations:
+	Subject: Marge	Object: Uncle Vernon's	Relation: per:siblings	Confidence: 0.95
+
+Extracted relations:
+	Subject: Uncle Vernon's	Object: Dudley	Relation: per:other_family	Confidence: 0.58
+
+Extracted relations:
+	Subject: Dudley	Object: Uncle Vernon's	Relation: per:other_family	Confidence: 0.55
+
+Extracted relations:
+	Subject: Warlock	Object: International Confed	Relation: per:employee_of	Confidence: 0.50
+
+Extracted relations:
+	Subject: James Potter'	Object: Hogwarts	Relation: per:other_family	Confidence: 0.47
+
+Extracted relations:
+	Subject: Hogwarts	Object: James Potter'	Relation: per:other_family	Confidence: 0.44
+
+Extracted relations:
+	Subject: Hogwarts	Object: James Potter'	Relation: per:children	Confidence: 0.83
+
+Extracted relations:
+	Subject: Harry	Object: Quirrell	Relation: per:alternate_names	Confidence: 0.97
+
+Extracted relations:
+	Subject: Quirrell	Object: ""P-P-Potter	Relation: per:employee_of	Confidence: 0.76
+
+Extracted relations:
+	Subject: Quirrell	Object: theLeaky Cauldron	Relation: per:employee_of	Confidence: 0.59
+
+Extracted relations:
+	Subject: Bill	Object: Quidditch	Relation: per:employee_of	Confidence: 0.97
+
+Extracted relations:
+	Subject: Charlie	Object: Quidditch	Relation: per:employee_of	Confidence: 0.98
+
+Extracted relations:
+	Subject: Bill	Object: Quidditch	Relation: per:employee_of	Confidence: 1.00
+
+Extracted relations:
+	Subject: Quidditch	Object: Bill	Relation: org:top_members/employees	Confidence: 0.99
+
+Extracted relations:
+	Subject: Charliewas	Object: Quidditch	Relation: per:employee_of	Confidence: 1.00
+
+Extracted relations:
+	Subject: Quidditch	Object: Charliewas	Relation: org:top_members/employees	Confidence: 0.98
+
+Extracted relations:
+	Subject: Circe	Object: butHengist of Woodcroft	Relation: per:employee_of	Confidence: 0.81
+
+Extracted relations:
+	Subject: Brown	Object: Harry	Relation: per:siblings	Confidence: 0.43
+
+Extracted relations:
+	Subject: bed!""I	Object: Percy	Relation: per:other_family	Confidence: 0.43
+
+Extracted relations:
+	Subject: Harry	Object: McGonagall	Relation: per:other_family	Confidence: 0.36
+
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:alternate_names	Confidence: 0.53
+
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:other_family	Confidence: 0.41
+
+Extracted relations:
+	Subject: Potter?"It	Object: Quidditch Through the Ages	Relation: org:alternate_names	Confidence: 0.78
+
+Extracted relations:
+	Subject: Quidditch Through the Ages	Object: Potter?"It	Relation: org:alternate_names	Confidence: 0.98
+
+Extracted relations:
+	Subject: Ron	Object: Weasley	Relation: per:other_family	Confidence: 0.45
+
+Extracted relations:
+	Subject: Ron	Object: Weasley	Relation: per:other_family	Confidence: 0.48
+
+Extracted relations:
+	Subject: Weasley	Object: Ron	Relation: per:other_family	Confidence: 0.46
+
+Extracted relations:
+	Subject: Flamel	Object: Devonwith	Relation: per:spouse	Confidence: 0.90
+
+Extracted relations:
+	Subject: Flamel	Object: Hermione	Relation: per:spouse	Confidence: 0.89
+
+Extracted relations:
+	Subject: Hermione	Object: Flamel	Relation: per:spouse	Confidence: 0.97
+
+Extracted relations:
+	Subject: Devonwith	Object: Ron	Relation: per:spouse	Confidence: 0.52
+
+Extracted relations:
+	Subject: Ron	Object: Devonwith	Relation: per:spouse	Confidence: 0.65
+
+Extracted relations:
+	Subject: Harry	Object: Ronspent	Relation: per:other_family	Confidence: 0.74
+
+Extracted relations:
+	Subject: Ron	Object: Charlie	Relation: per:siblings	Confidence: 0.95
+
+Extracted relations:
+	Subject: Charlie	Object: Ron	Relation: per:siblings	Confidence: 0.94
+
+Extracted relations:
+	Subject: McGonagall	Object: Neville	Relation: per:alternate_names	Confidence: 0.78
+
+Extracted relations:
+	Subject: Neville	Object: McGonagall	Relation: per:alternate_names	Confidence: 0.84
+
+Extracted relations:
+	Subject: Harry	Object: Quirrell	Relation: per:employee_of	Confidence: 0.93
+
+Extracted relations:
+	Subject: Snape	Object: Harry	Relation: per:alternate_names	Confidence: 0.85
+
+Extracted relations:
+	Subject: Harry	Object: Snape	Relation: per:alternate_names	Confidence: 0.97
+
+Extracted relations:
+	Subject: Ron	Object: Hermione	Relation: per:other_family	Confidence: 0.78
+
+Extracted relations:
+	Subject: Hermione	Object: Ron	Relation: per:other_family	Confidence: 0.58
+
+Extracted relations:
+	Subject: Ginny Weasley	Object: Ron	Relation: per:other_family	Confidence: 0.51
+
+Extracted relations:
+	Subject: Ginny Weasley	Object: Ron	Relation: per:siblings	Confidence: 0.61
+
+Extracted relations:
+	Subject: Hermione	Object: Ron	Relation: per:siblings	Confidence: 0.75
+
+Extracted relations:
+	Subject: Ron	Object: Hermione	Relation: per:siblings	Confidence: 0.71
+
+Extracted relations:
+	Subject: Ginny Weasley	Object: Hermione	Relation: per:other_family	Confidence: 0.59
+
+Extracted relations:
+	Subject: Hermione	Object: Ron	Relation: per:other_family	Confidence: 0.51
+
+Extracted relations:
+	Subject: Ron	Object: Hermione	Relation: per:siblings	Confidence: 0.57
+
+Extracted relations:
+	Subject: Ginny Weasley	Object: Ron	Relation: per:siblings	Confidence: 0.96
+
+Extracted relations:
+	Subject: Ron	Object: Ginny Weasley	Relation: per:siblings	Confidence: 0.91
+
+Extracted relations:
+	Subject: Ginny Weasley	Object: Ron	Relation: per:siblings	Confidence: 0.81
+
+Extracted relations:
+	Subject: Ron	Object: Ginny Weasley	Relation: per:siblings	Confidence: 0.74
+
+Extracted relations:
+	Subject: Ron	Object: Ginny Weasley	Relation: per:siblings	Confidence: 0.46
+
+Extracted relations:
+	Subject: Ginny Weasley	Object: Ron	Relation: per:siblings	Confidence: 0.91
+
+Extracted relations:
+	Subject: Ginny Weasley	Object: Ron	Relation: per:siblings	Confidence: 0.58

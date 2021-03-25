@@ -41,7 +41,7 @@ for sentence in doc.sents:
 
     # Classify Relations for all Candidate Entity Pairs using SpanBERT
     for ep in sentence_entity_pairs:
-        # for enty in entity_pair: 
+        # for enty in entity_pair:  
         if ep[1][1] == "PERSON" and ep[2][1] == "PERSON":#if  correct entity pair for relation we are checking for -- add
 #               print("true") 
                 print("\n\nProcessing entence: {}".format(sentence))

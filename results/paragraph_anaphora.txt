@@ -1,0 +1,79 @@
+Extracted relations:
+	Subject: Dursley	Object: Grunnings	Relation: per:employee_of	Confidence: 1.00
+
+Extracted relations:
+	Subject: Grunnings	Object: Dursley	Relation: org:top_members/employees	Confidence: 0.99
+
+Extracted relations:
+	Subject: Grunnings	Object: Dursley	Relation: org:top_members/employees	Confidence: 0.98
+
+Extracted relations:
+	Subject: Dursley	Object: Grunnings	Relation: per:employee_of	Confidence: 0.99
+
+Extracted relations:
+	Subject: Dudley	Object: Dursleys	Relation: per:parents	Confidence: 0.77
+
+Extracted relations:
+	Subject: Potter	Object: Dursley	Relation: per:siblings	Confidence: 0.66
+
+Extracted relations:
+	Subject: Dursley	Object: Potter	Relation: per:other_family	Confidence: 0.50
+
+Extracted relations:
+	Subject: Dursley	Object: Potter	Relation: per:other_family	Confidence: 0.50
+
+Extracted relations:
+	Subject: Dursley	Object: Potter	Relation: per:other_family	Confidence: 0.56
+
+Extracted relations:
+	Subject: Dursleys	Object: Privet Drive	Relation: per:other_family	Confidence: 0.50
+
+Extracted relations:
+	Subject: Privet Drive	Object: Dursleys	Relation: per:other_family	Confidence: 0.80
+
+Extracted relations:
+	Subject: Stonewall High	Object: Uncle Vernon's	Relation: per:schools_attended	Confidence: 0.97
+
+Extracted relations:
+	Subject: Marge	Object: Dursleys	Relation: per:other_family	Confidence: 0.46
+
+Extracted relations:
+	Subject: Uncle Vernon's	Object: Marge	Relation: per:siblings	Confidence: 0.76
+
+Extracted relations:
+	Subject: Marge	Object: Uncle Vernon's	Relation: per:siblings	Confidence: 0.95
+"Anyway -- Harry," said the giant, turning Harry back on the Dursleys, "a very happy birthday to yeh. Got summat fer yeh here -- I mighta sat on  
+ at some point, but  'll taste all right."  
+"Can't, Tom, I'm on Hogwarts business," said Hagrid, clapping Tom great hand on Harry's shoulder and making Harry's knees buckle.  
+ 
+"Good Lord," said the bartender, peering at Harry, "is this -- can this be --?"  
+ 
+
+Extracted relations:
+	Subject: Ollivander	Object: the Leaky Cauldron	Relation: per:employee_of	Confidence: 0.95
+Hedwig hadn't brought Harry anything so far. Hedwig sometimes flew in to nibble Harry ear and have a bit of toast before going off to sleep in the owlery with the other school owls. This morning, however, Hedwig fluttered down between the marmalade and the sugar bowl and dropped a note onto Harry's plate. Harry tore  Harry's plate open at once.  Harry's plate said, in a very untidy scrawl:  
+ 
+Hagrid  
+ 
+"You are here to learn the subtle science and exact art of potionmaking," he began. he spoke in barely more than a whisper, but they caught every word -- like Professor McGonagall, Snape had y caught every word -- like Professor McGonagall, Snape had the gift of keeping a class silent without effort. "As there is little foolish wand-waving here, many of you will hardly believe this is magic. I don't expect you will really understand the beauty of the softly simmering cauldron with  
+ shimmering fumes, the delicate power of liquids that creep through human veins, bewitching the mind, ensnaring the senses.... I can teach you how to bottle fame, brew glory, even stopper death -- if you aren't as big a bunch of dunderheads as I usually have to teach."  
+Malfoy couldn't believe Malfoy eyes when Malfoy saw that Harry and Ron were still at Hogwarts the next day, looking tired but perfectly cheerful. Indeed, by the next morning Harry and Ron Ron thought that meeting the three-headed dog had been an excellent adventure, and Harry and Ron were quite keen to have another one. In the meantime, Harry filled Ron in about the package that seemed to have been moved from Gringotts to Hogwarts, and they spent a lot of time wondering what could possibly need such heavy protection. "It's either really valuable or really dangerous," said Ron. "Or both," said Harry.  
+ 
+Harry ripped open the letter first, which was lucky, because it said:  
+ 
+"You're saying it wrong," Harry heard Hermione snap. "It's Wing-gar-dium Levi-o-sa, make the 'gar' nice and long."  
+ 
+The club flew suddenly out of the troll's hand, rose high, high up into the air, turned slowly over -- and dropped, with a sickening crack, onto  
+ owner's head. the troll swayed on the spot and then fell flat on the troll face, with a thud that made the whole room tremble.  
+Before Ron could say another word, Hermione had disappeared. Ron turned the binoculars back on Harry. Ron broom was vibrating so hard, His broom was almost impossible for Ron to hang on much longer. The whole crowd was on  
+ feet, watching, terrified, as the Weasleys flew up to try and pull Harry safely onto one of their brooms, but it was no good -- every time they got near Ron, His broom would jump higher still. they dropped lower and circled beneath Ron, obviously hoping to catch Ron if Ron fell. Marcus  
+A Very Merry Christmas to you.  
+ 
+
+Extracted relations:
+	Subject: Malfoy	Object: Neville	Relation: per:employee_of	Confidence: 0.98
+
+Extracted relations:
+	Subject: Look	Object: Stone	Relation: per:employee_of	Confidence: 0.66
+They had practical exams as well. Professor Flitwick called They one by one into Professor Flitwick class to see if They could make a pineapple tapdance across a desk. Professor Flitwick watched They turn a mouse into a snuffbox -- points were given for how pretty a snuffbox  was, but taken away if  
+ had whiskers. Snape made them all nervous, breathing down their necks while their tried to remember how to make a Forgetfulness potion. 

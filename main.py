@@ -9,7 +9,7 @@ for each in f:
   if "Page |" not in each:
     text += each
 
-text = text.replace('\r', '').replace('\n', '')
+text = text.replace('\r', '').replace('\n', ' ')
 
 print(text)
 

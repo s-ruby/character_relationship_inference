@@ -19,11 +19,4 @@ If the `bash` command results in an error, try `brew install wget`
 
 # To Run
 
-`pip3 install -r requirements.txt`\
-`bash download_finetuned.sh`
-
-If the `bash` command results in an error, try `brew install wget`
-
-# To Run
-
 `python3 main.py`

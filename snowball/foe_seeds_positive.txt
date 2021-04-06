@@ -1,0 +1,9 @@
+e1:PER
+e2:PER
+
+Malfoy;Harry
+Harry;Voldemort
+Snape;Harry
+Snape;Quirrell
+
+

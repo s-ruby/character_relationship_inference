@@ -1,20 +1,13 @@
 Bootstrapping Relationship Extraction with Distributional Semantics
 ===================================================================
 
-BREDS is a bootstrapping system for relationship extraction relying on word vector representations (i.e., word embeddings). For more details please refer to:
+Demo
+====
 
-- David S Batista, Bruno Martins, and Mário J Silva. , [Semi-Supervised Bootstrapping of Relationship Extractors with Distributional Semantics](http://davidsbatista.net/assets/documents/publications/breds-emnlp_15.pdf). In Empirical Methods in Natural Language Processing. ACL, 2015. (Honorable Mention for Best Short Paper)
 
-- David S Batista, Ph.D. Thesis, [Large-Scale Semantic Relationship Extraction for Information Discovery (Chapter 5)](http://davidsbatista.net/assets/documents/publications/dsbatista-phd-thesis-2016.pdf), Instituto Superior Técnico, University of Lisbon, 2016
+python friend_main.py parameters.cfg HP_processed_TAG_final.txt friend_seeds_positive.txt friend_seeds_negative.txt 0.5 0.5
 
-- [Presentation at PyData Berlin 2017](https://www.youtube.com/watch?v=Ra15lX-wojg)
-
-  &nbsp;&nbsp;[![Presentation at PyData Berlin 2017](https://img.youtube.com/vi/Ra15lX-wojg/default.jpg)](https://www.youtube.com/watch?v=Ra15lX-wojg)
-
-Architecture: system description
-================================
-[Poster presented at EMNLP'15](http://davidsbatista.net/assets/documents/publications/emnlp15-poster.pdf)
-
+python foe_main.py parameters.cfg HP_processed_TAG_final.txt foe_seeds_positive.txt foe_seeds_negative.txt 0.5 0.5
 
 
 Dependencies
@@ -39,6 +32,11 @@ You also need to install NLTK's Treebank PoS-tagger, stop words list, punkt, and
     nltk.download('stopwords')
     nltk.download('punkt')
     nltk.download('wordnet')
+    
+You need to specify a word2vec model in the `parameters.cfg` file, the model used in my experiments is available for download. It was generated from the sub collections of the English Gigaword Collection, namely the AFP, APW and XIN. The model is available here: 
+
+[afp_apw_xin_embeddings.bin](https://drive.google.com/file/d/0B0CbnDgKi0PyZHRtVS1xWlVnekE/view?usp=sharing)
+
 
 Usage:
 =====
@@ -64,15 +62,16 @@ A sample configuration is provided in `parameters.cfg`. The file contains values
     gamma=0.2                   # weight of the AFT context in the similarity function
 
 
-Demo
-====
 
-You need to specify a word2vec model in the `parameters.cfg` file, the model used in my experiments is available for download. It was generated from the sub collections of the English Gigaword Collection, namely the AFP, APW and XIN. The model is available here: 
+References:
+==========
+BREDS is a bootstrapping system for relationship extraction relying on word vector representations (i.e., word embeddings). For more details please refer to:
 
-[afp_apw_xin_embeddings.bin](https://drive.google.com/file/d/0B0CbnDgKi0PyZHRtVS1xWlVnekE/view?usp=sharing)
+- David S Batista, Bruno Martins, and Mário J Silva. , [Semi-Supervised Bootstrapping of Relationship Extractors with Distributional Semantics](http://davidsbatista.net/assets/documents/publications/breds-emnlp_15.pdf). In Empirical Methods in Natural Language Processing. ACL, 2015. (Honorable Mention for Best Short Paper)
 
+- David S Batista, Ph.D. Thesis, [Large-Scale Semantic Relationship Extraction for Information Discovery (Chapter 5)](http://davidsbatista.net/assets/documents/publications/dsbatista-phd-thesis-2016.pdf), Instituto Superior Técnico, University of Lisbon, 2016
 
-python friend_main.py parameters.cfg HP_processed_TAG_final.txt friend_seeds_positive.txt friend_seeds_negative.txt 0.5 0.5
+- [Presentation at PyData Berlin 2017](https://www.youtube.com/watch?v=Ra15lX-wojg)
 
-python foe_main.py parameters.cfg HP_processed_TAG_final.txt foe_seeds_positive.txt foe_seeds_negative.txt 0.5 0.5
+  &nbsp;&nbsp;[![Presentation at PyData Berlin 2017](https://img.youtube.com/vi/Ra15lX-wojg/default.jpg)](https://www.youtube.com/watch?v=Ra15lX-wojg)
 

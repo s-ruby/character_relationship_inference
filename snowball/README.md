@@ -9,6 +9,10 @@ python friend_main.py parameters.cfg HP_processed_TAG_final.txt friend_seeds_pos
 
 python foe_main.py parameters.cfg HP_processed_TAG_final.txt foe_seeds_positive.txt foe_seeds_negative.txt 0.5 0.5
 
+You can edit the file it wirtes to on line 140
+
+NOTE: in between running you need to delete the processed_tuples.plk - Otherwise you are not getting the NEW tuples of the file
+
 
 Dependencies
 ============

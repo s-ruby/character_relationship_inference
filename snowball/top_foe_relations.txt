@@ -1,0 +1,103 @@
+instance: Snape	Harry	score:0.06775068558328523
+pattern_bef: Foe 
+passive voice: False
+
+instance: Snape	Quirrell	score:0.0677506775067751
+pattern_bef: Foe 
+passive voice: False
+
+instance: Snape	Harry	score:0.0677506775067751
+pattern_bef: Foe 
+passive voice: False
+
+instance: Snape	Harry	score:0.0677506775067751
+pattern_bef: Foe 
+passive voice: False
+
+instance: Malfoy	Harry	score:0.0677506775067751
+pattern_bef: Foe 
+passive voice: False
+
+instance: Malfoy	Harry	score:0.0677506775067751
+pattern_bef: Foe 
+passive voice: False
+
+instance: Snape	Harry	score:0.0677506775067751
+pattern_bef: Foe 
+passive voice: False
+
+instance: McGonagall	Dumbledore	score:0.0677506775067751
+pattern_bef: Foe 
+passive voice: False
+
+instance: Harry	Neville	score:0.0677506775067751
+pattern_bef: Foe 
+passive voice: False
+
+instance: Harry	Hermione	score:0.0677506775067751
+pattern_bef: Foe 
+passive voice: False
+
+instance: Malfoy	Harry	score:0.0677506775067751
+pattern_bef: Foe 
+passive voice: False
+
+instance: Snape	Harry	score:0.0677506775067751
+pattern_bef: Foe 
+passive voice: False
+
+instance: Harry	Quirrell	score:0.0677506775067751
+pattern_bef: Foe 
+passive voice: False
+
+instance: Harry	Dudley	score:0.0677506775067751
+pattern_bef: Foe 
+passive voice: False
+
+instance: Snape	Quirrell	score:0.0677506775067751
+pattern_bef: Foe 
+passive voice: False
+
+instance: Snape	Quirrell	score:0.0677506775067751
+pattern_bef: Foe 
+passive voice: False
+
+instance: Harry	Ron	score:0.0677506775067751
+pattern_bef: Foe 
+passive voice: False
+
+instance: Harry	Voldemort	score:0.0677506775067751
+pattern_bef: Foe 
+passive voice: False
+
+instance: Snape	Harry	score:0.0677506775067751
+pattern_bef: Foe 
+passive voice: False
+
+instance: Snape	Harry	score:0.0677506775067751
+pattern_bef: Foe 
+passive voice: False
+
+instance: Harry	Snape	score:0.0677506775067751
+pattern_bef: Foe 
+passive voice: False
+
+instance: Hagrid	Harry	score:0.0677506775067751
+pattern_bef: Foe 
+passive voice: False
+
+instance: Snape	Harry	score:0.0677506775067751
+pattern_bef: Foe 
+passive voice: False
+
+instance: Snape	Harry	score:0.0677506775067751
+pattern_bef: Foe 
+passive voice: False
+
+instance: Snape	Harry	score:0.0677506775067751
+pattern_bef: Foe 
+passive voice: False
+
+instance: Dudley	Harry	score:0.0677506775067751
+pattern_bef: Foe 
+passive voice: False

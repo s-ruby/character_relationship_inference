@@ -1,0 +1,2204 @@
+instance: Hermione	Ron	score:0.8995963807203486
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.8187679123413304
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8187679123413304
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8187679123413304
+pattern_bef: Friend
+passive voice: False
+
+instance: Hagrid	Harry	score:0.8187679083371784
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8187679083371784
+pattern_bef: Friend
+passive voice: False
+
+instance: Snape	Harry	score:0.8187679083371784
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8187679083371784
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8187679083371784
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.8187679083371784
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.8187679083371784
+pattern_bef: Friend
+passive voice: False
+
+instance: Dudley	Harry	score:0.8187679083371784
+pattern_bef: Friend
+passive voice: False
+
+instance: Voldemort	Snape	score:0.8187679083371784
+pattern_bef: Friend
+passive voice: False
+
+instance: Voldemort	Harry	score:0.8187679083371784
+pattern_bef: Friend
+passive voice: False
+
+instance: Hagrid	Harry	score:0.8187679083094558
+pattern_bef: Friend
+passive voice: False
+
+instance: Snape	Harry	score:0.8187679083094558
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8187679083094558
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.8187679083094558
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.8187679083094558
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	Ron	score:0.8187679083094558
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.8187679083094558
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Neville	score:0.8187679083094558
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8187679083094558
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hagrid	score:0.8187679083094556
+pattern_bef: Friend
+passive voice: False
+
+instance: Hagrid	Harry	score:0.8187679083094556
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8187679083094556
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	Harry	score:0.8187679083094556
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8187679083094556
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8187679083094556
+pattern_bef: Friend
+passive voice: False
+
+instance: Snape	Harry	score:0.8187679083094556
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.8187679083094556
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.8187679083094556
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.8187679083094556
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.8187679083094556
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8187679083094556
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.8187679083094556
+pattern_bef: Friend
+passive voice: False
+
+instance: Hagrid	Harry	score:0.8187679083094556
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.8187679083094556
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.8187679083094556
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Neville	score:0.8187679083094556
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Voldemort	score:0.8187679083094554
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ginny	score:0.8187679083094554
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8187679083094554
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.8187679083094554
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	Voldemort	score:0.8187679083094554
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.8187679083094554
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177875161429549
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.817787418655098
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8177874186550979
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8177874186550979
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550979
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550979
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550979
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8177874186550979
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8177874186550979
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8177874186550979
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550979
+pattern_bef: Friend
+passive voice: False
+
+instance: Hagrid	Harry	score:0.8177874186550979
+pattern_bef: Friend
+passive voice: False
+
+instance: Hagrid	Harry	score:0.8177874186550979
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550979
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550979
+pattern_bef: Friend
+passive voice: False
+
+instance: Malfoy	Voldemort	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Malfoy	Voldemort	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Voldemort	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Dudley	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Dudley	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Hagrid	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Hagrid	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hagrid	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hagrid	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Snape	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ginny	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hagrid	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hagrid	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ginny	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	Voldemort	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ginny	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ginny	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Hagrid	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Hagrid	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Dudley	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Malfoy	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Malfoy	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Hagrid	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Neville	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Neville	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Neville	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Neville	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ginny	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Neville	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Neville	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Snape	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Snape	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Voldemort	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Voldemort	Dumbledore	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Voldemort	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Voldemort	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ginny	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Voldemort	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Snape	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Snape	Voldemort	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Snape	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Voldemort	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Snape	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Snape	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	Voldemort	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Voldemort	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ginny	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Hagrid	Harry	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hagrid	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Voldemort	Neville	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Voldemort	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Voldemort	score:0.8177874186550976
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550975
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8177874186550975
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177874186550973
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Malfoy	score:0.8177874154994929
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8177873699111691
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8177873699111691
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177873699111691
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hagrid	score:0.8177873699111691
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177873699111691
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8177873699111691
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177873699111691
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.8177873699111691
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hagrid	score:0.8177873699111691
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.8177873211672404
+pattern_bef: Friend
+passive voice: False
+
+instance: Neville	Ginny	score:0.7586133403433434
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hagrid	score:0.7470387905894221
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ginny	score:0.7418826658246979
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.7404201545157956
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Voldemort	score:0.7396314303787468
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.7390665055333965
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.7169678360490687
+pattern_bef: Friend
+passive voice: False
+
+instance: Voldemort	Harry	score:0.7157915702434978
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.7069209401617548
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Ron	score:0.7068412185963535
+pattern_bef: Friend
+passive voice: False
+
+instance: Voldemort	Harry	score:0.7066009874882118
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.7044281989306154
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.7044281989306154
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.7043708442323008
+pattern_bef: Friend
+passive voice: False
+
+instance: Ginny	Harry	score:0.7043708442323008
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.7043708442323008
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.7033966770041333
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.6959652964332436
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.6946687592502937
+pattern_bef: Friend
+passive voice: False
+
+instance: Voldemort	Snape	score:0.6945283331422916
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.6923259024979975
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Snape	score:0.6894721918384616
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.6876474810347879
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Ron	score:0.6806890265026216
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.6806890265026216
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.6806890265026216
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.6806890265026216
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.6774531259848542
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.6771742536059705
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.675078949122599
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Snape	score:0.6718025696251759
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	Harry	score:0.6709446271375109
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.6691784780191352
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.6691759087659881
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.6654288339547497
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.6653514518431318
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Neville	score:0.6653006662205303
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	Hermione	score:0.6638499445776808
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	Harry	score:0.662486020121751
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Voldemort	score:0.6618545132036405
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.6596561916717878
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Ron	score:0.6572326425692414
+pattern_bef: Friend
+passive voice: False
+
+instance: Dudley	Harry	score:0.6549373165645723
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.6549373165645723
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.6549373165645723
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Malfoy	score:0.6549251617571608
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Voldemort	score:0.6549251305824246
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.6549251305824246
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Snape	score:0.6549251305824246
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.6545941401615338
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.6511072136316279
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.6511072136316279
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.6496959185891835
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.649447345430871
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.648439953344554
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.6410417617362161
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Ron	score:0.6400211869765259
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	Ron	score:0.6388928960839911
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.6363484781890009
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.6337867229083746
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.6337867229083746
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.6337867229083746
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.6337867229083746
+pattern_bef: Friend
+passive voice: False
+
+instance: Voldemort	Snape	score:0.6337867229083746
+pattern_bef: Friend
+passive voice: False
+
+instance: Snape	Voldemort	score:0.6337867229083746
+pattern_bef: Friend
+passive voice: False
+
+instance: Voldemort	Neville	score:0.6337867229083746
+pattern_bef: Friend
+passive voice: False
+
+instance: Malfoy	Voldemort	score:0.6297052572780633
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Ron	score:0.6273593289183385
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.624876944477513
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ginny	score:0.622181286242328
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Ron	score:0.6202999805169388
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Ron	score:0.6185064455433678
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.6178744788613328
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.608322304416443
+pattern_bef: Friend
+passive voice: False
+
+instance: Snape	Harry	score:0.608322304416443
+pattern_bef: Friend
+passive voice: False
+
+instance: Snape	Dumbledore	score:0.6068144763898115
+pattern_bef: Friend
+passive voice: False
+
+instance: Voldemort	Dumbledore	score:0.6056578404945363
+pattern_bef: Friend
+passive voice: False
+
+instance: Malfoy	Harry	score:0.6028361107368302
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.5998501943145553
+pattern_bef: Friend
+passive voice: False
+
+instance: Voldemort	Harry	score:0.5991113381044929
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.5962138484977589
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Dudley	score:0.5922480912115465
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Dudley	score:0.5885924915429569
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.5877006422517134
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hagrid	score:0.5863395471634937
+pattern_bef: Friend
+passive voice: False
+
+instance: Voldemort	Harry	score:0.5848651418011217
+pattern_bef: Friend
+passive voice: False
+
+instance: Neville	Harry	score:0.5848316150303361
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hagrid	score:0.5848058194503867
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hagrid	score:0.5848058194503867
+pattern_bef: Friend
+passive voice: False
+
+instance: Neville	Harry	score:0.5848058194503867
+pattern_bef: Friend
+passive voice: False
+
+instance: Malfoy	Harry	score:0.5807906948095922
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.5803917642529254
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.578624065682583
+pattern_bef: Friend
+passive voice: False
+
+instance: Ginny	Harry	score:0.5750020505807922
+pattern_bef: Friend
+passive voice: False
+
+instance: Neville	Harry	score:0.5720384284599975
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	Harry	score:0.5709803352645576
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	Harry	score:0.5709803352645576
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.5701233056373218
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hagrid	score:0.569997558017089
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	Harry	score:0.5696419752212594
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Ron	score:0.5696419732172422
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.5645577942018792
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.5642804198399938
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.5617367316223277
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.5616057566862044
+pattern_bef: Friend
+passive voice: False
+
+instance: Voldemort	Harry	score:0.5575720490314409
+pattern_bef: Friend
+passive voice: False
+
+instance: McGonagall	Snape	score:0.5565692228264829
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Ron	score:0.555668010698676
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.5550608131237297
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.5519004497053678
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.5516055637110078
+pattern_bef: Friend
+passive voice: False
+
+instance: Neville	Harry	score:0.5512057520820882
+pattern_bef: Friend
+passive voice: False
+
+instance: Voldemort	Dumbledore	score:0.5500677001097153
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.5463538789180251
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.5463538789180251
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.5463538789180251
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.5463538789180251
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.5463538789180251
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.5463538789180251
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	Snape	score:0.5435235164824835
+pattern_bef: Friend
+passive voice: False
+
+instance: Malfoy	Voldemort	score:0.5397795325355015
+pattern_bef: Friend
+passive voice: True
+
+instance: Harry	Hagrid	score:0.5397795325355015
+pattern_bef: Friend
+passive voice: False
+
+instance: Voldemort	Harry	score:0.5391071324039102
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.5375262559623883
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.5369606801589503
+pattern_bef: Friend
+passive voice: False
+
+instance: Voldemort	Harry	score:0.5336238811920025
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.5312128653608605
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.5302078912677062
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Ron	score:0.530077501258726
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Snape	score:0.5289433178326673
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Voldemort	score:0.526855917530308
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.5263822067711468
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	Harry	score:0.5250674320430397
+pattern_bef: Friend
+passive voice: False
+
+instance: Malfoy	Snape	score:0.5225794357183893
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	Harry	score:0.5207810104539752
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.5203268145273668
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.517494530652378
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Neville	score:0.5169884496021293
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.5165275665012202
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.5113673780906779
+pattern_bef: Friend
+passive voice: False
+
+instance: Malfoy	Hermione	score:0.5113673780906778
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.5091879651443033
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.5082244769611483
+pattern_bef: Friend
+passive voice: False
+
+instance: Neville	Hermione	score:0.505414653025473
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ginny	score:0.5052366691142515
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.5049484432674524
+pattern_bef: Friend
+passive voice: False
+
+instance: Malfoy	Harry	score:0.5036526202253789
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.5033899789533544
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.5012021708095222
+pattern_bef: Friend
+passive voice: False
+
+instance: Snape	Harry	score:0.49912952550430756
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.49480385920281666
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.494691134495846
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.49261619947295576
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Malfoy	score:0.4917545672155469
+pattern_bef: Friend
+passive voice: False
+
+instance: Malfoy	Harry	score:0.4908434922927942
+pattern_bef: Friend
+passive voice: False
+
+instance: Voldemort	Snape	score:0.4906587712301458
+pattern_bef: Friend
+passive voice: False
+
+instance: Voldemort	Harry	score:0.4905983603996855
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Voldemort	score:0.48977419341483186
+pattern_bef: Friend
+passive voice: False
+
+instance: Voldemort	Harry	score:0.48945938378386933
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Ron	score:0.4870811677625637
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.48685820953447756
+pattern_bef: Friend
+passive voice: False
+
+instance: Snape	Dumbledore	score:0.4826154649658385
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Ron	score:0.48206035966209726
+pattern_bef: Friend
+passive voice: False
+
+instance: Snape	Dumbledore	score:0.48094575829810426
+pattern_bef: Friend
+passive voice: False
+
+instance: Snape	Dumbledore	score:0.47976127054089057
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.4776197082257707
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Malfoy	score:0.47761970702633083
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.47747844900843917
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.477280368773901
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Snape	score:0.47442836012080225
+pattern_bef: Friend
+passive voice: False
+
+instance: Voldemort	Harry	score:0.4744059880488348
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.4729494707186155
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Snape	score:0.47244071764110385
+pattern_bef: Friend
+passive voice: False
+
+instance: Voldemort	Malfoy	score:0.47236055592008885
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.46986420381253424
+pattern_bef: Friend
+passive voice: False
+
+instance: McGonagall	Harry	score:0.46677512602795757
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Snape	score:0.46646909872546094
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ginny	score:0.4643560619463043
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	Harry	score:0.4643560619463043
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	Harry	score:0.46412735582690956
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.4639235909138125
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.463375505193633
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Voldemort	score:0.4632170629604778
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.46270842693042036
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.46270842693042036
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.46270842693042036
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.4627084230544898
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	Harry	score:0.4623212957847662
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.4613304870084556
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.46105081267587655
+pattern_bef: Friend
+passive voice: True
+
+instance: Harry	Hagrid	score:0.459906767112366
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.4589261687597961
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.4579529618971159
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.45620788100484655
+pattern_bef: Friend
+passive voice: False
+
+instance: Malfoy	Harry	score:0.44992987944989227
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.44895000965002274
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.44850083222358195
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.44775500746296315
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.44446786925600756
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.44332858526019003
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Malfoy	score:0.44332858526019003
+pattern_bef: Friend
+passive voice: False
+
+instance: Voldemort	Malfoy	score:0.4428069666405534
+pattern_bef: Friend
+passive voice: False
+
+instance: Snape	Dumbledore	score:0.4417335138039131
+pattern_bef: Friend
+passive voice: False
+
+instance: Snape	Dumbledore	score:0.4417335138039131
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Hagrid	score:0.43841771189923406
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.42959609094612816
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hagrid	score:0.4293772242074416
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Ron	score:0.4286332456253614
+pattern_bef: Friend
+passive voice: False
+
+instance: Voldemort	Harry	score:0.4284173775753157
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.4283164100895218
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	Harry	score:0.42748254770312033
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	Harry	score:0.42748254770312033
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	Harry	score:0.4247764797634779
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Ron	score:0.4232196810925273
+pattern_bef: Friend
+passive voice: False
+
+instance: Snape	Dumbledore	score:0.423207120238571
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Snape	score:0.42160622675198867
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.42069666168436304
+pattern_bef: Friend
+passive voice: False
+
+instance: Voldemort	Ron	score:0.4179798700804307
+pattern_bef: Friend
+passive voice: False
+
+instance: Voldemort	Harry	score:0.41728639020837055
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Ron	score:0.40951183108600775
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.4067836029503692
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Ron	score:0.4065721838577556
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Ginny	score:0.4058220180604213
+pattern_bef: Friend
+passive voice: False
+
+instance: Snape	Harry	score:0.4028509732440857
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.40003971949887696
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.39971634200341766
+pattern_bef: Friend
+passive voice: False
+
+instance: Neville	Ron	score:0.3985859282363262
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Ron	score:0.3975473413498438
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	Harry	score:0.3966807230434294
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Snape	score:0.3887623183761003
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hagrid	score:0.3874193746597768
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Ron	score:0.38680751844755745
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.3796075441751867
+pattern_bef: Friend
+passive voice: False
+
+instance: Voldemort	Harry	score:0.37754468525355556
+pattern_bef: Friend
+passive voice: False
+
+instance: Snape	Harry	score:0.37696057911914593
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.37319689749895624
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.3731968786533244
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Ron	score:0.3723274769508085
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Snape	score:0.36907834269503204
+pattern_bef: Friend
+passive voice: False
+
+instance: Malfoy	Harry	score:0.3686908112704931
+pattern_bef: Friend
+passive voice: False
+
+instance: Snape	Ginny	score:0.36788539346024685
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Ron	score:0.3672065711078798
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Snape	score:0.3655316930288455
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.36230852747428965
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	Snape	score:0.3608355104402545
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.36065608517760683
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.36055186940377293
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.35598998433149986
+pattern_bef: Friend
+passive voice: False
+
+instance: McGonagall	Harry	score:0.3556758192511287
+pattern_bef: Friend
+passive voice: False
+
+instance: Voldemort	Neville	score:0.3552896075140076
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.3522162361423231
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.3512189944607438
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.3481319381836625
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.3469073846616655
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.34624397024737164
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.3443223467665152
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.3360406680763932
+pattern_bef: Friend
+passive voice: False
+
+instance: Voldemort	Harry	score:0.33298467385168196
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.3329242244858496
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.33285232770727413
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.33285232770727413
+pattern_bef: Friend
+passive voice: False
+
+instance: Voldemort	Harry	score:0.32999144905042754
+pattern_bef: Friend
+passive voice: False
+
+instance: Voldemort	McGonagall	score:0.32899332912321677
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.32056010816723046
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	Snape	score:0.32040585800520516
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.3132327989616519
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hagrid	score:0.3115912169992112
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Voldemort	score:0.3058497510737297
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	Snape	score:0.29684474754329915
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	Snape	score:0.29684474754329915
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.2950217747765871
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Neville	score:0.2950217747765871
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.28134237614474433
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	Harry	score:0.2770450626562577
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Neville	score:0.2768865883814927
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Ron	score:0.2735825376888159
+pattern_bef: Friend
+passive voice: False
+
+instance: Voldemort	Snape	score:0.25009939455934305
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ginny	score:0.21702603788699804
+pattern_bef: Friend
+passive voice: False
+

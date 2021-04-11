@@ -77,13 +77,13 @@ def main():
 
 
 
-    with open("friends.json", "w") as outfile: 
+    with open("data/friends.json", "w") as outfile: 
         json.dump(friends, outfile)
 
-    with open("foes.json", "w") as outfile: 
+    with open("data/foes.json", "w") as outfile: 
         json.dump(foes, outfile)
 
-    with open("neutrals.json", "w") as outfile: 
+    with open("data/neutrals.json", "w") as outfile: 
         json.dump(neutrals, outfile)
 
 if __name__ == '__main__':

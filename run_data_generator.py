@@ -1,10 +1,10 @@
 import spacy
 import json 
-from spacy_help_functions import get_entities, create_entity_pairs
 from spacy.language import Language
 from spacy.tokens import Span
 from processors.utils import read_file
 from processors.nlp_provider import NlpProvider
+from processors.spacy_help_functions import get_entities, create_entity_pairs
 import random
 
 def write_checkpoint(text: str, file="checkpoint.txt"):
@@ -56,15 +56,15 @@ def main():
                     "docid": "docid:" + str(i),
                     "relation": "per:title",
                     "token": [token.text for token in sent],
-                    "subj_start": ep[1][0],
-                    "subj_end": ep[1][1],
-                    "obj_start": ep[2][0],
-                    "obj_end": ep[2][1],
+                    "subj_start": int(ep[1][2][0]),
+                    "subj_end": int(ep[1][2][1]),
+                    "obj_start": int(ep[2][2][0]),
+                    "obj_end": int(ep[2][2][1]),
                     "subj_type": "PERSON",
                     "obj_type": "PERSON",
                     "stanford_pos": [token.pos_ for token in sent],
                     "stanford_ner": [token.ent_type_ if token.ent_type_ != "" else "0" for token in sent],
-                    "stanford_head": [token.head.i for token in sent],
+                    "stanford_head": [token.head.i - sent.start for token in sent],
                     "stanford_deprel": [token.dep_ for token in sent],
                 }
 

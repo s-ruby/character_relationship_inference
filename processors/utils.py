@@ -8,7 +8,7 @@ def expand_person_entities(doc):
         # Only check for title if it's a person and not the first token
         if ent.label_ == "PERSON" and ent.start != 0:
             prev_token = doc[ent.start - 1]
-            if prev_token.text in ("Dr", "Dr.", "Mr", "Mr.", "Ms", "Ms."):
+            if prev_token.text in ("Dr", "Dr.", "Mr", "Mr.", "Ms", "Ms.", "Mrs.", "Mrs"):
                 new_ent = Span(doc, ent.start - 1, ent.end, label=ent.label)
                 new_ents.append(new_ent)
             else:

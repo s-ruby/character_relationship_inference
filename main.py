@@ -25,7 +25,7 @@ spanbert = SpanBERT("./pretrained_spanbert")
 doc = nlp(text)  
 
 for sentence in doc.sents:  
-    # print("\n\nProcessing entence: {}".format(sentence))
+    print("\n\nProcessing entence: {}".format(sentence))
     # print("Tokenized sentence: {}".format([token.text for token in sentence]))
     ents = get_entities(sentence, entities_of_interest)
     # print("spaCy extracted entities: {}".format(ents))
@@ -43,12 +43,12 @@ for sentence in doc.sents:
     for ep in sentence_entity_pairs:
         # for enty in entity_pair:  
         if ep[1][1] == "PERSON" and ep[2][1] == "PERSON":#if  correct entity pair for relation we are checking for -- add
-#               print("true") 
-                print("\n\nProcessing entence: {}".format(sentence))
-                # print("Tokenized sentence: {}".format([token.text for token in sentence]))
-                candidate_pairs.append({"tokens": ep[0], "subj": ep[1], "obj": ep[2]})  # e1=Subject, e2=Object
-                candidate_pairs.append({"tokens": ep[0], "subj": ep[2], "obj": ep[1]})  # e1=Object, e2=Subject
-                break
+#           print("true") 
+            print("\n\nProcessing entence: {}".format(sentence))
+            # print("Tokenized sentence: {}".format([token.text for token in sentence]))
+            candidate_pairs.append({"tokens": ep[0], "subj": ep[1], "obj": ep[2]})  # e1=Subject, e2=Object
+            candidate_pairs.append({"tokens": ep[0], "subj": ep[2], "obj": ep[1]})  # e1=Object, e2=Subject
+            break
 
     candidate_pairs = [p for p in candidate_pairs if not p["subj"][1] in ["DATE", "LOCATION"]]  # ignore subject entities with date/location type
     

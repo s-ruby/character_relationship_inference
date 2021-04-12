@@ -3,11 +3,11 @@ import json
 import random
 import argparse
 import numpy as np
-from spacy_help_functions import get_entities, create_entity_pairs
 from spacy.language import Language
 from spacy.tokens import Span
 from processors.utils import read_file
 from processors.nlp_provider import NlpProvider
+from processors.spacy_help_functions import get_entities, create_entity_pairs
 
 def write_checkpoint(text: str, file='checkpoint.txt'):
     f = open(file, 'w')
@@ -89,7 +89,7 @@ def main():
                 print(sent)
                 print('========')
                 print(ep[1], ep[2])
-                label = input('\nDoes this indicate:\n\t[0] friend\n\t[1] foe\n\t[2] no relation\n')
+                label = input('\nDoes this indicate:\n\t[0] friend\n\t[1] foe\n\t[2] no relation\n\t[other  ] skip\n')
             
                 if label == '0':
                     example['relation'] = 'per:friend'
@@ -100,6 +100,7 @@ def main():
                 elif label == '2':
                     example['relation'] = 'no_relation'
                     neutrals.append(example)
+            
                 
                 print('Current Lengths: \n\tFriends: ' + str(len(friends)) + '\n\tFoes: ' + str(len(foes)) + '\n\tNo Relation: ' + str(len(neutrals)))
 

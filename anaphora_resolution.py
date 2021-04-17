@@ -13,17 +13,19 @@ import neuralcoref
 
 nlp = spacy.load('en')
 
-rare_words  = {'Petunia' : ['woman', 'Mrs. Dursley', 'her'], 'Vernon' : ['man', 'Mr. Dursley', 'him'],
-               'Dudley' : ['man', 'boy'], 'Ron' : ['man', 'boy'], 'Hagrid' : ['man'], 'Albus Dumbledore' : ['Albus', 'headmaster', 'him', 'he'], 
-               'Draco' : ['man', 'boy'], 'Professor McGongall' : ['woman', 'McGongall'], 'Professor Snape' : ['man', 'Snape', 'him', 'he'],
-               'Professor Quirrell' : ['man', 'Quirrell'], 'Harry' : ['man', 'boy', 'Harry Potter', 'Potter', 'him', 'he'], 
-               'Hermione' : ['woman', 'girl', 'Hermione Granger', 'her']}
+rare_words  = {'petunia' : ['woman', 'mrs. dursley', 'her'], 'vernon' : ['man', 'mr. dursley', 'him'],
+               'dudley' : ['man', 'boy'], 'Ron' : ['man', 'boy'], 'hagrid' : ['man'], 'albus dumbledore' : ['albus', 'headmaster', 'him', 'he'], 
+               'draco' : ['man', 'boy', 'malfoy'], 'professor mcgongall' : ['woman', 'mcgongall'], 'professor snape' : ['man', 'snape', 'him', 'he'],
+               'professor quirrell' : ['man', 'quirrell'], 'harry' : ['man', 'boy', 'harry potter', 'potter', 'him', 'he'], 
+               'hermione' : ['woman', 'girl', 'hermione granger', 'her']}
+
 neuralcoref.add_to_pipe(nlp, max_dist=100)
 
 nlp.get_pipe('neuralcoref').set_conv_dict(rare_words)
 f = open("harrypotter1.txt")
 f1 = open("harrypotter1_clean.txt", 'w')
 
+"""replace punctuation with special char inside quotes so conversations are not treated as individual sentences"""
 def removePunctFromQuotes(text):
     returnText = ""
     count = 0
@@ -45,12 +47,16 @@ def removePunctFromQuotes(text):
         count += 1
     return returnText + text[quoteStart::]
 
+"""add punctuation back to conversation"""
 def returnPunctFromQuotes(text):
     include = {'/' : '!', '$' : '.', '|' : '?'}
     for symb in include:
         text = text.replace(symb, include[symb])
     return text
-        
+
+posessive_pronouns = ["his", "her", "their"]
+
+"""concatenate 's to character's name if available and remove ['s]"""
 def addPossession(line):
     line_list = line.split()
     i = 0
@@ -61,15 +67,15 @@ def addPossession(line):
             line_list.pop(i)
         i += 1
     text = " ".join(line_list)
-    text = text.replace("he's", "his").replace("she's", "her").replace("they's", "their")
-    return " ".join(line_list)
+    text = text.replace("he's", "his")
+    text = text.replace("she's", "her")
+    text = text.replace("they's", "their")
+    return text
 
-
-        
-posessive_pronouns = ["his", "her", "their"]
 
 text =  ""
 
+"""neuralcoref has issues with mr. and mrs. names for some reason."""
 for line in f:
     line = line.replace(". . .", "...")
     line = line.replace("...", "")
@@ -78,7 +84,8 @@ for line in f:
     line = line.replace("You-Know-Who", "Voldemort")
     line = line.replace("Mr. Potter", "Potter")
     text += line.lower()
-    
+
+"""euralcoref doesn't do posession. insert ['s] to concatenate later to character's name. n"""
 i = 0
 word_list = text.split()
 for word in word_list:
@@ -96,7 +103,7 @@ sentences = []
 for t in tokens:
     sentences.append(t)
 
-
+"""anaphora resolution at single sentence level"""
 for sentence in sentences:
     doc = nlp(sentence)
     doc._.has_coref
@@ -106,9 +113,10 @@ for sentence in sentences:
 f1.close()
 
 f1 = open("harrypotter1_clean.txt")
-    
 f2 = open("harrypotter1_final.txt", "w")
 
+
+"""anaphora resolution at two sentence level"""
 sentences = []
 for line in f1:
     sentences.append(line)

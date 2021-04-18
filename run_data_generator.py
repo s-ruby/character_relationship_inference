@@ -67,6 +67,9 @@ def main():
                 if ep[1][1] != 'PERSON' or ep[2][1] != 'PERSON':
                     continue    
 
+                if not isinstance(ep[1][2][0], int) or not isinstance(ep[1][2][1], int) or not isinstance(ep[2][2][0], int) or not isinstance(ep[2][2][1], int):
+                    continue
+                    
                 example = {
                     'id': 'example:' + str(i),
                     'docid': 'docid:' + str(i),
@@ -123,17 +126,17 @@ def distribute_dataset():
     foe_parts = np.array_split(foes, 3)
     neutral_parts = np.array_split(neutrals, 3)
 
-    train.append(list(friend_parts[0]))
-    train.append(list(foe_parts[0]))
-    train.append(list(neutral_parts[0]))
+    train.extend(list(friend_parts[0]))
+    train.extend(list(foe_parts[0]))
+    train.extend(list(neutral_parts[0]))
 
-    test.append(list(friend_parts[1]))
-    test.append(list(foe_parts[1]))
-    test.append(list(neutral_parts[1]))
+    test.extend(list(friend_parts[1]))
+    test.extend(list(foe_parts[1]))
+    test.extend(list(neutral_parts[1]))
 
-    dev.append(list(friend_parts[2]))
-    dev.append(list(foe_parts[2]))
-    dev.append(list(neutral_parts[2]))
+    dev.extend(list(friend_parts[2]))
+    dev.extend(list(foe_parts[2]))
+    dev.extend(list(neutral_parts[2]))
 
     with open('data/train.json', 'w') as outfile:
         json.dump(train, outfile)

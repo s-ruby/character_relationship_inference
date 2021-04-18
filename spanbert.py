@@ -19,7 +19,7 @@ from scipy.special import softmax
 
 CLS = "[CLS]"
 SEP = "[SEP]"
-default_label_list = ['no_relation', 'per:friend', 'org:top_members/employees', 'per:employee_of', 'org:alternate_names', 'org:country_of_headquarters', 'per:countries_of_residence', 'per:age', 'org:city_of_headquarters', 'per:cities_of_residence', 'per:stateorprovinces_of_residence', 'per:origin', 'org:subsidiaries', 'org:parents', 'per:spouse', 'org:stateorprovince_of_headquarters', 'per:children', 'per:other_family', 'org:members', 'per:siblings', 'per:parents', 'per:schools_attended', 'per:date_of_death', 'org:founded_by', 'org:member_of', 'per:cause_of_death', 'org:website', 'org:political/religious_affiliation', 'per:alternate_names', 'org:founded', 'per:city_of_death', 'org:shareholders', 'org:number_of_employees/members', 'per:charges', 'per:city_of_birth', 'per:date_of_birth', 'per:religion', 'per:stateorprovince_of_death', 'per:stateorprovince_of_birth', 'per:country_of_birth', 'org:dissolved', 'per:country_of_death']
+default_label_list = ['no_relation', 'per:friend', 'per:foe', 'org:top_members/employees', 'per:employee_of', 'org:alternate_names', 'org:country_of_headquarters', 'per:countries_of_residence', 'per:age', 'org:city_of_headquarters', 'per:cities_of_residence', 'per:stateorprovinces_of_residence', 'per:origin', 'org:subsidiaries', 'org:parents', 'per:spouse', 'org:stateorprovince_of_headquarters', 'per:children', 'per:other_family', 'org:members', 'per:siblings', 'per:parents', 'per:schools_attended', 'per:date_of_death', 'org:founded_by', 'org:member_of', 'per:cause_of_death', 'org:website', 'org:political/religious_affiliation', 'per:alternate_names', 'org:founded', 'per:city_of_death', 'org:shareholders', 'org:number_of_employees/members', 'per:charges', 'per:city_of_birth', 'per:date_of_birth', 'per:religion', 'per:stateorprovince_of_death', 'per:stateorprovince_of_birth', 'per:country_of_birth', 'org:dissolved', 'per:country_of_death']
 special_tokens = {'SUBJ_START': '[unused1]', 'SUBJ_END': '[unused2]', 'OBJ_START': '[unused3]', 'OBJ_END': '[unused4]', 'SUBJ=PERSON': '[unused5]', 'OBJ=TITLE': '[unused6]', 'OBJ=PERSON': '[unused7]', 'OBJ=CITY': '[unused8]', 'SUBJ=ORGANIZATION': '[unused9]', 'OBJ=DATE': '[unused10]', 'OBJ=MISC': '[unused11]', 'OBJ=ORGANIZATION': '[unused12]', 'OBJ=NATIONALITY': '[unused13]', 'OBJ=NUMBER': '[unused14]', 'OBJ=RELIGION': '[unused15]', 'OBJ=URL': '[unused16]', 'OBJ=CAUSE_OF_DEATH': '[unused17]', 'OBJ=COUNTRY': '[unused18]', 'OBJ=DURATION': '[unused19]', 'OBJ=STATE_OR_PROVINCE': '[unused20]', 'OBJ=LOCATION': '[unused21]', 'OBJ=CRIMINAL_CHARGE': '[unused22]', 'OBJ=IDEOLOGY': '[unused23]'} 
 
 class InputExample(object):
@@ -149,6 +149,7 @@ def predict(model, device, eval_dataloader, verbose=True):
 
 class SpanBERT:
     def __init__(self, pretrained_dir, model="spanbert-base-cased", model_label_list=default_label_list):
+        print(len(model_label_list), "length list model list")
         assert os.path.exists(pretrained_dir), "Pre-trained model folder does not exist: {}".format(pretrained_dir)
         self.seed = 42
         self.max_seq_length = 128
@@ -157,9 +158,9 @@ class SpanBERT:
         self.n_gpu = torch.cuda.device_count()
         self.fp16 = self.n_gpu > 0
         self._set_seed()
-        self.label2id = {label: i for i, label in enumerate(label_list)}
-        self.id2label = {i: label for i, label in enumerate(label_list)}
-        self.num_labels = len(label_list)    
+        self.label2id = {label: i for i, label in enumerate(model_label_list)}
+        self.id2label = {i: label for i, label in enumerate(model_label_list)}
+        self.num_labels = len(model_label_list)    
         #self.tokenizer = AutoTokenizer.from_pretrained("SpanBERT/spanbert-base-cased", do_lower_case=False)
         self.tokenizer = BertTokenizer.from_pretrained(model, do_lower_case=False)
 

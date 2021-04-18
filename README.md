@@ -47,6 +47,6 @@ python3 run_train_spanbert.py \
 
 ```
 # Optionally pass custom span bert model
-python3 main.py --model_dir=span_bert_training_output
+python3 main.py --model_dir=span_bert_training_output --min_conf=0.45
 ```
 

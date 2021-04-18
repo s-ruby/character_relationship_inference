@@ -149,7 +149,6 @@ def predict(model, device, eval_dataloader, verbose=True):
 
 class SpanBERT:
     def __init__(self, pretrained_dir, model="spanbert-base-cased", model_label_list=default_label_list):
-        print(len(model_label_list), "length list model list")
         assert os.path.exists(pretrained_dir), "Pre-trained model folder does not exist: {}".format(pretrained_dir)
         self.seed = 42
         self.max_seq_length = 128

@@ -13,17 +13,24 @@ import neuralcoref
 
 nlp = spacy.load('en')
 
-rare_words  = {'petunia' : ['woman', 'mrs. dursley', 'her'], 'vernon' : ['man', 'mr. dursley', 'him'],
-               'dudley' : ['man', 'boy'], 'Ron' : ['man', 'boy'], 'hagrid' : ['man'], 'albus dumbledore' : ['albus', 'headmaster', 'him', 'he'], 
-               'draco' : ['man', 'boy', 'malfoy'], 'professor mcgongall' : ['woman', 'mcgongall'], 'professor snape' : ['man', 'snape', 'him', 'he'],
-               'professor quirrell' : ['man', 'quirrell'], 'harry' : ['man', 'boy', 'harry potter', 'potter', 'him', 'he'], 
-               'hermione' : ['woman', 'girl', 'hermione granger', 'her']}
+rare_words  = {'Petunia' : ['woman', 'Mistress Dursley', 'her'], 'Vernon' : ['man', 'Mister Dursley', 'him'],
+               'Dudley' : ['man', 'boy'], 'Ron' : ['man', 'boy'], 'Hagrid' : ['man'], 'Albus Dumbledore' : ['Albus', 'headmaster', 'him', 'he'], 
+               'Draco' : ['man', 'boy', 'Malfoy'], 'McGongall' : ['woman', 'McGongall', 'professor'], ' Snape' : ['man', 'Snape', 'him', 'he', 'professor', 'Severus'],
+               'Professor Quirrell' : ['man', 'Quirrell'], 'Harry' : ['man', 'boy', 'Harry Potter', 'Potter', 'his'], 
+               'Hermione' : ['she', 'woman', 'girl', 'Hermione granger', 'her'], 'Ginny' : ['she', 'her', 'woman', 'girl'], 
+               "Argus Flich" : ['he', 'man'], 'Voldemort' : ['man', 'the Dark Lord', 'his', 'Lord Voldemort']}
 
-neuralcoref.add_to_pipe(nlp, max_dist=100)
+neuralcoref.add_to_pipe(nlp, max_dist_match=1000, greedyness=.40)
+
+hp_num = input("Enter harry potter book #: ")
 
 nlp.get_pipe('neuralcoref').set_conv_dict(rare_words)
-f = open("harrypotter1.txt")
-f1 = open("harrypotter1_clean.txt", 'w')
+
+source_file = f"harrypotter{hp_num}.txt"
+temp_file = f"harrypotter{hp_num}_clean.txt"
+
+f = open(source_file)
+f1 = open(temp_file, 'w')
 
 """replace punctuation with special char inside quotes so conversations are not treated as individual sentences"""
 def removePunctFromQuotes(text):
@@ -76,16 +83,22 @@ def addPossession(line):
 text =  ""
 
 """neuralcoref has issues with mr. and mrs. names for some reason."""
+footer = "Harry Potter and the Goblet of Fire - J.K. Rowling "
 for line in f:
-    line = line.replace(". . .", "...")
-    line = line.replace("...", "")
-    line = line.replace("Mr. Dursley", "Vernon")
-    line = line.replace("Mrs. Dursley", "Petunia")
-    line = line.replace("You-Know-Who", "Voldemort")
-    line = line.replace("Mr. Potter", "Potter")
-    text += line.lower()
+    if "Page |" not in line and line.upper() != line:
+        line = line.replace(". . .", "")
+        line = line.replace("...", "")
+        line = line.replace("Mr. Dursley", "Vernon")
+        line = line.replace("Mrs. Dursley", "Petunia")
+        line = line.replace("You-Know-Who", "Voldemort").replace("the Dark Lord", "Voldemort")
+        line = line.replace("Mr. Potter", "Potter")
+        line = line.replace("Mrs. Weasley", "Molly")
+        line = line.replace("Mr. Weasley", "Arthur")
+        line = line.replace("Mrs.", "Mistress")
+        line = line.replace("Mr.", "Mister")
+        text += line
 
-"""euralcoref doesn't do posession. insert ['s] to concatenate later to character's name. n"""
+"""neuralcoref doesn't do posession correctly. insert ['s] to concatenate later to character's name."""
 i = 0
 word_list = text.split()
 for word in word_list:
@@ -111,14 +124,18 @@ for sentence in sentences:
     f1.write(f"{line} \n")
     
 f1.close()
+print("single sentence completed")
 
-f1 = open("harrypotter1_clean.txt")
-f2 = open("harrypotter1_final.txt", "w")
+final_file = f"harrypotter{hp_num}_final.txt"
+
+f1 = open(temp_file)
+f2 = open(final_file, "w")
 
 
 """anaphora resolution at two sentence level"""
 sentences = []
 for line in f1:
+    line = line.replace("..", ".")
     sentences.append(line)
 
 sentence_one = sentences[0]
@@ -142,6 +159,7 @@ for i in range(1, len(sentences)):
 sent = returnPunctFromQuotes(tokens[1])
 sent = addPossession(sent)
 f2.write(sent)
+print("Final anaphora resolution completed")
 
 
 f.close()

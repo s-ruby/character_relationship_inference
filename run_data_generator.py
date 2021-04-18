@@ -46,7 +46,7 @@ def write_raw_example_files(friends, foes, neutrals):
 
 def main():
     provider = NlpProvider() 
-    doc = provider.process_file('harrypotter1_preprocessed.txt')
+    doc = provider.process_file(args.text_file)
 
     (friends, foes, neutrals) = read_raw_example_files()
     
@@ -92,7 +92,7 @@ def main():
                 print(sent)
                 print('========')
                 print(ep[1], ep[2])
-                label = input('\nDoes this indicate:\n\t[0] friend\n\t[1] foe\n\t[2] no relation\n\t[other  ] skip\n')
+                label = input('\nDoes this indicate:\n\t[0] friend\n\t[1] foe\n\t[2] no relation\n\t[other] skip\n')
             
                 if label == '0':
                     example['relation'] = 'per:friend'
@@ -150,6 +150,7 @@ def distribute_dataset():
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument("--skip_data_gen", default=False, type=bool, required=False)
+    parser.add_argument("--text_file", default="anaphora_resolution/harrypotter1_final.txt", type=str, required=False)
     args = parser.parse_args()
     
     if not args.skip_data_gen:

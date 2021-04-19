@@ -22,7 +22,7 @@ If the `bash` command results in an error, try `brew install wget`
 
 ## Training the custom SpanBert Model:
 
-1. Create Training Data run `python3 run_data_generator.py` and manually annotate the relationship in each sentence. You can use a keyboard interrupt to stop generating training data at any time (control + c). Please make sure to check that the setences/entities provided make sense and are in the correct spot. Any sentences that don't make sense should be skipped. We also should try to avoid having too many of one type (i.e. too many no-relations).
+1. Create Training Data run `python3 run_data_generator.py --text_file="anaphora_resolution/harrypotter1_final.txt"` and manually annotate the relationship in each sentence. You can use a keyboard interrupt to stop generating training data at any time (control + c). Please make sure to check that the setences/entities provided make sense and are in the correct spot. Any sentences that don't make sense should be skipped. We also should try to avoid having too many of one type (i.e. too many no-relations).
 
 2. Fine-Tune the SpanBert
 
@@ -47,6 +47,6 @@ python3 run_train_spanbert.py \
 
 ```
 # Optionally pass custom span bert model
-python3 main.py --model_dir=span_bert_training_output --min_conf=0.45
+python3 main.py --model_dir=span_bert_training_output --min_conf=0.45 --text_file="anaphora_resolution/harrypotter1_final.txt"
 ```
 

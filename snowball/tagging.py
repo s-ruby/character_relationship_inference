@@ -16,8 +16,8 @@ def tag_characters(book_num, write_file):
     proc = []
     final = []
 
-    characters = ["Harry", "Riddle", "Voldemort", "Quirrell", "the Dark Lord", "Ron", "Hermione", "Malfoy", "Draco", "Dumbledore", "Snape", "Hagrid", "Ginny", "Dudleyl",
-                "Neville", "McGongall", "Rita", "Umbridge", "Cornelius", "Ballatrix", "Lestrange", "Lucius", "Weasley", "Cho"]
+    characters = ["Harry", "Riddle", "Voldemort", "Quirrell", "the Dark Lord", "Ron", "Hermione", "Malfoy", "Draco", "Dumbledore", "Snape", "Hagrid", "Ginny", "Dudley",
+                "Neville", "McGonagall", "Rita", "Umbridge", "Cornelius", "Ballatrix", "Lucius", "Cho"]
 
     for ch in characters:
         text = text.replace(ch, f"<PER>{ch}</PER>")
@@ -38,11 +38,10 @@ def tag_characters(book_num, write_file):
     
 
 book_num = input("Enter harry poter book# or all: ")
-
 if book_num != "all":
-    write_file = f"hp{book_num}_processed_tag.txt"
+    write_file = f"tagged_text/hp{book_num}_processed_tag.txt"
     tag_characters(book_num, write_file)
 else:
-    write_file = f"hp-all_processed_tag.txt"
+    write_file = f"tagged_text/hp-all_processed_tag.txt"
     for i in range(1, 8):
         tag_characters(str(i), write_file)

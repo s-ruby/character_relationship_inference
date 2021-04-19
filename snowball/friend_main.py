@@ -30,6 +30,10 @@ class BREDS(object):
         self.processed_tuples = list()
         self.candidate_tuples = defaultdict(list)
         self.config = Config(config_file, seeds_file, negative_seeds, similarity, confidence)
+        
+    def getFileName(self):
+        results_file = input("Enter write file name: ")
+        return results_file
 
     def generate_tuples(self, sentences_file):
         """
@@ -135,19 +139,26 @@ class BREDS(object):
 
         return count_matches, matched_tuples
 
-    def write_relationships_to_disk(self):
+    def write_relationships_to_disk(self, results_file):
         print("\nWriting extracted relationships to disk")
-        f_output = open("firend_relationships.txt", "w")
+        f_output = open(results_file, "w")
+        total_scores = {}
         tmp = sorted(list(self.candidate_tuples.keys()), reverse=True)
         for t in tmp:
+            character_pair = tuple(sorted([t.e1, t.e2]))
+            if character_pair not in total_scores:
+                total_scores[character_pair] = t.confidence
+            else:
+                total_scores[character_pair] += t.confidence      
             f_output.write("instance: " + t.e1+'\t'+t.e2+'\tscore:'+str(t.confidence)+'\n')
-            #f_output.write("sentence: "+t.sentence+'\n')
+            f_output.write("sentence: "+t.sentence+'\n')
             f_output.write("pattern_bef: Friend\n")
             if t.passive_voice is False:
                 f_output.write("passive voice: False\n")
             elif t.passive_voice is True:
                 f_output.write("passive voice: True\n")
             f_output.write("\n")
+        print(total_scores)
         f_output.close()
 
     def init_bootstrap(self, tuples):
@@ -322,8 +333,9 @@ class BREDS(object):
 
                 # increment the number of iterations
                 self.curr_iteration += 1
-
-        self.write_relationships_to_disk()
+                
+        results_file = self.getFileName()
+        self.write_relationships_to_disk(results_file)
 
     def cluster_tuples(self, matched_tuples):
         # this is a single-pass clustering
@@ -385,4 +397,6 @@ def main():
             breads.init_bootstrap(tuples=None)
 
 if __name__ == "__main__":
+    if os.path.exists("processed_tuples.pkl"):
+            os.remove("processed_tuples.pkl")
     main()

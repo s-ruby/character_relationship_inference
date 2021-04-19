@@ -22,7 +22,7 @@ If the `bash` command results in an error, try `brew install wget`
 
 ## Training the custom SpanBert Model:
 
-1. Create Training Data run `python3 run_data_generator.py` and manually annotate the relationship in each sentence. You can use a keyboard interrupt to stop generating training data at any time (control + c)
+1. Create Training Data run `python3 run_data_generator.py` and manually annotate the relationship in each sentence. You can use a keyboard interrupt to stop generating training data at any time (control + c). Please make sure to check that the setences/entities provided make sense and are in the correct spot. Any sentences that don't make sense should be skipped. We also should try to avoid having too many of one type (i.e. too many no-relations).
 
 2. Fine-Tune the SpanBert
 

@@ -5,9 +5,9 @@ Demo
 ====
 
 
-python friend_main.py parameters.cfg HP_processed_tag_final.txt friend_seeds_positive.txt friend_seeds_negative.txt 0.5 0.5
+`python friend_main.py parameters.cfg HP_processed_tag_final.txt friend_seeds_positive.txt friend_seeds_negative.txt 0.5 0.5`
 
-python foe_main.py parameters.cfg HP_processed_tag_final.txt foe_seeds_positive.txt foe_seeds_negative.txt 0.5 0.5
+`python foe_main.py parameters.cfg HP_processed_tag_final.txt foe_seeds_positive.txt foe_seeds_negative.txt 0.5 0.5`
 
 You can edit the file it wirtes to on line 140
 

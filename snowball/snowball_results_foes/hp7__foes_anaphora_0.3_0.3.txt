@@ -1,0 +1,2590 @@
+instance: Voldemort	Harry	score:0.054982817869415834
+sentence: “You claim,” said Uncle Vernon, starting to pace yet again, “that this Lord Thing — ” “ — <PER>Voldemort</PER>,” said <PER>Harry</PER> impatiently, “and we’ve been through this about a hundred times already.
+pattern_bef: Foe
+passive voice: False
+
+instance: Dudley	Harry	score:0.054982817869415834
+sentence: “They will torture and kill you like They did my parents !” “Dad,” said <PER>Dudley</PER> in a loud voice, “Dad — I’m going with these Order people.” “<PER>Dudley</PER>,” said <PER>Harry</PER>, “for the first time in your life, you’re talking sense.” He knew that the battle was won.
+pattern_bef: Foe
+passive voice: False
+
+instance: Dudley	Harry	score:0.054982817869415834
+sentence: “Blimey, <PER>Dudley</PER>,” said <PER>Harry</PER> over Aunt Petunia’s renewed sobs, “did the dementors blow a different personality into you?” “Dunno,” muttered <PER>Dudley</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.054982817869415834
+sentence: “Ooh, you look much tastier than Crabbe and Goyle, <PER>Harry</PER>,” said <PER>Hermione</PER>, before catching sight of <PER>Ron</PER>’s raised eyebrows, blushing slightly, and saying, “Oh, you know what I mean — Goyle ’s potion looked like bogies.” “Right then, fake Potters line up over here, please,” said Moody.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.054982817869415834
+sentence: “Miss Granger with Kingsley, again by thestral — ” <PER>Hermione</PER> looked reassured as she answered Kingsley’s smile; <PER>Harry</PER> knew that <PER>Hermione</PER> too lacked confidence on a broomstick.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.054982817869415834
+sentence: “Hold tight now, <PER>Ron</PER>,” said Tonks, and <PER>Harry</PER> saw <PER>Ron</PER> throw a furtive, guilty look at Lupin before placing his hands on either side of her waist.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hagrid	score:0.054982817869415834
+sentence: “I’m cornin’, <PER>Harry</PER>!” <PER>Hagrid</PER> yelled from out of the darkness, but <PER>Harry</PER> could feel the sidecar beginning to sink again: Crouching as low as <PER>Harry</PER> could, <PER>Harry</PER> pointed at the middle of the oncoming figures and yelled, “Impedimental” The jinx hit the middle Death Eater in the chest: For a moment <PER>Harry</PER> was absurdly spread-eagled in midair as though <PER>Harry</PER> had hit an invisible barrier: One of <PER>Harry</PER>'s fellows almost collided with <PER>Harry</PER> — Then the sidecar began to fall in earnest, and the remaining Death Eater shot a curse so close to <PER>Harry</PER> that <PER>Harry</PER> had to duck below the rim of the car, knocking out a tooth on the edge of <PER>Harry</PER>'s seat — “I’m cornin’, <PER>Harry</PER>, I’m cornin’!” <PER>Harry</PER> Potter and the Deathly Hallows - J.K. Rowling A huge hand seized the back of <PER>Harry</PER>’s robes and hoisted <PER>Harry</PER> out of the plummeting sidecar; <PER>Harry</PER> pulled <PER>Harry</PER>'s rucksack with <PER>Harry</PER> as <PER>Harry</PER> dragged <PER>Harry</PER> onto the motorbike’s seat and found himself back-to- back with <PER>Hagrid</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hagrid	score:0.054982817869415834
+sentence: As the curses came shooting across the intervening space again, <PER>Hagrid</PER> swerved and zigzagged: <PER>Harry</PER> knew that <PER>Hagrid</PER> did not dare use the dragon-fire button again, with <PER>Harry</PER> seated so insecurely.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hagrid	score:0.054982817869415834
+sentence: A hooded figure on a broomstick was feet from him, <PER>Harry</PER> saw it raise it arm — With a shout of fury <PER>Hagrid</PER> launched himself off the bike at the Death Eater; to his horror, <PER>Harry</PER> saw both <PER>Hagrid</PER> and the Death Eater falling out of sight, their combined weight too much for the broomstick — Barely gripping the plummeting bike with his knees, <PER>Harry</PER> heard <PER>Voldemort</PER> scream, “Mine\” <PER>Harry</PER> Potter and the Deathly Hallows - J.K. Rowling It was over: He could not see or hear where <PER>Voldemort</PER> was; He glimpsed another Death Eater swooping out of the way and heard, “Avada — ” As the pain from <PER>Harry</PER>’s scar forced his eyes shut, his wand acted of its own accord.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Voldemort	score:0.054982817869415834
+sentence: Behind <PER>Harry</PER> came another scream, “Your wand, Selwyn, give me your wand\” <PER>Harry</PER> felt <PER>Voldemort</PER> before <PER>Harry</PER> saw <PER>Voldemort</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Voldemort	score:0.054982817869415834
+sentence: Behind <PER>Harry</PER> came another scream, “Your wand, Selwyn, give me your wand\” <PER>Harry</PER> felt <PER>Voldemort</PER> before <PER>Harry</PER> saw <PER>Voldemort</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hagrid	Harry	score:0.054982817869415834
+sentence: <PER>Harry</PER> Potter and the Deathly Hallows - J.K. Rowling “<PER>Hagrid</PER>?” <PER>Harry</PER> struggled to raise <PER>Harry</PER> out of the debris of metal and leather that surrounded <PER>Harry</PER>; <PER>Harry</PER>'s hands sank into inches of muddy water as <PER>Harry</PER> tried to stand.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Voldemort	score:0.054982817869415834
+sentence: <PER>Harry</PER> could not understand where <PER>Voldemort</PER> had gone and expected <PER>Voldemort</PER> to swoop out of the darkness at any moment.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.054982817869415834
+sentence: “<PER>Hermione</PER> and Kingsley,” said <PER>Harry</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hagrid	score:0.054982817869415834
+sentence: “Wait till it gets out yeh did it again, <PER>Harry</PER>,” said <PER>Hagrid</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Voldemort	score:0.054982817869415834
+sentence: All the jobs her handed out seemed to keep <PER>Harry</PER>, <PER>Ron</PER>, and <PER>Hermione</PER> away from one another; <PER>Harry</PER> had not had a chance to speak to the two of them alone since the first night, when <PER>Harry</PER> had told them about <PER>Voldemort</PER> torturing Ollivander.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ginny	Harry	score:0.054982817869415834
+sentence: “I think Mum thinks that if Mum can stop the three of you getting together and planning, Mum’ll be able to delay you leaving,” <PER>Ginny</PER> told <PER>Harry</PER> in an undertone, as they laid the table for dinner on the third night of <PER>Harry</PER>'s stay.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.054982817869415834
+sentence: “I can help, some of it’s my mess,” <PER>Harry</PER> told <PER>Ron</PER>, but Molly cut across him.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Harry	score:0.054982817869415834
+sentence: “We were just talking about Mad-Eye,” <PER>Ron</PER> told <PER>Harry</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Hermione	score:0.054982817869415834
+sentence: “Here he goes,” <PER>Ron</PER> said to <PER>Hermione</PER>, rolling his eyes.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.054982817869415834
+sentence: “Do me a favor and don’t tell <PER>Hermione</PER>,” said <PER>Harry</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.054982817869415834
+sentence: “Happy birthday, <PER>Harry</PER>!” said <PER>Hermione</PER>, hurrying into the kitchen and adding <PER>Hermione</PER>'s own present to the top of the pile.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Ron	score:0.054982817869415834
+sentence: “Come on, then, open <PER>Hermione</PER>’s!” said <PER>Ron</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Hermione	score:0.054982817869415834
+sentence: “Sorry.” “<PER>Ron</PER>!” <PER>Hermione</PER> was just behind him, slightly out of breath.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Hermione	score:0.054982817869415834
+sentence: “You’ve really got an eye for that sort of thing.” “Thank you, <PER>Ron</PER>!” said <PER>Hermione</PER>, looking both pleased and a little confused.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.054982817869415834
+sentence: “<PER>Dumbledore</PER> was very fond of <PER>Dumbledore</PER>.” This was stretching the truth to breaking point; as far as <PER>Harry</PER> knew, <PER>Ron</PER> and <PER>Dumbledore</PER> had never been alone together, and direct contact between them had been negligible.
+pattern_bef: Foe
+passive voice: False
+
+instance: Dumbledore	Harry	score:0.054982817869415834
+sentence: Never once, in six years, had <PER>Dumbledore</PER> told <PER>Harry</PER> that they had both lived and lost loved ones in Godric’s Hollow.
+pattern_bef: Foe
+passive voice: False
+
+instance: Dumbledore	Harry	score:0.054982817869415834
+sentence: And <PER>Dumbledore</PER> had never once told <PER>Harry</PER> never bothered to say And why it was so important, <PER>Harry</PER> could not explain even to <PER>Harry</PER>, yet <PER>Harry</PER> felt it had been tantamount to a lie not to tell <PER>Harry</PER> that they had this place and these experiences in common.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Hermione	score:0.054982817869415834
+sentence: “<PER>Ron</PER>!” <PER>Hermione</PER> cried.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Hermione	score:0.054982817869415834
+sentence: “<PER>Hermione</PER>, we haven’t got anything to change into,” <PER>Ron</PER> told <PER>Hermione</PER>, as a young woman burst into raucous giggles at the sight of him.
+pattern_bef: Foe
+passive voice: False
+
+instance: Snape	Harry	score:0.054982817869415834
+sentence: “So where are these jinxes they put up against <PER>Snape</PER>?” <PER>Harry</PER> asked.
+pattern_bef: Foe
+passive voice: False
+
+instance: Snape	Harry	score:0.054982817869415834
+sentence: <PER>Ron</PER> was making retching noises; <PER>Hermione</PER> stammered, “That m-must have b- been the T-Tongue-Tying Curse Mad-Eye set up for <PER>Snape</PER>!” Gingerly <PER>Harry</PER> took another step forward.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.054982817869415834
+sentence: “<PER>Harry</PER>,” he said over <PER>Hermione</PER>’s shoulder, “I — ” “It’s not a problem,” said <PER>Harry</PER>, sickened by the pain in <PER>Harry</PER>'s head.
+pattern_bef: Foe
+passive voice: False
+
+instance: Dumbledore	Hermione	score:0.054982817869415834
+sentence: “I understand why you’d love to talk to her about your mum and dad, and <PER>Dumbledore</PER> too,” said <PER>Hermione</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.054982817869415834
+sentence: “I know, but — ” “Well, it’s obvious, isn’t it, <PER>Harry</PER>?” said <PER>Ron</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Dumbledore	Voldemort	score:0.054982817869415834
+sentence: As <PER>Voldemort</PER> watched Kreacher sobbing on the floor, <PER>Voldemort</PER> remembered what <PER>Dumbledore</PER> had said to <PER>Voldemort</PER>, mere hours after Sirius’s death: I do not think Sirius ever saw Kreacher as a being with feelings as acute as a human’s.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.054982817869415834
+sentence: “Don’t say that — how could any child be ashamed of you?” “Oh, I don’t know, <PER>Hermione</PER>,” said <PER>Harry</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.054982817869415834
+sentence: “You fancy stepping into Sirius’s shoes — ” “<PER>Harry</PER>, no!” <PER>Hermione</PER> begged <PER>Harry</PER>, but <PER>Harry</PER> continued to glare into Lupin’s livid face.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.054982817869415834
+sentence: Broken images were racing each other through He's mind: Sirius falling through the veil; <PER>Dumbledore</PER> suspended, broken, in midair; a flash of green light and <PER>Dumbledore</PER>'s mother’s voice, begging for mercy “Parents,” said <PER>Harry</PER>, “shouldn’t leave their kids unless — unless their’ve got to.” “<PER>Harry</PER> — ” said <PER>Hermione</PER>, stretching out a consoling hand, but “<PER>Harry</PER> — ” shrugged it off and walked away, “<PER>Harry</PER> — ”'s eyes on the fire <PER>Hermione</PER> had conjured.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.054982817869415834
+sentence: Neither <PER>Ron</PER> nor <PER>Hermione</PER> spoke, but <PER>Harry</PER> felt sure that they were looking at each other behind <PER>Harry</PER>'s back, communicating silently.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.054982817869415834
+sentence: <PER>Harry</PER> hand jumped to it: <PER>Harry</PER> saw <PER>Hermione</PER>’s eyes narrow, and <PER>Harry</PER> tried to pass off the movement by brushing <PER>Harry</PER>'s hair out of <PER>Harry</PER>'s eyes.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Ron	score:0.054982817869415834
+sentence: “Nicely done, <PER>Hermione</PER>,” said <PER>Ron</PER>, emerging from behind a bin beside the theater door as <PER>Harry</PER> took off the Invisibility Cloak.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.054982817869415834
+sentence: “We don’t know who he is,” <PER>Hermione</PER> said, passing <PER>Harry</PER> several curly black hairs, “but he’s gone home with a dreadful nosebleed!
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.054982817869415834
+sentence: “Take one of Mafalda’s tokens,” <PER>Hermione</PER> told <PER>Harry</PER>, “and let’s go, it’s nearly nine.” They stepped out of the alleyway together.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.054982817869415834
+sentence: <PER>Harry</PER> saw <PER>Hermione</PER> give <PER>Ron</PER> a little push and <PER>Harry</PER> hurried out of the lift, followed by the other wizards, leaving <PER>Harry</PER> and <PER>Hermione</PER> alone.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.054982817869415834
+sentence: Glancing over his shoulder, <PER>Harry</PER> saw <PER>Hermione</PER>’s anxious face sinking back out of sight, a tall wizard on either side of her, <PER>Umbridge</PER>’s velvet hair-bow level with her shoulder.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.054982817869415834
+sentence: “Get the Horcrux,” <PER>Harry</PER> told <PER>Hermione</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.054982817869415834
+sentence: Looking around, <PER>Harry</PER> saw that they and <PER>Hermione</PER> were lying on a forest floor, apparently alone.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.054982817869415834
+sentence: After a moment or two, <PER>Harry</PER> thought <PER>Harry</PER> knew what <PER>Ron</PER> meant.
+pattern_bef: Foe
+passive voice: False
+
+instance: Voldemort	Harry	score:0.054982817869415834
+sentence: “What’s <PER>Voldemort</PER> doing?” <PER>Harry</PER> screwed up <PER>Harry</PER>'s eyes in the effort to remember every detail, then whispered into the darkness.
+pattern_bef: Foe
+passive voice: False
+
+instance: Dumbledore	Harry	score:0.054982817869415834
+sentence: As <PER>Dumbledore</PER> had told <PER>Harry</PER> that he believed <PER>Voldemort</PER> had hidden the Horcruxes in places important to <PER>Voldemort</PER>, they kept reciting, in a sort of dreary litany, those locations they knew that <PER>Voldemort</PER> had lived or visited.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Voldemort	score:0.054982817869415834
+sentence: As <PER>Dumbledore</PER> had told <PER>Harry</PER> that he believed <PER>Voldemort</PER> had hidden the Horcruxes in places important to <PER>Voldemort</PER>, they kept reciting, in a sort of dreary litany, those locations they knew that <PER>Voldemort</PER> had lived or visited.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.054982817869415834
+sentence: “But <PER>Harry</PER> didn’t get the job, did <PER>Harry</PER>?” said <PER>Hermione</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.054982817869415834
+sentence: <PER>Harry</PER> knew that <PER>Ron</PER> was hoping to hear news of <PER>Harry</PER>'s family or of the rest of the Order of the Phoenix, but after all, he, <PER>Harry</PER>, was not a television aerial; <PER>Harry</PER> could only see what <PER>Voldemort</PER> was thinking at the time, not tune in to whatever took <PER>Harry</PER>'s fancy.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Voldemort	score:0.054982817869415834
+sentence: Apparently <PER>Voldemort</PER> was dwelling endlessly on the unknown youth with the gleeful face, whose name and whereabouts, <PER>Harry</PER> felt sure, <PER>Voldemort</PER> knew no better than <PER>Voldemort</PER> did.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.054982817869415834
+sentence: “<PER>Harry</PER>!” <PER>Hermione</PER> cried.
+pattern_bef: Foe
+passive voice: False
+
+instance: Dumbledore	Harry	score:0.054982817869415834
+sentence: Or had <PER>Dumbledore</PER>, in fact, told <PER>Harry</PER>, but <PER>Harry</PER> had not realized it at the time?
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Hermione	score:0.054982817869415834
+sentence: “We thought <PER>Dumbledore</PER> had told you what to do, We thought you had a real plan!” “<PER>Ron</PER>!” said <PER>Hermione</PER>, this time clearly audible over the rain thundering on the tent roof, but again, <PER>Dumbledore</PER> ignored <PER>Hermione</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.054982817869415834
+sentence: <PER>Harry</PER> felt a corrosive hatred toward <PER>Ron</PER>: Something had broken between them.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.054982817869415834
+sentence: If so, <PER>Harry</PER> felt that <PER>Dumbledore</PER> had left a great deal to chance: <PER>Dumbledore</PER> had never revealed that he had replaced the sword with a fake, nor had he so much as mentioned a friendship with Bathilda.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.054982817869415834
+sentence: “<PER>Harry</PER>, here!” <PER>Hermione</PER> was two rows of tombstones away; he had to wade back to <PER>Hermione</PER>, his heart positively banging in his chest.
+pattern_bef: Foe
+passive voice: False
+
+instance: Dumbledore	Harry	score:0.054982817869415834
+sentence: <PER>Harry</PER> could not help thinking that <PER>Harry</PER> and <PER>Dumbledore</PER> both had deep roots in this graveyard, and that <PER>Dumbledore</PER> ought to have told <PER>Harry</PER> so, yet <PER>Harry</PER> had never thought to share the connection.
+pattern_bef: Foe
+passive voice: False
+
+instance: Dumbledore	Hermione	score:0.054982817869415834
+sentence: “Maybe <PER>Dumbledore</PER> told <PER>Hermione</PER>'s to give the sword to me, and only to me?” “Do you really think she knows who you are?” “Yes,” said <PER>Harry</PER>, looking down into the milky eyes fixed upon <PER>Harry</PER>'s own, “I think she does.” “Well, okay then, but be quick, <PER>Harry</PER>.” “Lead the way,” <PER>Harry</PER> told Bathilda.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.054982817869415834
+sentence: Everything was chaos: It smashed shelves from the wall, and splintered china flew everywhere as <PER>Harry</PER> jumped over the bed and seized the dark shape <PER>Harry</PER> knew to be <PER>Hermione</PER> — She shrieked with pain as <PER>Harry</PER> pulled Shis back across the bed: The snake reared again, but <PER>Harry</PER> knew that worse than the snake was coming, was perhaps already at the gate, <PER>Harry</PER>'s head was going to split open with the pain from <PER>Harry</PER>'s scar — The snake lunged as he took a running leap, dragging <PER>Hermione</PER> with The snake; as it struck, <PER>Hermione</PER> screamed, “ ConfringoV’ and <PER>Hermione</PER>'s spell flew around the room, exploding the wardrobe mirror and ricocheting back at them, bouncing from floor to ceiling; <PER>Harry</PER> felt the heat of it sear the back of <PER>Harry</PER>'s hand.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.054982817869415834
+sentence: <PER>Harry</PER> knew exactly what <PER>Hermione</PER> would say if <PER>Harry</PER> expressed any of this: The wand is only as good as the wizard.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.054982817869415834
+sentence: “<PER>Harry</PER>?” <PER>Hermione</PER> looked frightened that <PER>Harry</PER>?
+pattern_bef: Foe
+passive voice: False
+
+instance: Dumbledore	Harry	score:0.054982817869415834
+sentence: What was it, <PER>Harry</PER> asked <PER>Harry</PER> (walking again), that <PER>Dumbledore</PER> had told <PER>Harry</PER> the last time <PER>Harry</PER> had retrieved the sword?
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Harry	score:0.054982817869415834
+sentence: “Do it, <PER>Ron</PER>!” <PER>Harry</PER> yelled.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.054982817869415834
+sentence: <PER>Hermione</PER> was fast asleep, curled up under <PER>Hermione</PER>'s blankets, and did not move until <PER>Harry</PER> had said <PER>Hermione</PER>'s name several times.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.054982817869415834
+sentence: “<PER>Hermione</PER>!” said <PER>Harry</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Dumbledore	Ron	score:0.054982817869415834
+sentence: “<PER>Harry</PER> you don’t reckon it could’ve been <PER>Dumbledore</PER>?” “<PER>Dumbledore</PER> what?” <PER>Ron</PER> looked a little embarrassed, but said in a low voice, “<PER>Dumbledore</PER> the doe?
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.054982817869415834
+sentence: Partly to change the subject, <PER>Harry</PER> said, “Speaking of <PER>Dumbledore</PER>, have you heard what Skeeter wrote about <PER>Dumbledore</PER>?” “Oh yeah,” said <PER>Ron</PER> at once, “people are talking about it quite a lot.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.054982817869415834
+sentence: “Outvoted, <PER>Harry</PER>, sorry,” said <PER>Ron</PER>, clapping him on the back.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.054982817869415834
+sentence: “You’d better take off the Invisibility Cloak, <PER>Harry</PER>,” said <PER>Hermione</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Hermione	score:0.054982817869415834
+sentence: “Well, I agree with <PER>Ron</PER>,” said <PER>Hermione</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Hermione	score:0.054982817869415834
+sentence: “You’re supposed to say the Cloak,” <PER>Ron</PER> told <PER>Hermione</PER>, “but you wouldn’t need to be invisible if you had the wand.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.054982817869415834
+sentence: “<PER>Harry</PER>,” said <PER>Hermione</PER> again, but <PER>Harry</PER> was busy undoing the pouch around <PER>Harry</PER>'s neck, his fingers shaking hard.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.054982817869415834
+sentence: “ — and <PER>Voldemort</PER>’s chasing the third, but <PER>Voldemort</PER> doesn’t realize <PER>Voldemort</PER> just thinks it’s a powerful wand “<PER>Harry</PER>,” said <PER>Hermione</PER>, moving across to <PER>Voldemort</PER> and handing <PER>Voldemort</PER> back Lily’s letter, “I’m sorry, but I think you’ve got this wrong, all wrong.” “But don’t you see?
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.054982817869415834
+sentence: “Obsession?” said <PER>Hermione</PER> in a low fierce voice, when <PER>Harry</PER> was careless enough to use the word one evening, after <PER>Hermione</PER> had told <PER>Harry</PER> off for <PER>Harry</PER>'s lack of interest in locating more Horcruxes.
+pattern_bef: Foe
+passive voice: False
+
+instance: Dudley	Harry	score:0.054982817869415834
+sentence: “<PER>Dudley</PER>,” said <PER>Harry</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Voldemort	score:0.054982817869415834
+sentence: So close So close With a huge effort of will <PER>Harry</PER> closed <PER>Harry</PER>'s mind to <PER>Voldemort</PER>’s thoughts, pulling <PER>Voldemort</PER> back to where <PER>Voldemort</PER> sat, tied to <PER>Ron</PER>, <PER>Hermione</PER>, Dean, and Griphook in the darkness, listening to Greyback and Scabior.
+pattern_bef: Foe
+passive voice: False
+
+instance: Voldemort	Harry	score:0.054982817869415834
+sentence: How long it would take <PER>Voldemort</PER> to get to this place, once <PER>Voldemort</PER> knew that <PER>Harry</PER> was here, was another matter.
+pattern_bef: Foe
+passive voice: False
+
+instance: Voldemort	Harry	score:0.054982817869415834
+sentence: Closing <PER>Harry</PER>'s puffy eyes, <PER>Harry</PER> allowed the pain in <PER>Harry</PER>'s scar to overcome <PER>Harry</PER> for a moment, wanting to know what <PER>Voldemort</PER> was doing, whether <PER>Voldemort</PER> knew yet that <PER>Harry</PER> was caught.
+pattern_bef: Foe
+passive voice: False
+
+instance: Malfoy	Harry	score:0.054982817869415834
+sentence: “<PER>Malfoy</PER>, come here.” <PER>Harry</PER> did not dare look directly at <PER>Malfoy</PER>, but saw <PER>Harry</PER> obliquely: a figure slightly taller than <PER>Harry</PER> was, rising from an armchair, <PER>Harry</PER>'s face a pale and pointed blur beneath white-blond hair.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Voldemort	score:0.054982817869415834
+sentence: As <PER>Harry</PER> did so, <PER>Harry</PER> gazed down at the tiny body, and <PER>Harry</PER>'s scar prickled and burned, and in one part of <PER>Harry</PER>'s mind, viewed as if from the wrong end of a long telescope, <PER>Harry</PER> saw <PER>Voldemort</PER> punishing those they had left behind at <PER>Malfoy</PER> Manor.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Voldemort	score:0.054982817869415834
+sentence: Deeper and deeper <PER>Harry</PER> sank into the grave, and <PER>Harry</PER> knew where <PER>Voldemort</PER> had been tonight, and whom <PER>Voldemort</PER> had killed in the topmost cell of Nurmengard, and why.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.054982817869415834
+sentence: “<PER>Harry</PER> — ” said <PER>Hermione</PER>, but <PER>Hermione</PER> was cut off by Griphook.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.054982817869415834
+sentence: “It belongs to the Lestranges.” <PER>Harry</PER> saw <PER>Hermione</PER> and <PER>Ron</PER> look at each other, astonished, but there would be time enough to explain after Griphook had given his answer.
+pattern_bef: Foe
+passive voice: False
+
+instance: Malfoy	Harry	score:0.054982817869415834
+sentence: “I took this wand from <PER>Malfoy</PER> <PER>Malfoy</PER> by force,” said <PER>Harry</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Ron	score:0.054982817869415834
+sentence: “Yes, he is, <PER>Ron</PER>, please don’t start that again!” “Look at the facts, <PER>Hermione</PER>,” said <PER>Ron</PER>, speaking across <PER>Harry</PER>, who continued to gaze at the horizon.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Harry	score:0.054982817869415834
+sentence: Behind <PER>Harry</PER>, <PER>Ron</PER> said, “<PER>Harry</PER>’s having a laugh.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.054982817869415834
+sentence: Remembering what Ollivander had told them of the secret workings of wands, <PER>Harry</PER> thought <PER>Harry</PER> knew what <PER>Hermione</PER> ’s problem was: <PER>Hermione</PER> had not won the walnut wand’s allegiance by taking it personally from Bellatrix.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.054982817869415834
+sentence: <PER>Harry</PER> heard the cart smash into pieces against the passage wall, heard <PER>Hermione</PER> shriek something, and felt <PER>Harry</PER> glide back toward the ground as though weightless, landing painlessly on the rocky passage floor.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.054982817869415834
+sentence: “Everything you touch will burn and multiply, but the copies are worthless — and if you continue to handle the treasure, you will eventually be crushed to death by the weight of expanding gold!” “Okay, don’t touch anything!” said <PER>Harry</PER> desperately, but even as <PER>Harry</PER> said it, <PER>Ron</PER> accidentally nudged one of the fallen goblets with his foot, and twenty more exploded into being while <PER>Ron</PER> hopped on the spot, part of <PER>Harry</PER>'s shoe burned away by contact with the hot metal.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.054982817869415834
+sentence: “<PER>Hermione</PER>,” said <PER>Harry</PER> as the clanking grew louder, “I’ve got to get up there, we’ve got to get rid of it — ” She raised Shis wand, pointed it at <PER>Harry</PER>, and whispered, “Levicorpus.” Hoisted into the air by his ankle, <PER>Harry</PER> hit a suit of armor and replicas burst out of it like white-hot bodies, filling the cramped space.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hagrid	Ron	score:0.054982817869415834
+sentence: “Will it be all right?” “You sound like <PER>Hagrid</PER>,” said <PER>Ron</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.054982817869415834
+sentence: “We’re going to have to try to Disapparate, <PER>Harry</PER>!” <PER>Hermione</PER> whispered.
+pattern_bef: Foe
+passive voice: False
+
+instance: Dumbledore	Hermione	score:0.054982817869415834
+sentence: “Albus <PER>Dumbledore</PER>?” said <PER>Hermione</PER> rather timidly.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Neville	score:0.054982817869415834
+sentence: “Are you all right, <PER>Harry</PER>?” <PER>Neville</PER> was saying.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Neville	score:0.054982817869415834
+sentence: “You’ve got to stop this!” <PER>Harry</PER> told <PER>Neville</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Voldemort	Ron	score:0.054982817869415834
+sentence: “<PER>Voldemort</PER>’s on the move,” <PER>Voldemort</PER> said quietly to <PER>Ron</PER> and <PER>Hermione</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Snape	Harry	score:0.054982817869415834
+sentence: <PER>Snape</PER> stepped nearer, and <PER>Snape</PER>'s eyes flitted over Professor <PER>McGonagall</PER> into the air around her, as if <PER>Snape</PER> knew that <PER>Harry</PER> was there.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Voldemort	score:0.054982817869415834
+sentence: “Give me <PER>Harry</PER> Potter,” said <PER>Voldemort</PER>’s voice, “and none shall be harmed.
+pattern_bef: Foe
+passive voice: False
+
+instance: Dumbledore	Harry	score:0.054982817869415834
+sentence: “I beg your pardon?” “He hid the diadem in the castle, the night He asked <PER>Dumbledore</PER> to let <PER>Dumbledore</PER> teach!” said <PER>Harry</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hagrid	Harry	score:0.054982817869415834
+sentence: “<PER>Hagrid</PER>!” <PER>Harry</PER> bellowed, fighting off Fang the boarhound’s attentions as the enormous bearded figure clambered to his feet.
+pattern_bef: Foe
+passive voice: False
+
+instance: Voldemort	Dumbledore	score:0.054982817869415834
+sentence: Of course, <PER>Dumbledore</PER> and Flitwick, those model pupils, had never set foot in that particular place, but he, <PER>Harry</PER>, had strayed off the beaten track in <PER>Harry</PER>'s time at school — here at last was a secret he and <PER>Voldemort</PER> knew, that <PER>Dumbledore</PER> had never discovered — he was roused by Professor Sprout, who was thundering past followed by <PER>Neville</PER> and half a dozen others, all of them wearing earmuffs and carrying what appeared to be large potted plants.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Voldemort	score:0.054982817869415834
+sentence: “I’ve had hundreds of kids thundering through my pub, Potter!” “I know, we’re evacuating,” <PER>Harry</PER> said, “<PER>Voldemort</PER>’s “ — attacking because they haven’t handed you over, yeah,” said Aberforth, “I’m not deaf, the whole of Hogsmeade heard him.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.054982817869415834
+sentence: And then <PER>Harry</PER> skidded around a final corner and with a yell of mingled relief and fury <PER>Harry</PER> saw them: <PER>Ron</PER> and <PER>Hermione</PER>, both with their arms full of large, curved, dirty yellow objects, <PER>Ron</PER> with a broomstick under his arm.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ginny	Harry	score:0.054982817869415834
+sentence: “<PER>Ginny</PER>,” said <PER>Harry</PER>, “I’m sorry, but we need you to leave too.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Malfoy	score:0.054982817869415834
+sentence: And <PER>Harry</PER> saw them: <PER>Malfoy</PER> with <PER>Malfoy</PER>'s arms around the unconscious Goyle, the pair of them perched on a fragile tower of charred desks, and <PER>Harry</PER> dived.
+pattern_bef: Foe
+passive voice: False
+
+instance: Malfoy	Harry	score:0.054982817869415834
+sentence: <PER>Malfoy</PER> saw <PER>Harry</PER> coming and raised one arm, but even as <PER>Harry</PER> grasped it <PER>Harry</PER> knew at once that it was no good: Goyle was too heavy and <PER>Malfoy</PER> ’s hand, covered in sweat, slid instantly out of <PER>Harry</PER>’s — roared <PER>Ron</PER>’s voice, and, as a great flaming chimaera bore down upon them, he and <PER>Hermione</PER> dragged Goyle onto he and <PER>Hermione</PER>'s broom and rose, rolling and pitching, into the air once more as <PER>Malfoy</PER> clambered up behind <PER>Harry</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Malfoy	Harry	score:0.054982817869415834
+sentence: <PER>Malfoy</PER> saw <PER>Harry</PER> coming and raised one arm, but even as <PER>Harry</PER> grasped it <PER>Harry</PER> knew at once that it was no good: Goyle was too heavy and <PER>Malfoy</PER> ’s hand, covered in sweat, slid instantly out of <PER>Harry</PER>’s — roared <PER>Ron</PER>’s voice, and, as a great flaming chimaera bore down upon them, he and <PER>Hermione</PER> dragged Goyle onto he and <PER>Hermione</PER>'s broom and rose, rolling and pitching, into the air once more as <PER>Malfoy</PER> clambered up behind <PER>Harry</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.054982817869415834
+sentence: “<PER>Harry</PER>, in here!” <PER>Hermione</PER> screamed.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.054982817869415834
+sentence: She had pulled <PER>Ron</PER> behind a tapestry: They seemed to be wrestling together, and for one mad second <PER>Harry</PER> thought that They were embracing again; then <PER>Harry</PER> saw that <PER>Hermione</PER> was trying to restrain <PER>Ron</PER>, to stop him running after Percy.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.054982817869415834
+sentence: But <PER>Harry</PER> knew how <PER>Ron</PER> felt: Pursuing another Horcrux could not bring the satisfaction of revenge; <PER>Harry</PER> too wanted to fight, to punish them, the people who had killed Fred, and <PER>Harry</PER> wanted to find the other Weasleys, and above all make sure, make quite sure, that <PER>Ginny</PER> was not — but <PER>Harry</PER> could not permit that idea to form in <PER>Harry</PER>'s mind — “We will fight!” <PER>Hermione</PER> said.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hagrid	score:0.054982817869415834
+sentence: But <PER>Harry</PER> was not even halfway to <PER>Hagrid</PER> when <PER>Harry</PER> saw it happen: <PER>Hagrid</PER> vanished amongst the spiders, and with a great scurrying, a foul swarming movement, they retreated under the onslaught of spells, <PER>Hagrid</PER> buried in their midst.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.054982817869415834
+sentence: “Come on, <PER>Harry</PER>!” said <PER>Hermione</PER>’s voice from a very long way away.
+pattern_bef: Foe
+passive voice: False
+
+instance: Snape	Harry	score:0.054982817869415834
+sentence: Then <PER>Snape</PER> spoke, and <PER>Harry</PER>’s heart lurched: <PER>Snape</PER> was inches away from where <PER>Snape</PER> crouched, hidden. "
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Snape	score:0.054982817869415834
+sentence: <PER>Harry</PER> saw <PER>Snape</PER> ’s face losing the little color <PER>Snape</PER> ’s face had left; <PER>Snape</PER> ’s face whitened as <PER>Harry</PER>'s black eyes widened, as the snake’s fangs pierced his neck, as his failed to push the enchanted cage off himself, as his knees gave way and himself fell to the floor.
+pattern_bef: Foe
+passive voice: False
+
+instance: Voldemort	Harry	score:0.054982817869415834
+sentence: Back in the tunnel and <PER>Voldemort</PER>'s own mind, <PER>Harry</PER> opened <PER>Harry</PER>'s eyes: <PER>Harry</PER> had drawn blood biting down on <PER>Harry</PER>'s knuckles in the effort not to shout out.
+pattern_bef: Foe
+passive voice: False
+
+instance: Snape	Harry	score:0.054982817869415834
+sentence: <PER>Harry</PER> bent over <PER>Harry</PER>, and <PER>Snape</PER> seized the front of <PER>Harry</PER>'s robes and pulled <PER>Harry</PER> close.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.054982817869415834
+sentence: <PER>Harry</PER> saw <PER>Hermione</PER> approach <PER>Ginny</PER>, whose face was swollen and blotchy, and hug her.
+pattern_bef: Foe
+passive voice: False
+
+instance: Dumbledore	Harry	score:0.054982817869415834
+sentence: “Password?” “<PER>Dumbledore</PER>!” said <PER>Harry</PER> without thinking, because it was <PER>Harry</PER> whom <PER>Harry</PER> yearned to see, and to <PER>Harry</PER>'s surprise the gargoyle slid aside, revealing the spiral staircase behind.
+pattern_bef: Foe
+passive voice: False
+
+instance: Snape	Harry	score:0.054982817869415834
+sentence: <PER>Harry</PER> looked around: <PER>Harry</PER> was on platform nine and three-quarters, and <PER>Snape</PER> stood beside <PER>Harry</PER>, slightly hunched, next to a thin, sallow-faced, sour-looking woman who greatly resembled <PER>Harry</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Snape	score:0.054982817869415834
+sentence: Now, <PER>Harry</PER> saw <PER>Snape</PER> talking to the portrait of <PER>Dumbledore</PER> behind <PER>Snape</PER>'s desk.
+pattern_bef: Foe
+passive voice: False
+
+instance: Dumbledore	Voldemort	score:0.054982817869415834
+sentence: <PER>Dumbledore</PER> knew, as <PER>Voldemort</PER> knew, that <PER>Harry</PER> would not let anyone else die for him now that him had discovered it was in his power to stop it.
+pattern_bef: Foe
+passive voice: False
+
+instance: Voldemort	Harry	score:0.054982817869415834
+sentence: <PER>Dumbledore</PER> knew, as <PER>Voldemort</PER> knew, that <PER>Harry</PER> would not let anyone else die for him now that him had discovered it was in his power to stop it.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.054982817869415834
+sentence: At last <PER>Harry</PER> knew what <PER>Dumbledore</PER> would have seen when <PER>Harry</PER> looked in the Mirror of Erised, and why <PER>Dumbledore</PER> had been so understanding of the fascination it had exercised over <PER>Harry</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Voldemort	score:0.054982817869415834
+sentence: “You see?” said <PER>Voldemort</PER>, and <PER>Harry</PER> felt <PER>Voldemort</PER> striding backward and forward right beside the place where <PER>Voldemort</PER> lay.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.054982817869415834
+sentence: <PER>Harry</PER> saw <PER>Ron</PER> and <PER>Neville</PER> bringing down Fenrir Greyback, Aberforth Stunning Rookwood, Arthur and Percy flooring Thicknesse, and Lucius and Narcissa <PER>Malfoy</PER> running through the crowd, not even attempting to fight, screaming for their son.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	McGonagall	score:0.054982817869415834
+sentence: <PER>Harry</PER> felt as though <PER>Harry</PER> turned in slow motion; <PER>Harry</PER> saw <PER>McGonagall</PER>, Kingsley, and Slughorn blasted backward, flailing and writhing through the air, as <PER>Voldemort</PER> ’s fury at the fall of <PER>Voldemort</PER>'s last, best lieutenant exploded with the force of a bomb.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Voldemort	score:0.054982817869415834
+sentence: <PER>Harry</PER> saw <PER>Voldemort</PER>’s green jet meet <PER>Harry</PER>'s own spell, saw the Elder Wand fly high, dark against the sunrise, spinning across the enchanted ceiling like the head of Nagini, spinning through the air toward the master it would not kill, who had come to take full possession of it at last.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Voldemort	score:0.054982817869415834
+sentence: And <PER>Harry</PER>, with the unerring skill of the Seeker, caught the wand in <PER>Harry</PER>'s free hand as <PER>Voldemort</PER> fell backward, arms splayed, the slit pupils of the scarlet eyes rolling upward.
+pattern_bef: Foe
+passive voice: False
+
+instance: Malfoy	Harry	score:0.054982817869415834
+sentence: <PER>Malfoy</PER> caught sight of <PER>Harry</PER>, <PER>Ron</PER>, <PER>Hermione</PER>, and <PER>Ginny</PER> staring at him, nodded curtly, and turned away again.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.05498281781594727
+sentence: <PER>Harry</PER> caught hold of <PER>Hermione</PER> ’s free arm, and <PER>Harry</PER> felt her turn on the spot; sight and sound were extinguished as darkness pressed in upon him; all him could feel was <PER>Hermione</PER>’s hand as <PER>Harry</PER> was squeezed through space and time, away from the Burrow, away from the descending Death Eaters, away, perhaps, from <PER>Voldemort</PER> himself.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Ron	score:0.05498281781594727
+sentence: <PER>Harry</PER> seized <PER>Hermione</PER> by the hand and <PER>Ron</PER> by the arm and turned on the spot.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.05498281773155156
+sentence: If only he knew Legilimency, really knew it, and could read <PER>Hermione</PER>’s mind; <PER>Harry</PER> could practically hear <PER>Hermione</PER>'s brain whirring beside <PER>Harry</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Malfoy	score:0.05498281765725299
+sentence: <PER>Harry</PER> saw Lucius <PER>Malfoy</PER>, who looked defeated and terrified, and Narcissa, whose eyes were sunken and full of apprehension.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Voldemort	score:0.05498281459218446
+sentence: <PER>Harry</PER> knew that <PER>Ron</PER> was hoping to hear news of <PER>Harry</PER>'s family or of the rest of the Order of the Phoenix, but after all, he, <PER>Harry</PER>, was not a television aerial; <PER>Harry</PER> could only see what <PER>Voldemort</PER> was thinking at the time, not tune in to whatever took <PER>Harry</PER>'s fancy.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ginny	score:0.05498281459218446
+sentence: This scant news made <PER>Harry</PER> want to see <PER>Ginny</PER> so badly it felt like a stomachache; but This scant news also made <PER>Harry</PER> think of <PER>Ron</PER> again, and of <PER>Dumbledore</PER>, and of Hogwarts itself, which <PER>Harry</PER> missed nearly as much as <PER>Harry</PER>'s ex-girlfriend.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Voldemort	score:0.05498281459218446
+sentence: “He already knows where I am.” In a distant part of <PER>Harry</PER>’s brain, that part connected to the angry, burning scar, <PER>Harry</PER> could see <PER>Voldemort</PER> sailing fast over the dark lake in the ghostly green boat.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Voldemort	score:0.05498281459218446
+sentence: <PER>Harry</PER> remained kneeling at <PER>Snape</PER>’s side, simply staring down at <PER>Harry</PER>, until quite suddenly a high, cold voice spoke so close to them that <PER>Harry</PER> jumped to <PER>Harry</PER>'s feet, the flask gripped tightly in <PER>Harry</PER>'s hands, thinking that <PER>Voldemort</PER> had reentered the room.
+pattern_bef: Foe
+passive voice: False
+
+instance: Voldemort	Harry	score:0.05498281459218446
+sentence: “My Lord, let me — ” “I do not require assistance,” said <PER>Voldemort</PER> coldly, and though <PER>Voldemort</PER> could not see it, <PER>Harry</PER> pictured Bellatrix withdrawing a helpful hand.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Voldemort	score:0.054982811314953195
+sentence: A hooded figure on a broomstick was feet from him, <PER>Harry</PER> saw it raise it arm — With a shout of fury <PER>Hagrid</PER> launched himself off the bike at the Death Eater; to his horror, <PER>Harry</PER> saw both <PER>Hagrid</PER> and the Death Eater falling out of sight, their combined weight too much for the broomstick — Barely gripping the plummeting bike with his knees, <PER>Harry</PER> heard <PER>Voldemort</PER> scream, “Mine\” <PER>Harry</PER> Potter and the Deathly Hallows - J.K. Rowling It was over: He could not see or hear where <PER>Voldemort</PER> was; He glimpsed another Death Eater swooping out of the way and heard, “Avada — ” As the pain from <PER>Harry</PER>’s scar forced his eyes shut, his wand acted of its own accord.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.054982811314953195
+sentence: “It’s no wonder I can’t get it out, <PER>Hermione</PER>, you packed my old jeans, they’re tight.” “Oh, I’m so sorry,” hissed <PER>Hermione</PER>, and as <PER>Hermione</PER> dragged the waitress out of sight of the windows, <PER>Harry</PER> heard <PER>Hermione</PER>'s mutter a suggestion as to where <PER>Ron</PER> could stick his wand instead.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.054982811314953195
+sentence: <PER>Harry</PER> heard <PER>Hermione</PER> gasp, and <PER>Harry</PER> had the odd sensation that something was swooping low over <PER>Harry</PER>, immersing <PER>Harry</PER>'s body in its shadow.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.054982811314953195
+sentence: Once or twice <PER>Harry</PER> heard <PER>Ron</PER> stir and was sure that <PER>Harry</PER> too was awake, but they were sharing the sitting room with Dean, so <PER>Harry</PER> did not speak.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.054982811314953195
+sentence: <PER>Harry</PER>’s eyes were shut tight against the heat and dust: Deafened by the crashing of rock and the dragon’s roars, <PER>Harry</PER> could only cling to its back, expecting to be shaken off at any moment; then <PER>Harry</PER> heard <PER>Hermione</PER> yelling, “Defodiol” <PER>Hermione</PER> was helping the dragon enlarge the passageway, carving out the ceiling as the ceiling struggled upward toward the fresher air, away from the shrieking and clanking goblins: <PER>Harry</PER> and <PER>Ron</PER> copied <PER>Hermione</PER>, blasting the ceiling apart with more gouging spells.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Neville	score:0.054982811314953195
+sentence: As <PER>Harry</PER> followed, <PER>Harry</PER> heard <PER>Neville</PER> call out to unseen people: “Look who it is!
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Snape	score:0.054982811314953195
+sentence: Professor <PER>McGonagall</PER> dropped the Sorting Hat onto Professor <PER>McGonagall</PER>'s head, and barely a second after it had touched the dark red hair, the hat cried, “ Gryffindoii” <PER>Harry</PER> heard <PER>Snape</PER> let out a tiny groan.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Voldemort	score:0.054982811314953195
+sentence: “Come,” said <PER>Voldemort</PER>, and <PER>Harry</PER> heard <PER>Voldemort</PER> move ahead, and <PER>Hagrid</PER> was forced to follow.
+pattern_bef: Foe
+passive voice: False
+
+instance: Neville	Ginny	score:0.05094325107530051
+sentence: “It’s nearly eleven, you’d better get on board.” “Don’t forget to give <PER>Neville</PER> our love!” <PER>Ginny</PER> told James as she hugged him.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hagrid	score:0.05022613068799231
+sentence: <PER>Harry</PER> looked down and saw <PER>Hagrid</PER> spread-eagled on the ground below <PER>Harry</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.05008537457180129
+sentence: “Perhaps just one more, Master <PER>Harry</PER>, for luck?” <PER>Ron</PER> laughed.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hagrid	score:0.04990429672854835
+sentence: <PER>Harry</PER> heard someone calling <PER>Harry</PER>'s own name, whether friend or foe <PER>Harry</PER> did not care: <PER>Harry</PER> was sprinting down the front steps into the dark grounds, and the spiders were swarming away with the spiders's prey, and <PER>Harry</PER> could see nothing of <PER>Hagrid</PER> at all.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ginny	score:0.04987946569610846
+sentence: “As long as it’s not any of our lot!” said a voice: <PER>Harry</PER> turned and saw <PER>Ginny</PER> and Tonks, both with their wands drawn at the next window, which was missing several panes.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hagrid	Harry	score:0.04972289002966712
+sentence: <PER>Harry</PER> looked up at it, and all of a sudden a knife-sharp memory came to <PER>Harry</PER>: standing on this very spot on the day that <PER>Harry</PER> had turned eleven, the most wonderful birthday of <PER>Harry</PER>'s life, and <PER>Hagrid</PER> standing beside <PER>Harry</PER> saying, “ Like I said, yeh’d be mad ter try an’ rob it.” Gringotts had seemed a place of wonder that day, the enchanted repository of a trove of gold he had never known he possessed, and never for an instant could he have dreamed that he would return to steal.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Ron	score:0.048656933526038726
+sentence: <PER>Ron</PER> and <PER>Hermione</PER> seemed a long way away, in a far- off country; <PER>Ron</PER> and <PER>Hermione</PER> felt as though <PER>Ron</PER> and <PER>Hermione</PER> had parted from them long ago.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.04818879105336549
+sentence: “I’d say I’ll get a bite or two, wouldn’t you, ginger?” <PER>Harry</PER> could feel <PER>Ron</PER> shaking.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hagrid	score:0.04818879105336549
+sentence: <PER>Harry</PER> could feel <PER>Hagrid</PER> ’s arms trembling with the force of <PER>Harry</PER>'s heaving sobs; great tears splashed down upon him as <PER>Hagrid</PER> cradled <PER>Harry</PER> in his arms, and <PER>Harry</PER> did not dare, by movement or word, to intimate to <PER>Hagrid</PER> that all was not, yet, lost.
+pattern_bef: Foe
+passive voice: False
+
+instance: Voldemort	Harry	score:0.04750735033965969
+sentence: <PER>Voldemort</PER> had said nothing about <PER>Harry</PER>’s wand, nothing about the twin cores, nothing about Gregorovitch making a new and more powerful wand to beat <PER>Harry</PER>’s.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ginny	score:0.04702393232206037
+sentence: <PER>Harry</PER> had a funny notion that <PER>Harry</PER> would find a chapter on compliments when <PER>Harry</PER> found time to peruse <PER>Harry</PER>'s copy of Twelve Fail-Safe Ways to Charm Witches; <PER>Harry</PER> caught <PER>Ginny</PER>’s eye and grinned at <PER>Ginny</PER>'s before remembering his promise to <PER>Ron</PER> and hurriedly striking up a conversation with Monsieur Delacour.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.04702393232206037
+sentence: When <PER>Harry</PER> and <PER>Hermione</PER> caught up with <PER>Harry</PER>, panting and clutching stitches in <PER>Harry</PER> and <PER>Hermione</PER>'s sides, <PER>Harry</PER> and <PER>Hermione</PER> found <PER>Harry</PER> grinning broadly.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Harry	score:0.04702393232206037
+sentence: “Well, more of a crown, really.” <PER>Ron</PER> caught <PER>Harry</PER>’s eye and grinned; <PER>Harry</PER> knew that <PER>Harry</PER> was remembering the ludicrous headdress they had seen on their visit to Xenophilius.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Harry	score:0.04702393232206037
+sentence: “Oh my — !” shrieked <PER>Hermione</PER>, as <PER>Hermione</PER> and <PER>Ron</PER> caught up with <PER>Harry</PER> and gazed upward at the giant now trying to seize people through the window above.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Harry	score:0.04702393203817268
+sentence: “No, he was concentrating on warning <PER>Snape</PER>, he didn’t think about exactly where it is — ” “Wait, wait\” cried <PER>Hermione</PER> as <PER>Ron</PER> caught up the Horcrux and <PER>Harry</PER> pulled out the Invisibility Cloak again.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ginny	score:0.046544769785248574
+sentence: “Most of the Order was there, they’ll look after everyone.” <PER>Harry</PER> nodded, then remembered that they could not see <PER>Harry</PER>, and said, “Yeah.” But <PER>Harry</PER> thought of <PER>Ginny</PER>, and fear bubbled like acid in <PER>Harry</PER>'s stomach.
+pattern_bef: Foe
+passive voice: False
+
+instance: Voldemort	Hermione	score:0.046544769785248574
+sentence: But even as <PER>Voldemort</PER> thought this, <PER>Hermione</PER> spoke, and <PER>Hermione</PER>'s voice was icy.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.046544769785248574
+sentence: They had just eaten an unusually good meal: <PER>Hermione</PER> had been to a supermarket under the Invisibility Cloak (scrupulously dropping the money into an open till as <PER>Hermione</PER> left), and <PER>Harry</PER> thought that <PER>Hermione</PER> might be more persuadable than usual on a stomach full of spaghetti Bolognese and tinned pears.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Snape	score:0.046544769785248574
+sentence: His fear infected <PER>Harry</PER> too, even though <PER>Harry</PER> knew that <PER>Harry</PER> could not be harmed, and <PER>Harry</PER> looked over <PER>Harry</PER>'s shoulder, wondering what it was that <PER>Snape</PER> was waiting for — Then a blinding, jagged jet of white light flew through the air: <PER>Harry</PER> thought of lightning, but <PER>Snape</PER> had dropped to <PER>Harry</PER>'s knees and his wand had flown out of his hand.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ginny	score:0.046544769785248574
+sentence: <PER>Hagrid</PER> was struggling, and Bellatrix was panting, and <PER>Harry</PER> thought inexplicably of <PER>Ginny</PER>, and her blazing look, and the feel of her lips on his — <PER>Voldemort</PER> had raised — <PER>Voldemort</PER>'s wand.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hagrid	score:0.046544769785248574
+sentence: “Stop.” <PER>Harry</PER> thought that <PER>Hagrid</PER> must have been forced to obey <PER>Voldemort</PER>’s command, because he lurched a little.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.046041801738334276
+sentence: It was a sticky moment: <PER>Harry</PER> knew that she had sensed <PER>Ron</PER>’s name in the offing.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hagrid	score:0.04531623932093376
+sentence: <PER>Harry</PER> swung <PER>Harry</PER>'s legs off the sofa; <PER>Harry</PER> needed to see <PER>Hagrid</PER> with <PER>Harry</PER>'s own eyes before He would believe that He was alive.
+pattern_bef: Foe
+passive voice: False
+
+instance: Snape	Harry	score:0.045112781954887216
+sentence: “ <PER>Snape</PER> ?” shouted <PER>Harry</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Snape	Harry	score:0.045112781954887216
+sentence: “We’re not <PER>Snape</PER>!” croaked <PER>Harry</PER>, before something whooshed over <PER>Harry</PER> like cold air and <PER>Harry</PER>'s tongue curled backward on itself, making it impossible to speak.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.045112781954887216
+sentence: “Come on!” <PER>Harry</PER> shouted at <PER>Hermione</PER>; <PER>Harry</PER> seized <PER>Hermione</PER>'s hand and they jumped into the fireplace together as Yaxley’s curse sailed over <PER>Harry</PER>’s head.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Harry	score:0.045112781954887216
+sentence: “You come back after weeks — weeks — and you think it’s all going to be all right if you just say sorry?” “Well, what else can I say?” <PER>Ron</PER> shouted, and <PER>Harry</PER> was glad that <PER>Ron</PER> was fighting back.
+pattern_bef: Foe
+passive voice: False
+
+instance: Snape	Harry	score:0.045112781954887216
+sentence: <PER>Snape</PER> struggled free of the crushing arms and sent the crushing arms flying back toward <PER>Snape</PER>'s attackers: <PER>Harry</PER> and Luna had to dive sideways to avoid it as it smashed into the wall and shattered.
+pattern_bef: Foe
+passive voice: False
+
+instance: Malfoy	Harry	score:0.045112781954887216
+sentence: The diadem seemed to fall in slow motion, turning and glittering as it dropped toward the maw of a yawning serpent, and then he had it, caught it around his wrist — <PER>Harry</PER> swerved again as the serpent lunged at him; ] wrist — <PER>Harry</PER> soared upward and straight toward the place where, ] wrist — <PER>Harry</PER> prayed, the door stood open: <PER>Ron</PER>, <PER>Hermione</PER>, and Goyle had vanished; <PER>Malfoy</PER> was screaming and holding <PER>Harry</PER> so tightly it hurt.
+pattern_bef: Foe
+passive voice: False
+
+instance: Dumbledore	Harry	score:0.0451100437507751
+sentence: “To give us what <PER>Dumbledore</PER> left us,” said <PER>Harry</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Dumbledore	Hermione	score:0.04463304247864741
+sentence: “I’m not trying to defend what <PER>Dumbledore</PER> wrote,” said <PER>Hermione</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.04435108124158993
+sentence: “I’ll pack these for you,” <PER>Hermione</PER> said brightly, taking <PER>Harry</PER>’s presents out of <PER>Harry</PER>'s arms as the three of them headed back upstairs.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.044032994824176774
+sentence: If only he knew Legilimency, really knew it, and could read <PER>Hermione</PER>’s mind; <PER>Harry</PER> could practically hear <PER>Hermione</PER>'s brain whirring beside <PER>Harry</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.044032994824176774
+sentence: The noises of the surrounding woods were muffled inside the tent; all <PER>Harry</PER> could hear was <PER>Ron</PER>’s breathing.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.044032994824176774
+sentence: <PER>Harry</PER> could hear <PER>Ron</PER> saying, “ We thought you knew what you were doing \” , and he resumed packing with a hard knot in the pit of his stomach.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.044032994824176774
+sentence: <PER>Harry</PER> stared at it, aghast, unable to take in what <PER>Harry</PER> was seeing the wand that had survived so much “<PER>Harry</PER>,” <PER>Hermione</PER> whispered so quietly <PER>Harry</PER> could hardly hear <PER>Hermione</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.044032994824176774
+sentence: “Well, of course.” “But,” said <PER>Hermione</PER>, and <PER>Harry</PER> could hear <PER>Hermione</PER>'s restraint starting to crack, “Mister Lovegood, how can you possibly believe — ?” “Luna has told me all about you, young lady,” said Xenophilius.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.044032994824176774
+sentence: <PER>Harry</PER> could hear <PER>Hermione</PER>’s breathing, fast and terrified.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.044032994824176774
+sentence: <PER>Harry</PER> could not hear <PER>Ron</PER> or <PER>Hermione</PER> anymore.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Voldemort	score:0.044032994824176774
+sentence: They crawled back through the tunnel, none of They talking, and <PER>Harry</PER> wondered whether <PER>Ron</PER> and <PER>Hermione</PER> could still hear <PER>Voldemort</PER> ringing in their heads, as <PER>Voldemort</PER> could.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.043967958171344024
+sentence: This scant news made <PER>Harry</PER> want to see <PER>Ginny</PER> so badly it felt like a stomachache; but This scant news also made <PER>Harry</PER> think of <PER>Ron</PER> again, and of <PER>Dumbledore</PER>, and of Hogwarts itself, which <PER>Harry</PER> missed nearly as much as <PER>Harry</PER>'s ex-girlfriend.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.04380113314946543
+sentence: “Why have you come here?” Before <PER>Harry</PER> could speak, however, <PER>Hermione</PER> let out a small cry of shock.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Harry	score:0.04377630240319108
+sentence: “You must’ve heard of Babbitty Rabbitty “<PER>Ron</PER>, you know full well <PER>Harry</PER> and I were brought up by Muggles!” said <PER>Hermione</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.04377630240319108
+sentence: <PER>Harry</PER> did not know what <PER>Hermione</PER> was waiting for.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ginny	Harry	score:0.04377630240319108
+sentence: <PER>Harry</PER> wanted to shout out to the night, <PER>Harry</PER> wanted <PER>Ginny</PER> to know that <PER>Harry</PER> was there, <PER>Harry</PER> wanted <PER>Ginny</PER>'s to know where <PER>Harry</PER> was going.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ginny	Harry	score:0.04377630240319108
+sentence: <PER>Harry</PER> wanted to shout out to the night, <PER>Harry</PER> wanted <PER>Ginny</PER> to know that <PER>Harry</PER> was there, <PER>Harry</PER> wanted <PER>Ginny</PER>'s to know where <PER>Harry</PER> was going.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.04368465135187627
+sentence: “<PER>Harry</PER>, look!” <PER>Hermione</PER> was pointing at the war memorial.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.04325255365422365
+sentence: No doubt it would have felt strange, impertinent even, but after all, it had been common knowledge that <PER>Dumbledore</PER> had taken part in that legendary duel with Grindelwald, and <PER>Harry</PER> had not thought to ask <PER>Dumbledore</PER> what that had been like, nor about any of <PER>Dumbledore</PER>'s other famous achievements.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.04264177407595704
+sentence: “It’s time to act.” <PER>Harry</PER> could tell from <PER>Ron</PER>’s and <PER>Hermione</PER>’s faces that they were scared; <PER>Harry</PER> was not particularly confident <PER>Harry</PER>, and yet <PER>Harry</PER> was sure the time had come to put their plan into operation.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.04264177407595704
+sentence: Behind <PER>Harry</PER>, whether from delight or fear <PER>Harry</PER> could not tell, <PER>Ron</PER> kept swearing at the top of <PER>Harry</PER>'s voice, and <PER>Hermione</PER> seemed to be sobbing.
+pattern_bef: Foe
+passive voice: False
+
+instance: Voldemort	Dumbledore	score:0.04234930753390964
+sentence: He had learned control at last, learned to shut He's mind to <PER>Voldemort</PER>, the very thing <PER>Dumbledore</PER> had wanted He to learn from <PER>Snape</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.041863225170017504
+sentence: <PER>Harry</PER> did not want to know, and even less did <PER>Harry</PER> want <PER>Dumbledore</PER> to have to tell <PER>Dumbledore</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.04183150726319573
+sentence: “Are you referring to the sign of the Deathly Hallows?” <PER>Harry</PER> turned to look at <PER>Ron</PER> and <PER>Hermione</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Ron	score:0.04127876401973607
+sentence: It was a shock to see <PER>Ron</PER> and <PER>Hermione</PER> standing exactly where <PER>Ron</PER> and <PER>Hermione</PER> had left them, <PER>Hermione</PER> still holding Lily’s letter, <PER>Ron</PER> at her side looking slightly anxious.
+pattern_bef: Foe
+passive voice: False
+
+instance: Dumbledore	Snape	score:0.04127876401973607
+sentence: <PER>Snape</PER> was slumped forward in a chair and <PER>Dumbledore</PER> was standing over <PER>Snape</PER>, looking grim.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.04125881175316293
+sentence: For a moment <PER>Harry</PER> considered suggesting they take refuge inside it, but before <PER>Harry</PER> could say anything <PER>Hermione</PER> murmured, “Let’s go this way,” and pulled <PER>Harry</PER> down the dark street leading out of the village in the opposite direction from which they had entered.
+pattern_bef: Foe
+passive voice: False
+
+instance: Dumbledore	Dudley	score:0.041096280940209895
+sentence: Had <PER>Dumbledore</PER> been like <PER>Dudley</PER>, content to watch neglect and abuse as long as it did not affect him?
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.04049784875114271
+sentence: <PER>Harry</PER> had finally managed to tell <PER>Ron</PER> the whole story of <PER>Harry</PER>'s and <PER>Hermione</PER>’s various wanderings, right up to the full story of what had happened at Godric’s Hollow; <PER>Ron</PER> was now filling <PER>Harry</PER> in on everything <PER>Harry</PER> had discovered about the wider Wizarding world during <PER>Harry</PER>'s weeks away. "
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.04034249807141488
+sentence: Nevertheless, <PER>Harry</PER>'s battered visage shone with happiness as <PER>Harry</PER> let go of <PER>Hermione</PER> and said again, “I knew you’d come!
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Harry	score:0.040239376233036306
+sentence: “It’s — too — dangerous — !” <PER>Ron</PER> yelled, but <PER>Harry</PER> wheeled in the air.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.040239376233036306
+sentence: “LET’S GO!” <PER>Harry</PER> yelled, and he, <PER>Ron</PER>, and <PER>Hermione</PER> gathered the Cloak tightly around themselves and pelted, heads down, through the midst of the fighters, slipping a little in pools of Snargaluff juice, toward the top of the marble staircase into the entrance hall.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Harry	score:0.04015534373125984
+sentence: “Yes, he is, <PER>Ron</PER>, please don’t start that again!” “Look at the facts, <PER>Hermione</PER>,” said <PER>Ron</PER>, speaking across <PER>Harry</PER>, who continued to gaze at the horizon.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Ron	score:0.03998889464283317
+sentence: Before <PER>Hermione</PER> could get farther than “<PER>Ron</PER>, I’m just as capable — ” the tapestry at the top of the staircase on which they stood was ripped open.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.039960773393053706
+sentence: It was as though a flame had been lit inside <PER>Harry</PER> that nothing, not <PER>Hermione</PER> ’s flat disbelief nor <PER>Ron</PER>’s persistent doubts, could extinguish.
+pattern_bef: Foe
+passive voice: False
+
+instance: Voldemort	Harry	score:0.03969831564991744
+sentence: <PER>Voldemort</PER> wanted <PER>Harry</PER> to do this, wanted <PER>Harry</PER> to come.
+pattern_bef: Foe
+passive voice: False
+
+instance: Dumbledore	Harry	score:0.03969831564991744
+sentence: <PER>Harry</PER> had never questioned <PER>Harry</PER>'s own assumption that <PER>Dumbledore</PER> wanted <PER>Harry</PER> alive.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ginny	score:0.03969831564991744
+sentence: <PER>Harry</PER> wanted to shout out to the night, <PER>Harry</PER> wanted <PER>Ginny</PER> to know that <PER>Harry</PER> was there, <PER>Harry</PER> wanted <PER>Ginny</PER>'s to know where <PER>Harry</PER> was going.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ginny	score:0.03969831564991744
+sentence: <PER>Harry</PER> wanted to shout out to the night, <PER>Harry</PER> wanted <PER>Ginny</PER> to know that <PER>Harry</PER> was there, <PER>Harry</PER> wanted <PER>Ginny</PER>'s to know where <PER>Harry</PER> was going.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Dudley	score:0.03957321062120789
+sentence: “these people think I’m a waste of space, actually, but I’m used to — ” “I don’t think you’re a waste of space.” If <PER>Harry</PER> had not seen <PER>Dudley</PER>’s lips move, <PER>Harry</PER> might not have believed it.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.03957321062120789
+sentence: Perhaps deciding that all <PER>Harry</PER> had seen was <PER>Dumbledore</PER> scratching <PER>Dumbledore</PER>'s nose on the front of the book, for <PER>Harry</PER> had hastily replaced it upon the shelf, Thicknesse finally walked to the desk and pointed Thicknesse's wand at the quill standing ready in the ink pot.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.03957321062120789
+sentence: <PER>Harry</PER> fingers moved absentmindedly to the little pouch still strung around <PER>Harry</PER>'s neck, through which <PER>Harry</PER> could feel the jagged mirror fragment in which <PER>Harry</PER> had been sure <PER>Harry</PER> had seen <PER>Dumbledore</PER>’s eye.
+pattern_bef: Foe
+passive voice: False
+
+instance: Dumbledore	Harry	score:0.03957321062120789
+sentence: At last <PER>Harry</PER> knew what <PER>Dumbledore</PER> would have seen when <PER>Harry</PER> looked in the Mirror of Erised, and why <PER>Dumbledore</PER> had been so understanding of the fascination it had exercised over <PER>Harry</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Snape	score:0.03956630433371999
+sentence: <PER>Harry</PER> was standing right behind <PER>Snape</PER> as they faced the candlelit House tables, lined with rapt faces.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.03942513244635748
+sentence: <PER>Harry</PER> caught hold of <PER>Hermione</PER> ’s free arm, and <PER>Harry</PER> felt her turn on the spot; sight and sound were extinguished as darkness pressed in upon him; all him could feel was <PER>Hermione</PER>’s hand as <PER>Harry</PER> was squeezed through space and time, away from the Burrow, away from the descending Death Eaters, away, perhaps, from <PER>Voldemort</PER> himself.
+pattern_bef: Foe
+passive voice: False
+
+instance: Dumbledore	Snape	score:0.03883878736435642
+sentence: Now, <PER>Harry</PER> saw <PER>Snape</PER> talking to the portrait of <PER>Dumbledore</PER> behind <PER>Snape</PER>'s desk.
+pattern_bef: Foe
+passive voice: False
+
+instance: Dumbledore	Ron	score:0.03880493024240261
+sentence: <PER>Dumbledore</PER> had warned <PER>Dumbledore</PER> against telling anyone but <PER>Ron</PER> and <PER>Hermione</PER> about the Horcruxes.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.03873023134736264
+sentence: <PER>Harry</PER> did not know what to think, what to believe: <PER>Harry</PER> wanted the truth, and yet all Doge did was sit there and bleat feebly that Ariana had been ill. <PER>Harry</PER> could hardly believe that <PER>Dumbledore</PER> would not have intervened if such cruelty was happening inside <PER>Harry</PER>'s own house, and yet there was undoubtedly something odd about the story.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	McGonagall	score:0.03850477670087482
+sentence: <PER>Harry</PER> felt exactly as <PER>Harry</PER> had done on the occasion, several years previously, when <PER>Harry</PER> had asked Professor <PER>McGonagall</PER> whether Professor <PER>McGonagall</PER> could go into Hogsmeade, despite the fact that he had not persuaded the Dursleys to sign his permission slip.
+pattern_bef: Foe
+passive voice: False
+
+instance: Malfoy	Voldemort	score:0.038504774218162674
+sentence: <PER>Harry</PER> Potter and the Deathly Hallows - J.K. Rowling “And you, <PER>Malfoy</PER>?” asked <PER>Voldemort</PER>, stroking the snake’s snout with <PER>Voldemort</PER>'s wand-free hand.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Hermione	score:0.038504774218162674
+sentence: “Just as a matter of interest, why Tottenham Court Road?” <PER>Ron</PER> asked <PER>Hermione</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Harry	score:0.038504774218162674
+sentence: “D’you reckon we should move on?” <PER>Ron</PER> asked <PER>Harry</PER>, and <PER>Harry</PER> could tell by the look on <PER>Ron</PER>’s face that he was thinking the same.
+pattern_bef: Foe
+passive voice: False
+
+instance: Voldemort	Dumbledore	score:0.038504774218162674
+sentence: “You told us that <PER>Voldemort</PER> asked <PER>Dumbledore</PER> to give him a job after he left,” said <PER>Hermione</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.038504774218162674
+sentence: “So why are you still here?” <PER>Harry</PER> asked <PER>Ron</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.038504774218162674
+sentence: “What’s wrong?” <PER>Hermione</PER> asked as <PER>Harry</PER> descended the staircase, but before <PER>Harry</PER> could respond, Xenophilius reached the top of the stairs from the kitchen, now holding a tray laden with bowls.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.038504774218162674
+sentence: “How are you?” <PER>Harry</PER> asked <PER>Hermione</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Voldemort	Harry	score:0.038504774218162674
+sentence: “And <PER>Voldemort</PER> is interested in it, isn’t <PER>Voldemort</PER>?” asked <PER>Harry</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Neville	score:0.038504774218162674
+sentence: “How do we get out?” <PER>Harry</PER> asked <PER>Neville</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Harry	score:0.038504774218162674
+sentence: “Where’s <PER>Ron</PER>?” asked <PER>Harry</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Voldemort	Harry	score:0.038504774218162674
+sentence: “So how come you three aren’t with <PER>Voldemort</PER>?” asked <PER>Harry</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Dumbledore	Harry	score:0.038504774218162674
+sentence: “Where would you say that we are?” Until <PER>Dumbledore</PER> had asked, <PER>Harry</PER> had not known.
+pattern_bef: Foe
+passive voice: False
+
+instance: Voldemort	Neville	score:0.038504774218162674
+sentence: “But you are a pureblood, aren’t you, my brave boy?” <PER>Voldemort</PER> asked <PER>Neville</PER>, who stood facing <PER>Voldemort</PER>, <PER>Voldemort</PER>'s empty hands curled in fists.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Harry	score:0.038504774218162674
+sentence: “Parked all right, then?” <PER>Ron</PER> asked <PER>Harry</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.03820123049811397
+sentence: “How in the name of Merlin’s pants have you managed to get your hands on those Horcrux books?” “It — it wasn’t stealing!” said <PER>Hermione</PER>, looking from <PER>Harry</PER> to <PER>Ron</PER> with a kind of desperation.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ginny	Harry	score:0.03820123049811397
+sentence: <PER>Ginny</PER> looked up into <PER>Harry</PER>’s face, took a deep breath, and said, “Happy seventeenth.” “Yeah thanks.” <PER>Ginny</PER> was looking at <PER>Harry</PER> steadily; <PER>Harry</PER>, however, found it difficult to look back at <PER>Ginny</PER>; it was like gazing into a brilliant light.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Harry	score:0.03820123049811397
+sentence: “Blimey, that’s scary,” said <PER>Ron</PER>, looking up at <PER>Harry</PER>, who now towered over him.
+pattern_bef: Foe
+passive voice: False
+
+instance: Umbridge	Hermione	score:0.03820123049811397
+sentence: “Ah, Mafalda!” said <PER>Umbridge</PER>, looking at <PER>Hermione</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.03820123049811397
+sentence: <PER>Hermione</PER> was looking at <PER>Harry</PER>, and <PER>Harry</PER> was glad that <PER>Harry</PER>'s face was hidden in shadow.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.03820123049811397
+sentence: <PER>Harry</PER>’s eyes flew open as <PER>Harry</PER> wrenched <PER>Harry</PER> back to the present: <PER>Harry</PER> was lying on the bank of the lake in the setting sun, and <PER>Ron</PER> and <PER>Hermione</PER> were looking down at <PER>Harry</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Voldemort	Snape	score:0.03820123049811397
+sentence: He closed He's eyes, and suddenly He was <PER>Voldemort</PER>, looking into <PER>Snape</PER>’s pale face.
+pattern_bef: Foe
+passive voice: False
+
+instance: Voldemort	Harry	score:0.03800385596416245
+sentence: Convinced as <PER>Hermione</PER> was that <PER>Voldemort</PER> would expect <PER>Harry</PER> to return to the scene of <PER>Harry</PER>'s parents’ deaths, she was determined that they would set off only after they had ensured that they had the best disguises possible.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.03765016792597242
+sentence: Everything inside <PER>Harry</PER> felt cold and tight: Again <PER>Harry</PER> saw the contemptuous expression on <PER>Ron</PER>’s face.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Ron	score:0.03760645233888393
+sentence: “<PER>Snape</PER> could send Phineas Nigellus to look inside this house for Phineas Nigellus,” <PER>Hermione</PER> explained to <PER>Ron</PER> as she resumed her seat.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.037579919874053624
+sentence: Accordingly <PER>Harry</PER> and <PER>Hermione</PER> spent fruitless hours trying to decide where <PER>Harry</PER> and <PER>Hermione</PER> might find the other Horcruxes, and how to destroy the one <PER>Harry</PER> and <PER>Hermione</PER> had already got, <PER>Harry</PER>'s conversations becoming increasingly repetitive as <PER>Harry</PER> and <PER>Hermione</PER> had no new information.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.03745853422289247
+sentence: he said that <PER>Voldemort</PER> required an elf.” “<PER>Voldemort</PER> needed an elf?” <PER>Harry</PER> repeated, looking around at <PER>Ron</PER> and <PER>Hermione</PER>, who looked just as puzzled as <PER>Harry</PER> did.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Harry	score:0.03731615183087278
+sentence: <PER>Ron</PER> sat watching her, and <PER>Harry</PER> looked from one to the other, unable to say anything.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.03722798763510071
+sentence: Then the worst scream yet made <PER>Harry</PER> look down: <PER>Ron</PER> and <PER>Hermione</PER> were waist-deep in treasure, struggling to keep Bogrod from slipping beneath the rising tide, but Griphook had sunk out of sight and nothing but the tips of a few long fingers were left in view.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.03709967394035063
+sentence: <PER>Hermione</PER> jumped and clutched <PER>Harry</PER>’s arm.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.036884046711295415
+sentence: It was now packed inside the beaded bag, which, <PER>Harry</PER> was impressed to learn, <PER>Hermione</PER> had protected from the Snatchers by the simple expedient of stuffing it down <PER>Hermione</PER>'s sock.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ginny	Harry	score:0.036858461043178914
+sentence: <PER>Ginny</PER> looked up into <PER>Harry</PER>’s face, took a deep breath, and said, “Happy seventeenth.” “Yeah thanks.” <PER>Ginny</PER> was looking at <PER>Harry</PER> steadily; <PER>Harry</PER>, however, found it difficult to look back at <PER>Ginny</PER>; it was like gazing into a brilliant light.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Ron	score:0.036858461043178914
+sentence: <PER>Hermione</PER> looked sympathetic, <PER>Ron</PER> uncertain.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.036858461043178914
+sentence: “And I’d tell <PER>Harry</PER> to follow <PER>Harry</PER>'s instincts, which are good and nearly always right.” <PER>Harry</PER> looked at <PER>Hermione</PER>, whose eyes were full of tears.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.036858461043178914
+sentence: <PER>Harry</PER> looked at <PER>Ron</PER> and <PER>Hermione</PER> and saw terror in their faces.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Neville	score:0.036858461043178914
+sentence: The longer <PER>Harry</PER> looked at <PER>Neville</PER>, the worse <PER>Harry</PER> appeared: One of <PER>Harry</PER>'s eyes was swollen yellow and purple, there were gouge marks on <PER>Harry</PER>'s face, and <PER>Harry</PER>'s general air of unkemptness suggested that <PER>Harry</PER> had been living rough.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Snape	score:0.036858461043178914
+sentence: When <PER>Harry</PER> looked up again, <PER>Snape</PER> was in full flight, <PER>McGonagall</PER>, Flitwick, and Sprout all thundering after him: him hurtled through a classroom door and, moments later, him heard <PER>McGonagall</PER> cry, “Coward!
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.036781792788161405
+sentence: Cudgel his brains though his might, <PER>Harry</PER> could not remember <PER>Dumbledore</PER> ever mentioning a place in which <PER>Harry</PER> might hide something.
+pattern_bef: Foe
+passive voice: False
+
+instance: Voldemort	Hagrid	score:0.03656598382799081
+sentence: “I saw <PER>Voldemort</PER> too, <PER>Voldemort</PER> came after <PER>Hagrid</PER> and me.” “So that’s why he left, to follow you!” said Kingsley.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.03636103393687773
+sentence: “<PER>Harry</PER>, quickly, in my bag, there’s a small bottle labeled ‘Essence of Dittany’ — ” “Bag — right — ” <PER>Harry</PER> sped to the place where <PER>Hermione</PER> had landed, seized the tiny beaded bag, and thrust <PER>Harry</PER>'s hand inside it.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Snape	score:0.03630584953725635
+sentence: <PER>Harry</PER> remained kneeling at <PER>Snape</PER>’s side, simply staring down at <PER>Harry</PER>, until quite suddenly a high, cold voice spoke so close to them that <PER>Harry</PER> jumped to <PER>Harry</PER>'s feet, the flask gripped tightly in <PER>Harry</PER>'s hands, thinking that <PER>Voldemort</PER> had reentered the room.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.036227828401101614
+sentence: <PER>Harry</PER> put <PER>Harry</PER>'s arm around <PER>Hermione</PER>’s shoulders, and <PER>Hermione</PER> put hers around <PER>Harry</PER>'s waist, and they turned in silence and walked away through the snow, past <PER>Dumbledore</PER>’s mother and sister, back toward the dark church and the out-of-sight kissing gate.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Harry	score:0.03589639335222106
+sentence: <PER>Ron</PER> looked toward him, and <PER>Harry</PER> thought <PER>Harry</PER> saw a trace of scarlet in his eyes.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.035890297381738656
+sentence: <PER>Harry</PER> knew exactly what <PER>Hermione</PER> would say if <PER>Harry</PER> expressed any of this: The wand is only as good as the wizard.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.035637407115704844
+sentence: <PER>Harry</PER> did not ask whether <PER>Dumbledore</PER> had ever found out who struck Ariana dead.
+pattern_bef: Foe
+passive voice: False
+
+instance: Voldemort	Snape	score:0.035535701981417644
+sentence: “My Lord,” Yaxley went on, “Dawlish believes an entire party of Aurors will be used to transfer the boy <PER>Voldemort</PER> held up a large white hand, and Yaxley subsided at once, watching resentfully as <PER>Voldemort</PER> turned back to <PER>Snape</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Dumbledore	Snape	score:0.035535701981417644
+sentence: <PER>Dumbledore</PER> watched <PER>Dumbledore</PER>'s fly away, and as <PER>Dumbledore</PER>'s silvery glow faded <PER>Dumbledore</PER> turned back to <PER>Snape</PER>, and <PER>Dumbledore</PER>'s eyes were full of tears.
+pattern_bef: Foe
+passive voice: False
+
+instance: Neville	Harry	score:0.03546020665119598
+sentence: <PER>Dumbledore</PER> had died knowing that three people still knew about the Horcruxes; now <PER>Neville</PER> would take <PER>Harry</PER>’s place: There would still be three in the secret.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.03534831427815843
+sentence: They could have visited the place together; for a moment <PER>Harry</PER> imagined coming here with <PER>Dumbledore</PER>, of what a bond that would have been, of how much it would have meant to <PER>Harry</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.034959360981655196
+sentence: <PER>Harry</PER> put <PER>Harry</PER>'s arm around <PER>Hermione</PER>’s shoulders, and <PER>Hermione</PER> put hers around <PER>Harry</PER>'s waist, and they turned in silence and walked away through the snow, past <PER>Dumbledore</PER>’s mother and sister, back toward the dark church and the out-of-sight kissing gate.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.034905257391740885
+sentence: “C’mon.” “Why?” <PER>Harry</PER> asked, following <PER>Ron</PER> out of the room onto the tiny landing.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Hermione	score:0.034751688901501376
+sentence: “But — ” <PER>Ron</PER> started angrily; <PER>Hermione</PER> nudged him in the ribs.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.03462173357042664
+sentence: <PER>Hermione</PER> showed <PER>Harry</PER> the symbol beneath it.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Harry	score:0.034615590689537235
+sentence: “I told you, <PER>Harry</PER>, I told you, we can’t say it anymore — we’ve got to put the protection back around we — quickly — it’s how they find — ” But <PER>Ron</PER> stopped talking, and <PER>Harry</PER> knew why.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.03424658027491767
+sentence: As the days stretched into weeks, <PER>Harry</PER> began to suspect that <PER>Ron</PER> and <PER>Hermione</PER> were having conversations without, and about, him.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Snape	score:0.03421410110869383
+sentence: <PER>Harry</PER> walked slowly, waiting for <PER>Snape</PER> ’s figure to disappear.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Harry	score:0.03418197235044118
+sentence: <PER>Harry</PER> managed to fight down the impulse to swear at <PER>Ron</PER>, whose attitude would, <PER>Harry</PER> knew, improve slightly when the time came to take off the locket.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Hermione	score:0.034119581874751725
+sentence: “DONT!” <PER>Ron</PER> yelled, grabbing <PER>Hermione</PER>’s hand as she raised shis wand.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.03408828702471611
+sentence: “<PER>Harry</PER>?” <PER>Hermione</PER> looked frightened that <PER>Harry</PER>?
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.03399155592058811
+sentence: “You come back after weeks — weeks — and you think it’s all going to be all right if you just say sorry?” “Well, what else can I say?” <PER>Ron</PER> shouted, and <PER>Harry</PER> was glad that <PER>Ron</PER> was fighting back.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.03386239462187823
+sentence: <PER>Harry</PER> flung open the door; <PER>Ron</PER> was standing there beside the sinks, still wrestling with Mistress Cattermole.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Harry	score:0.033329350313140216
+sentence: <PER>Harry</PER> slipped into a booth first and <PER>Ron</PER> sat next to <PER>Harry</PER> opposite <PER>Hermione</PER>, who had her back to the entrance and did not like it: She glanced over her shoulder so frequently She appeared to have a twitch.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.03322112210753325
+sentence: <PER>Harry</PER> could not bear to look at Fred a second longer than <PER>Harry</PER> had to, and after making sure that the body was well hidden, <PER>Harry</PER> took off after <PER>Ron</PER> and <PER>Hermione</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Voldemort	Harry	score:0.033218331353361275
+sentence: The enormity of his decision not to race <PER>Voldemort</PER> to the wand still scared <PER>Harry</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.033194107220585134
+sentence: <PER>Harry</PER> impulse to shout for <PER>Hermione</PER>, which had been so strong a moment ago, had gone.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.0330923882599804
+sentence: <PER>Harry</PER> walked back to where <PER>Ron</PER> stood waiting, still holding the sword and the Horcrux.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hagrid	score:0.03303866389395027
+sentence: “Of course, none of our guests are Death Eaters, but we cannot guarantee zat zey will not let something slip after zey ’ave ’ad champagne.” From this, <PER>Harry</PER> gathered that she still suspected <PER>Hagrid</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Hermione	score:0.03297151371736118
+sentence: “Shame he wasn’t concentrating when they mentioned how to stop it, really,” said <PER>Ron</PER>, whose hair, like <PER>Hermione</PER>’s, was singed, and whose face was blackened.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.03291981067450489
+sentence: <PER>Ron</PER> was making no effort to hide his bad mood, and <PER>Harry</PER> was starting to fear that <PER>Hermione</PER> too was disappointed by <PER>Harry</PER>'s poor leadership.
+pattern_bef: Foe
+passive voice: True
+
+instance: Harry	Ron	score:0.032748235674296855
+sentence: “Protego\” Protego\ cried, and an invisible shield expanded between Protego\'s and <PER>Harry</PER> on the one side and <PER>Ron</PER> on the other; all of them were forced backward a few steps by the strength of the spell, and <PER>Harry</PER> and <PER>Ron</PER> glared from either side of the transparent barrier as though they were seeing each other clearly for the first time.
+pattern_bef: Foe
+passive voice: False
+
+instance: Voldemort	Harry	score:0.03262018092309482
+sentence: <PER>Voldemort</PER> had stationed Alecto Carrow in the Ravenclaw common room, and there could only be one explanation: <PER>Voldemort</PER> feared that <PER>Harry</PER> already knew <PER>Harry</PER>'s Horcrux was connected to that House.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ginny	score:0.032511104832809834
+sentence: <PER>Harry</PER> turned to <PER>Ginny</PER> and <PER>Ginny</PER> answered <PER>Harry</PER>'s unspoken plea for information at once.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.032511104832809834
+sentence: “How did they know where we were?” <PER>Hermione</PER> turned to <PER>Harry</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Harry	score:0.032511104832809834
+sentence: <PER>Ron</PER> turned suddenly to <PER>Harry</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ginny	Harry	score:0.032511104832809834
+sentence: <PER>Ginny</PER> turned, helpless, to <PER>Harry</PER>, <PER>Ron</PER>, and <PER>Hermione</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: McGonagall	Snape	score:0.032459694904969694
+sentence: At last, when only a dozen students remained to be sorted, Professor <PER>McGonagall</PER> called <PER>Snape</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.03238343715300562
+sentence: <PER>Harry</PER> looked around, holding <PER>Hermione</PER>’s wand high, and saw the place: a flattish rock lying in the shadow of a sycamore tree.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.032361167714111794
+sentence: “I’m sorry, I’m sorry!” <PER>Hermione</PER> cried as <PER>Harry</PER> wrenched the book from <PER>Ron</PER>’s leg and retied it shut.
+pattern_bef: Foe
+passive voice: False
+
+instance: Dumbledore	Harry	score:0.032359772121783426
+sentence: And <PER>Dumbledore</PER> had known that <PER>Harry</PER> would not duck out, that <PER>Harry</PER> would keep going to the end, even though it was <PER>Harry</PER>'s end, because <PER>Harry</PER> had taken trouble to get to know <PER>Harry</PER>, hadn’t <PER>Harry</PER>?
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.03232911074274447
+sentence: <PER>Harry</PER> glanced back at <PER>Hermione</PER> with a reassuring smile, but <PER>Harry</PER> was not sure <PER>Hermione</PER> had seen it; <PER>Hermione</PER> stood hugging <PER>Hermione</PER> in the midst of the candlelit squalor, looking toward the bookcase.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.03229088044241801
+sentence: “The door, get to the door, the door!” screamed <PER>Malfoy</PER> in <PER>Harry</PER>’s ear, and <PER>Harry</PER> sped up, following <PER>Ron</PER>, <PER>Hermione</PER>, and Goyle through the billowing black smoke, hardly able to breathe: and all around them the last few objects unburned by the devouring flames were flung into the air, as the creatures of the cursed fire cast them high in celebration: cups and shields, a sparkling necklace, and an old, discolored tiara — “ What are you doing, what are you doing, the door’s that way\” screamed <PER>Malfoy</PER>, but <PER>Harry</PER> made a hairpin swerve and dived.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.0322789036992569
+sentence: <PER>Hermione</PER> took it and read it while <PER>Harry</PER> watched <PER>Hermione</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.0322789036992569
+sentence: He and <PER>Hermione</PER> had been poring over a sheaf of scribbled notes and hand-drawn maps that littered the end of the long kitchen table, but now He and <PER>Hermione</PER> watched <PER>Harry</PER> as <PER>Harry</PER> strode toward them and threw down the newspaper on top of them's scattered parchment.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Snape	score:0.0322789036992569
+sentence: <PER>Harry</PER> watched again as <PER>Snape</PER> left the Great Hall after sitting <PER>Harry</PER>'s O.W.L.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.032195232801449536
+sentence: They had just eaten an unusually good meal: <PER>Hermione</PER> had been to a supermarket under the Invisibility Cloak (scrupulously dropping the money into an open till as <PER>Hermione</PER> left), and <PER>Harry</PER> thought that <PER>Hermione</PER> might be more persuadable than usual on a stomach full of spaghetti Bolognese and tinned pears.
+pattern_bef: Foe
+passive voice: False
+
+instance: Dumbledore	Harry	score:0.03219523269669278
+sentence: Everyone exclaimed over the Deluminator and The Tales of Beedle the Bard and lamented the fact that Scrimgeour had refused to pass on the sword, but none of them could offer any suggestion as to why <PER>Dumbledore</PER> would have left <PER>Harry</PER> an old Snitch.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.03219523269669278
+sentence: <PER>Harry</PER> remembered: It had been the first time <PER>Ron</PER>’s name had been said aloud by either of them since the day <PER>Harry</PER> had left; <PER>Hermione</PER> had mentioned it when talking about repairing <PER>Harry</PER>’s wand.
+pattern_bef: Foe
+passive voice: False
+
+instance: Dumbledore	Harry	score:0.031924958900897416
+sentence: “But <PER>Dumbledore</PER> would have found it, <PER>Harry</PER>!” <PER>Harry</PER> repeated the argument <PER>Harry</PER> kept bringing out in favor of this theory.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.031924958900897416
+sentence: When <PER>Harry</PER> and <PER>Hermione</PER> caught up with <PER>Harry</PER>, panting and clutching stitches in <PER>Harry</PER> and <PER>Hermione</PER>'s sides, <PER>Harry</PER> and <PER>Hermione</PER> found <PER>Harry</PER> grinning broadly.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.031924958900897416
+sentence: <PER>Harry</PER> had been staring out over the wall that separated the cottage garden from the cliff when <PER>Ron</PER> and <PER>Hermione</PER> had found <PER>Harry</PER>; <PER>Harry</PER> wished they had not, having no wish to join in with their argument.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.03188884693626781
+sentence: <PER>Ron</PER> was making no effort to hide his bad mood, and <PER>Harry</PER> was starting to fear that <PER>Hermione</PER> too was disappointed by <PER>Harry</PER>'s poor leadership.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.03187052983901517
+sentence: All the jobs her handed out seemed to keep <PER>Harry</PER>, <PER>Ron</PER>, and <PER>Hermione</PER> away from one another; <PER>Harry</PER> had not had a chance to speak to the two of them alone since the first night, when <PER>Harry</PER> had told them about <PER>Voldemort</PER> torturing Ollivander.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hagrid	score:0.03181361255789161
+sentence: “<PER>Hagrid</PER>, TURN “My job’s ter get you there safe, <PER>Harry</PER>!” bellowed <PER>Hagrid</PER>, and <PER>Harry</PER>!” opened the throttle.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hagrid	score:0.03181361255789161
+sentence: “It’s all righ’, <PER>Harry</PER>!” bellowed <PER>Hagrid</PER>, now thrown flat onto his back by the surge of speed; nobody was steering now, and the sidecar was starting to twist violently in the bike’s slipstream.
+pattern_bef: Foe
+passive voice: False
+
+instance: Neville	Harry	score:0.03181361255789161
+sentence: “Mandrakes!” <PER>Neville</PER> bellowed at <PER>Harry</PER> over his shoulder as <PER>Harry</PER> ran.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.03170068559141914
+sentence: <PER>Harry</PER> met <PER>Hermione</PER>, also on her hands and knees, at <PER>Ron</PER>’s head.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.03170068559141914
+sentence: “Well?” For the first time since <PER>Harry</PER> had met <PER>Dumbledore</PER>, he looked less than an old man, much less.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Harry	score:0.03168508869219422
+sentence: “Go back to them, pretend you’ve got over your spattergroit and Mummy’ll be able to feed you up and — ” <PER>Ron</PER> made a sudden movement: <PER>Harry</PER> reacted, but before either wand was clear of its owner’s pocket, <PER>Hermione</PER> had raised <PER>Hermione</PER>'s own.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Hermione	score:0.03154760865411399
+sentence: “What?” said <PER>Harry</PER> and <PER>Ron</PER> together; both considered <PER>Hermione</PER> ’s Quidditch knowledge negligible.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hagrid	score:0.031540870666503906
+sentence: <PER>Harry</PER> pulled out <PER>Hagrid</PER>’s purse and took out the fake Horcrux, the substitute locket in which Regulus had placed the note to <PER>Voldemort</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Hermione	score:0.031540870666503906
+sentence: “What can we do?” “Here!” <PER>Harry</PER> seized a pair of heavy-looking broomsticks from the nearest pile of junk and threw one to <PER>Ron</PER>, who pulled <PER>Hermione</PER> onto it behind him.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Harry	score:0.03140564438177562
+sentence: <PER>Hermione</PER>’s sulkiness could not mar his buoyant spirits: The sudden upswing in their fortunes, the appearance of the mysterious doe, the recovery of Gryffindor’s sword, and above all, <PER>Ron</PER>’s return, made <PER>Harry</PER> so happy that it was quite difficult to maintain a straight face.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.03134921506232424
+sentence: No, they had always discussed <PER>Harry</PER>, <PER>Harry</PER>’s past, <PER>Harry</PER>’s future, <PER>Harry</PER>’s plans and it seemed to <PER>Harry</PER> now, despite the fact that <PER>Harry</PER>'s future was so dangerous and so uncertain, that <PER>Harry</PER> had missed irreplaceable opportunities when <PER>Harry</PER> had failed to ask <PER>Dumbledore</PER> more about <PER>Harry</PER>, even though the only personal question <PER>Harry</PER> had ever asked <PER>Harry</PER>'s headmaster was also the only one <PER>Harry</PER> suspected that <PER>Dumbledore</PER> had not answered honestly: “ What do you see when you look in the mirror?” <PER>Harry</PER> Potter and the Deathly Hallows - J.K. Rowling “!?
+pattern_bef: Foe
+passive voice: False
+
+instance: Dumbledore	Harry	score:0.031292086460411705
+sentence: If only he had the stone, only he had the stone could ask <PER>Dumbledore</PER> these questions in person and <PER>Harry</PER> murmured words to the Snitch in the darkness, trying everything, even Parseltongue, but the golden ball would not open.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Ron	score:0.0312898609646407
+sentence: <PER>Harry</PER> saw <PER>Hermione</PER> give <PER>Ron</PER> a little push and <PER>Harry</PER> hurried out of the lift, followed by the other wizards, leaving <PER>Harry</PER> and <PER>Hermione</PER> alone.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Snape	score:0.03106939498834349
+sentence: <PER>Harry</PER> could not see <PER>Harry</PER>'s face: <PER>Harry</PER> wondered whether <PER>Snape</PER> sensed danger, was trying to find the right words to reassure <PER>Harry</PER>'s master.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.03106939498834349
+sentence: They crawled back through the tunnel, none of They talking, and <PER>Harry</PER> wondered whether <PER>Ron</PER> and <PER>Hermione</PER> could still hear <PER>Voldemort</PER> ringing in their heads, as <PER>Voldemort</PER> could.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.031061497013073924
+sentence: “I’ll understand if you can’t confirm this, <PER>Harry</PER>, but the Order is under the impression that <PER>Dumbledore</PER> left you a mission.” “He did,” <PER>Harry</PER> replied, “and <PER>Ron</PER> and <PER>Hermione</PER> are in on it and they’re coming with me.” “Can you confide in me what the mission is?” <PER>Harry</PER> looked into the prematurely lined face, framed in thick but graying hair, and wished that <PER>Harry</PER> could return a different answer.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.031060733543485153
+sentence: <PER>Harry</PER> could not wait to wake <PER>Hermione</PER>, and it was with quickening excitement that <PER>Harry</PER> entered the tent, <PER>Ron</PER> lagging a little behind him.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.031016843378503522
+sentence: <PER>Harry</PER> looked round: <PER>Ron</PER> and <PER>Hermione</PER> were following <PER>Harry</PER>, but the other three had vanished back into the battle.
+pattern_bef: Foe
+passive voice: False
+
+instance: Voldemort	Dumbledore	score:0.03097810778011567
+sentence: Grief, it seemed, drove <PER>Voldemort</PER> out though <PER>Dumbledore</PER>, of course, would have said that it was love.
+pattern_bef: Foe
+passive voice: False
+
+instance: Voldemort	Harry	score:0.03090493515660897
+sentence: <PER>Voldemort</PER> had frozen where <PER>Voldemort</PER> stood, but <PER>Voldemort</PER>'s red eyes had found <PER>Harry</PER>, and <PER>Voldemort</PER> stared as <PER>Harry</PER> moved toward <PER>Harry</PER>, with nothing but the fire between them.
+pattern_bef: Foe
+passive voice: False
+
+instance: Snape	Dumbledore	score:0.030871211048663638
+sentence: “You believe <PER>Snape</PER> killed <PER>Dumbledore</PER>?” “ ’Course I do,” said Ted.
+pattern_bef: Foe
+passive voice: False
+
+instance: Voldemort	Harry	score:0.030870626155231173
+sentence: “He was killed while trying to sneak out of the castle grounds,” said <PER>Voldemort</PER>, and there was relish in <PER>Voldemort</PER>'s voice for the lie, “killed while trying to save himself — ” But <PER>Voldemort</PER> broke off: <PER>Harry</PER> heard a scuffle and a shout, then another bang, a flash of light, and a grunt of pain; <PER>Voldemort</PER> opened <PER>Voldemort</PER>'s eyes an infinitesimal amount.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.03079745606577422
+sentence: “True.” <PER>Harry</PER> waited, but <PER>Dumbledore</PER> did not speak, so <PER>Dumbledore</PER> prompted <PER>Dumbledore</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Malfoy	Voldemort	score:0.03071570642215693
+sentence: <PER>Harry</PER> felt sickened by what <PER>Harry</PER> had seen, by the use to which <PER>Malfoy</PER> was now being put by <PER>Voldemort</PER>.
+pattern_bef: Foe
+passive voice: True
+
+instance: Hermione	Harry	score:0.030607764253911318
+sentence: “Master has not finished Master's soup, would Master prefer the savory stew, or else the treacle tart to which Master is so partial?” “Thanks, Kreacher, but I’ll be back in a minute — er — bathroom.” Aware that <PER>Hermione</PER> was watching him suspiciously, <PER>Harry</PER> hurried up the stairs to the hall and then to the first landing, where <PER>Harry</PER> dashed into the bathroom and bolted the door again.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Ron	score:0.030607764253911318
+sentence: <PER>Hermione</PER> was watching <PER>Ron</PER> fret over the fate of the Cattermoles, and there was such tenderness in <PER>Hermione</PER>'s expression that <PER>Harry</PER> felt almost as if <PER>Harry</PER> had surprised her in the act of kissing <PER>Harry</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Hermione	score:0.030607764253911318
+sentence: “Did you just say you got away from the Snatchers with a spare wand?” “What?” said <PER>Ron</PER>, who had been watching <PER>Hermione</PER> examining the locket.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Harry	score:0.03049159472039409
+sentence: <PER>Ron</PER> looked smug, and <PER>Harry</PER> felt hugely relieved.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.030339775216538523
+sentence: “<PER>Harry</PER> Potter,” he squeaked in the tiniest quiver of a voice, “Dobby has come to rescue you.” “But how did you — ?” An awful scream drowned <PER>Harry</PER>’s words: <PER>Hermione</PER> was being tortured again.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.030339773188023833
+sentence: <PER>Harry</PER> directed <PER>Harry</PER>'s words at <PER>Dumbledore</PER>, however, and chose them with enormous care.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Ron	score:0.030279620287101405
+sentence: <PER>Hermione</PER> looked rather pink and <PER>Ron</PER>’s ears were still scarlet.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Hermione	score:0.030250419670781348
+sentence: As <PER>Ron</PER> ran to pull <PER>Hermione</PER> out of the wreckage, <PER>Harry</PER> took <PER>Harry</PER>'s chance: <PER>Harry</PER> leapt over an armchair and wrested the three wands from <PER>Malfoy</PER>’s grip, pointed all of them at Greyback, and yelled, “Stupefyl” The werewolf was lifted off The werewolf's feet by the triple spell, flew up to the ceiling, and then smashed to the ground.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.03018444862158698
+sentence: If only he knew Legilimency, really knew it, and could read <PER>Hermione</PER>’s mind; <PER>Harry</PER> could practically hear <PER>Hermione</PER>'s brain whirring beside <PER>Harry</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.029783001076759352
+sentence: <PER>Harry</PER> could not wait to wake <PER>Hermione</PER>, and it was with quickening excitement that <PER>Harry</PER> entered the tent, <PER>Ron</PER> lagging a little behind him.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	McGonagall	score:0.029781536550632537
+sentence: “Go and wake your students, Horace.” <PER>Harry</PER> did not stay to watch Slughorn splutter: <PER>Harry</PER> and Luna ran after Professor <PER>McGonagall</PER>, who had taken up a position in the middle of the corridor and raised her wand.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.029781536550632537
+sentence: Well, it was the truth, <PER>Harry</PER> thought as <PER>Harry</PER> ran on again; <PER>Dumbledore</PER>, who had defended <PER>Snape</PER> for so long, would never have held students ransom.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hagrid	Harry	score:0.02971926423692217
+sentence: Scrimgeour put Scrimgeour's hand inside Scrimgeour's cloak and drew out a drawstring pouch much larger than the one <PER>Hagrid</PER> had given <PER>Harry</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.02971926423692217
+sentence: With the Sneakoscope <PER>Hermione</PER> had given <PER>Harry</PER> for <PER>Harry</PER>'s birthday set carefully upon the table in the tent, <PER>Harry</PER> and <PER>Hermione</PER> spent the rest of the day sharing the role of lookout.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hagrid	Harry	score:0.02971926423692217
+sentence: After <PER>Hermione</PER> had gone to bed that night, <PER>Harry</PER> quietly extracted <PER>Harry</PER>'s rucksack from <PER>Hermione</PER> ’s beaded bag, and from inside it, the photograph album <PER>Hagrid</PER> had given <PER>Harry</PER> so long ago.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Harry	score:0.02971926423692217
+sentence: <PER>Harry</PER> took aim at it with the wand <PER>Ron</PER> had given <PER>Harry</PER> the previous night, which <PER>Hermione</PER> had since condescended to examine, and had decided was made of blackthorn.
+pattern_bef: Foe
+passive voice: False
+
+instance: Voldemort	Harry	score:0.02971926423692217
+sentence: The silver tool that <PER>Voldemort</PER> had given <PER>Harry</PER>'s most cowardly servant had turned upon its disarmed and useless owner; Pettigrew was reaping Pettigrew's reward for his hesitation, his moment of pity; his was being strangled before their eyes.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ginny	score:0.02966250500799472
+sentence: <PER>Harry</PER> heart seemed to fail: <PER>Ginny</PER> was now climbing through the hole in the wall, closely followed by Fred, George, and Lee Jordan.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.029525966501412926
+sentence: “You couldn’t have broken into <PER>Dumbledore</PER>’s grave.” But the idea of <PER>Dumbledore</PER>’s corpse frightened <PER>Harry</PER> much less than the possibility that <PER>Harry</PER> might have misunderstood the living <PER>Dumbledore</PER>’s intentions.
+pattern_bef: Foe
+passive voice: False
+
+instance: Voldemort	Harry	score:0.02943706059665896
+sentence: “<PER>Dumbledore</PER> is dead\” <PER>Voldemort</PER> hurled the words at <PER>Harry</PER> as though they would cause <PER>Harry</PER> unendurable pain.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hagrid	Harry	score:0.02939546881395605
+sentence: “<PER>Hagrid</PER>, do the dragon-fire thing again, let’s get out of here!” “Hold on tight, then, <PER>Harry</PER>!” There was a deafening, screeching roar again and the white-blue fire shot from the exhaust: <PER>Harry</PER> felt <PER>Harry</PER> slipping backward off what little of the seat <PER>Harry</PER> had, <PER>Hagrid</PER> flung backward upon <PER>Harry</PER>, barely maintaining <PER>Harry</PER>'s grip on the handlebars — “I think we’ve lost ’em <PER>Harry</PER>, I think we’ve done it!” yelled <PER>Hagrid</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.029313814079805267
+sentence: <PER>Hermione</PER> turned and beamed at <PER>Harry</PER>; <PER>Hermione</PER>'s eyes too were full of tears. "
+pattern_bef: Foe
+passive voice: False
+
+instance: Hagrid	Harry	score:0.02930948878845785
+sentence: The hedge had grown wild in the sixteen years since <PER>Hagrid</PER> had taken <PER>Harry</PER> from the rubble that lay scattered amongst the waist-high grass.
+pattern_bef: Foe
+passive voice: False
+
+instance: Voldemort	Hagrid	score:0.029094196330801902
+sentence: “Come,” said <PER>Voldemort</PER>, and <PER>Harry</PER> heard <PER>Voldemort</PER> move ahead, and <PER>Hagrid</PER> was forced to follow.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.028986816741278787
+sentence: “We know everything important,” <PER>Harry</PER> went on, addressing <PER>Hermione</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Hermione	score:0.02888115087966381
+sentence: Late in the afternoon he and <PER>Ron</PER> escaped <PER>Hermione</PER>’s baleful presence again, and under the pretense of scouring the bare hedges for nonexistent blackberries, they continued their ongoing exchange of news.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.028809128524058925
+sentence: <PER>Harry</PER> pointed it at <PER>Hermione</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Malfoy	score:0.028809128524058925
+sentence: Knowing that he had only seconds; <PER>Harry</PER> pointed <PER>Malfoy</PER>’s wand at each of the guards in turn and murmured, “Confundo” twice.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Harry	score:0.028796278328103275
+sentence: He stared down at the thin golden Probe and then at He's companion, who said in a slightly dazed voice, “Yeah, you’ve just checked them, Marius.” <PER>Hermione</PER> swept forward, <PER>Ron</PER> by her side, <PER>Harry</PER> and Griphook trotting invisibly behind them.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Ron	score:0.02879112456692179
+sentence: “You were amazing — coming up with that story when <PER>Hermione</PER> was hurting you like that — ” <PER>Hermione</PER> gave a weak smile as <PER>Ron</PER> gave her a one- armed squeeze.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Neville	score:0.028762507378134572
+sentence: <PER>Harry</PER> moved toward <PER>Neville</PER>, who was bending over another body.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.028711883794100168
+sentence: “I’ve been trying to tell you that for years.” Simultaneously they walked forward and hugged, <PER>Harry</PER> gripping the still-sopping back of <PER>Ron</PER>’s jacket.
+pattern_bef: Foe
+passive voice: False
+
+instance: Dumbledore	Ron	score:0.02869251277610929
+sentence: “I don’t know I’m doing it!” “Well, can’t you find something useful to occupy yourself?” “What, like reading kids’ stories?” “<PER>Dumbledore</PER> left me this book, <PER>Ron</PER> — ” “ — and he left me the Deluminator, maybe I’m supposed to use it!” Unable to stand the bickering, <PER>Harry</PER> slipped out of the room unnoticed by either of them.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.028604955370433283
+sentence: “he wanted to know everything I could tell him about the wand variously known as the Deathstick, the Wand of Destiny, or the Elder Wand.” <PER>Harry</PER> glanced sideways at <PER>Hermione</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Snape	Dumbledore	score:0.02855625176962484
+sentence: Now, <PER>Harry</PER> saw <PER>Snape</PER> talking to the portrait of <PER>Dumbledore</PER> behind <PER>Snape</PER>'s desk.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Snape	score:0.028495595682009878
+sentence: Now <PER>Harry</PER> was flying alongside <PER>Snape</PER> on a broomstick through a clear dark night: <PER>Harry</PER> was accompanied by other hooded Death Eaters, and ahead were Lupin and a <PER>Harry</PER> who was really George.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Hermione	score:0.028196400017028944
+sentence: “And now,” <PER>Hermione</PER> said, turning back to face the other two in the alleyway, “we put on the Cloak again — ” “ — and we wait,” <PER>Ron</PER> finished, throwing it over <PER>Hermione</PER> ’s head like a blanket over a birdcage and rolling his eyes at <PER>Harry</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Harry	score:0.028139580489629723
+sentence: “Percy!” <PER>Harry</PER> saw tear tracks streaking the grime coating <PER>Ron</PER>’s face as <PER>Harry</PER> seized <PER>Harry</PER>'s elder brother’s shoulders and pulled, but Percy would not budge.
+pattern_bef: Foe
+passive voice: False
+
+instance: Dudley	Harry	score:0.028023054509638046
+sentence: <PER>Harry</PER>’s favorite moment had been the one when Uncle Vernon, unaware that <PER>Dudley</PER> had added <PER>Harry</PER>'s dumbbells to <PER>Harry</PER>'s case since the last time it had been unpacked, had attempted to hoist it back into the boot and collapsed with roars of pain and much swearing.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.027884462641315833
+sentence: As darkness drew in again <PER>Harry</PER> refused <PER>Hermione</PER>’s offer to keep watch and told her to go to bed.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.027859731102671703
+sentence: “So, Potter — some of your hair, if you please.” <PER>Harry</PER> glanced at <PER>Ron</PER>, who grimaced at him in a just- do-it sort of way.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ginny	score:0.027859731102671703
+sentence: <PER>Harry</PER> glanced at <PER>Ginny</PER> and motioned to her to accompany him back outside.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hagrid	score:0.027859731102671703
+sentence: <PER>Harry</PER> glanced at <PER>Hagrid</PER>, who had just risked his own life to save <PER>Harry</PER>’s — <PER>Hagrid</PER>, whom he loved, whom he trusted, who had once been tricked into giving <PER>Voldemort</PER> crucial information in exchange for a dragon’s egg.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.027859731102671703
+sentence: <PER>Harry</PER> glanced at <PER>Hermione</PER> for assistance.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Hermione	score:0.027859731102671703
+sentence: “Nevertheless, unless you can prove that you have at least one close Wizarding relative, you are now deemed to have obtained your magical power illegally and must suffer the punishment.” <PER>Ron</PER> glanced at <PER>Hermione</PER>, then said, “What if purebloods and half-bloods swear a Muggle-born’s part of purebloods and half-bloods's family?
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.027859731102671703
+sentence: <PER>Harry</PER> glanced automatically at <PER>Ron</PER>’s neck and saw, as <PER>Harry</PER> had expected, the golden chain of the Horcrux glinting there.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.027859731102671703
+sentence: <PER>Harry</PER> glanced hopelessly at <PER>Dumbledore</PER>’s deserted frame, which hung directly behind the headmaster’s chair, then turned his back on it.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Ron	score:0.027855096404085455
+sentence: <PER>Harry</PER> and <PER>Hermione</PER> half carried, half dragged <PER>Ron</PER> through the entrance of the tent.
+pattern_bef: Foe
+passive voice: False
+
+instance: Malfoy	Voldemort	score:0.027793190967737913
+sentence: Lucius <PER>Malfoy</PER> made an involuntary movement; for a fraction of a second, it seemed Lucius <PER>Malfoy</PER> expected to receive <PER>Voldemort</PER>’s wand in exchange for Lucius <PER>Malfoy</PER>'s own.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Harry	score:0.027717462520009506
+sentence: The moment his eyes fell upon <PER>Ron</PER>, all other concerns fled <PER>Harry</PER>’s mind, for blood drenched the whole of <PER>Ron</PER>’s left side and <PER>Ron</PER>’s's face stood out, grayish- white, against the leaf-strewn earth.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Dudley	score:0.027630824536213128
+sentence: “See you, <PER>Harry</PER>.” <PER>Harry</PER> Potter and the Deathly Hallows - J.K. Rowling “Yeah ” said <PER>Harry</PER>, taking <PER>Dudley</PER>’s hand and shaking it.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.027600353935739785
+sentence: “Come and have a look at him.” <PER>Harry</PER> followed <PER>Ron</PER> up the few short steps into the tiny attic space.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ginny	score:0.027600353935739785
+sentence: Feeling nervous, <PER>Harry</PER> followed <PER>Ginny</PER> into her room.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Harry	score:0.027561984111353244
+sentence: Over ” Molly's shoulder, <PER>Ron</PER> gave <PER>Harry</PER> the thumbs-up and mouthed, Good one.
+pattern_bef: Foe
+passive voice: False
+
+instance: Rita	Dumbledore	score:0.027561984111353244
+sentence: “Certainly I knew him longest, if you don’t count Aberforth — and somehow, people never do seem to count Aberforth.” “Speaking of the Daily Prophet I don’t know whether you saw, Mister Doge — ?” “Oh, please call me Elphias, dear boy.” “Elphias, I don’t know whether you saw the interview <PER>Rita</PER> Skeeter gave about Professor <PER>Dumbledore</PER>?” Doge’s face flooded with angry color.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Hermione	score:0.027561984111353244
+sentence: Keen for them all to be friends again, however, He agreed; but when <PER>Ron</PER> gave <PER>Hermione</PER> a tentative smile, she stalked off and vanished behind shis book once more.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.027561984111353244
+sentence: “I thought it was <PER>Voldemort</PER> we were supposed to be fighting?” <PER>Hermione</PER> retorted, and <PER>Harry</PER> gave up on <PER>Hermione</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Harry	score:0.027561984111353244
+sentence: <PER>Ron</PER> gave <PER>Harry</PER> a reproachful look, and said, “Let’s not worry about that now — ” But Mister Ollivander intervened.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ginny	Harry	score:0.027561984111353244
+sentence: <PER>Ginny</PER> gave <PER>Harry</PER> a radiant smile: <PER>Harry</PER> had forgotten, or had never fully appreciated, how beautiful <PER>Ginny</PER> was, but <PER>Harry</PER> had never been less pleased to see <PER>Ginny</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.02755175199480031
+sentence: “I believe that the last time I saw the sword of Gryffindor leave the sword of Gryffindor case was when Professor <PER>Dumbledore</PER> used it to break open a ring.” <PER>Hermione</PER> whipped around to look at <PER>Harry</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.027516171694621172
+sentence: Of course, <PER>Harry</PER> did not know whether Runcorn was sufficiently important to get away with this, and even if <PER>Harry</PER> managed it, <PER>Hermione</PER> ’s non-reappearance might trigger a search before they were clear of the Ministry .
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Ron	score:0.027516171694621172
+sentence: While Xenophilius ’s banging and scraping drew nearer and nearer, <PER>Hermione</PER> managed to free <PER>Ron</PER> with the use of a Hover Charm.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.02714798286611808
+sentence: <PER>Harry</PER> took aim at it with the wand <PER>Ron</PER> had given <PER>Harry</PER> the previous night, which <PER>Hermione</PER> had since condescended to examine, and had decided was made of blackthorn.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.027107271148315903
+sentence: <PER>Hermione</PER> tugged the book out of <PER>Harry</PER>’s hands, looking a little alarmed by <PER>Harry</PER>'s expression, and closed it without looking at it, as though hiding something indecent.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.027056005812182815
+sentence: “Just — just show You- Know-Who some respect, will you?” “Respect?” <PER>Harry</PER> repeated, but <PER>Hermione</PER> shot <PER>Harry</PER> a warning look; apparently <PER>Harry</PER> was not to argue with <PER>Ron</PER> while the latter was in such a weakened condition.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Harry	score:0.027026393337768573
+sentence: <PER>Ron</PER> tripped dazedly toward <PER>Harry</PER> and <PER>Hermione</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.027018945241711778
+sentence: <PER>Harry</PER> hit <PER>Ron</PER> on the arm to stop him shouting, and <PER>Ron</PER> looked terrified at his mistake.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Ron	score:0.027015844382440646
+sentence: “Stand still, don’t move!” said <PER>Hermione</PER>, clutching at <PER>Ron</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Voldemort	score:0.02700466000477908
+sentence: “ — and <PER>Voldemort</PER>’s chasing the third, but <PER>Voldemort</PER> doesn’t realize <PER>Voldemort</PER> just thinks it’s a powerful wand “<PER>Harry</PER>,” said <PER>Hermione</PER>, moving across to <PER>Voldemort</PER> and handing <PER>Voldemort</PER> back Lily’s letter, “I’m sorry, but I think you’ve got this wrong, all wrong.” “But don’t you see?
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Ron	score:0.026933823537670043
+sentence: He heard <PER>Hermione</PER>’s scream, <PER>Ron</PER>’s yell, and a series of sickening metallic thuds, which told him that Xenophilius had been blasted off him's feet and fallen backward down the spiral stairs.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hagrid	score:0.026860958651492517
+sentence: “<PER>Harry</PER>,” sobbed <PER>Hagrid</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hagrid	Harry	score:0.026825856083141697
+sentence: <PER>Harry</PER> looked down and saw <PER>Hagrid</PER> spread-eagled on the ground below <PER>Harry</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.026677364336256337
+sentence: <PER>Harry</PER> looked round: <PER>Ron</PER> and <PER>Hermione</PER> were following <PER>Harry</PER>, but the other three had vanished back into the battle.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hagrid	Harry	score:0.026558119484646592
+sentence: “Where’re we goin’?” puffed <PER>Hagrid</PER>, pounding along at <PER>Harry</PER>’s heels, making the floorboards quake.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.026398615216780552
+sentence: Reveling in the removal of his Trace, <PER>Harry</PER> sent <PER>Ron</PER>’s possessions flying around the room, causing Pigwidgeon to wake up and flutter excitedly around his cage.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Ron	score:0.026383083052869627
+sentence: It was as though a flame had been lit inside <PER>Harry</PER> that nothing, not <PER>Hermione</PER> ’s flat disbelief nor <PER>Ron</PER>’s persistent doubts, could extinguish.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.026332315891361646
+sentence: <PER>Harry</PER> grabbed <PER>Hermione</PER> ’s hand as they staggered and stumbled over stone and wood.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Hermione	score:0.0261342281743997
+sentence: <PER>Ron</PER> was making retching noises; <PER>Hermione</PER> stammered, “That m-must have b- been the T-Tongue-Tying Curse Mad-Eye set up for <PER>Snape</PER>!” Gingerly <PER>Harry</PER> took another step forward.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Snape	score:0.02613221165240831
+sentence: <PER>Snape</PER> was highly colored now, and <PER>Harry</PER> wondered why <PER>Snape</PER> did not take off the ridiculously large coat, unless it was because <PER>Snape</PER> did not want to reveal the smock beneath the smock.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Rita	score:0.0261144511236302
+sentence: <PER>Harry</PER> had not immediately noticed the curly green writing across <PER>Harry</PER>'s hat — The Life and Lies ofAlbus <PER>Dumbledore</PER> — nor the slightly smaller writing across <PER>Harry</PER>'s chest: “by <PER>Rita</PER> Skeeter, bestselling author of Armando Dippet: Master or Moron?” <PER>Harry</PER> opened the book at random and saw a full-page photograph of two teenage boys, both laughing immoderately with both's arms around each other’s shoulders.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.026080211302391576
+sentence: “Here, Griphook, Gornuk.” Goblins\ <PER>Hermione</PER> mouthed at <PER>Harry</PER>, who nodded.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.02600095457619067
+sentence: Then <PER>Hermione</PER> shrieked: <PER>Harry</PER> drew his wand again and spun around to see a silver Patronus soar through the drawing room window and land upon the floor in front of them, where it solidified into the weasel that spoke with the voice of <PER>Ron</PER>’s father.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hagrid	score:0.02588155344590537
+sentence: <PER>Harry</PER> looked up at it, and all of a sudden a knife-sharp memory came to <PER>Harry</PER>: standing on this very spot on the day that <PER>Harry</PER> had turned eleven, the most wonderful birthday of <PER>Harry</PER>'s life, and <PER>Hagrid</PER> standing beside <PER>Harry</PER> saying, “ Like I said, yeh’d be mad ter try an’ rob it.” Gringotts had seemed a place of wonder that day, the enchanted repository of a trove of gold he had never known he possessed, and never for an instant could he have dreamed that he would return to steal.
+pattern_bef: Foe
+passive voice: False
+
+instance: Dumbledore	Harry	score:0.025870714810296014
+sentence: <PER>Dumbledore</PER> had shown <PER>Harry</PER> that <PER>Voldemort</PER> sought grandeur or mystique in <PER>Voldemort</PER>'s hiding places; this dismal gray corner of London was as far removed as you could imagine from Hogwarts or the Ministry or a building like Gringotts, the Wizarding bank, with its golden doors and marble floors.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.025814590530774506
+sentence: <PER>Hermione</PER> face streaked with tears, <PER>Hermione</PER> crouched down beside <PER>Harry</PER>, two cups of tea trembling in <PER>Hermione</PER>'s hands and something bulky under <PER>Hermione</PER>'s arm.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Hermione	score:0.02562146347492944
+sentence: The circumstance of <PER>Ron</PER> having read a book that <PER>Hermione</PER> had not was unprecedented.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.02555507943819213
+sentence: “I wanted somewhere enclosed, undercover, and this was — ” “ — the first place you thought of,” <PER>Harry</PER> finished for <PER>Hermione</PER>, glancing around at the apparently deserted glade.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.025554613070549292
+sentence: <PER>Harry</PER> was determined never to mention <PER>Harry</PER>'s name again, and <PER>Hermione</PER> seemed to know that it was no use forcing the issue, although sometimes at night when she thought he was sleeping, he would hear shis crying.
+pattern_bef: Foe
+passive voice: False
+
+instance: Neville	Harry	score:0.02554172477573413
+sentence: The longer <PER>Harry</PER> looked at <PER>Neville</PER>, the worse <PER>Harry</PER> appeared: One of <PER>Harry</PER>'s eyes was swollen yellow and purple, there were gouge marks on <PER>Harry</PER>'s face, and <PER>Harry</PER>'s general air of unkemptness suggested that <PER>Harry</PER> had been living rough.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.025386929303238714
+sentence: Then <PER>Harry</PER> held out the wand to <PER>Hermione</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Ron	score:0.02535666121379887
+sentence: She had pulled <PER>Ron</PER> behind a tapestry: They seemed to be wrestling together, and for one mad second <PER>Harry</PER> thought that They were embracing again; then <PER>Harry</PER> saw that <PER>Hermione</PER> was trying to restrain <PER>Ron</PER>, to stop him running after Percy.
+pattern_bef: Foe
+passive voice: False
+
+instance: Voldemort	Harry	score:0.025309441425546364
+sentence: “If he was a Death Eater he had access to <PER>Voldemort</PER>, and if he became disenchanted, then he would have wanted to bring <PER>Voldemort</PER> down!” She released <PER>Harry</PER>, leaned over the banister, and screamed, “<PER>Ron</PER>!
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Harry	score:0.025277840722467526
+sentence: <PER>Harry</PER> had finally managed to tell <PER>Ron</PER> the whole story of <PER>Harry</PER>'s and <PER>Hermione</PER>’s various wanderings, right up to the full story of what had happened at Godric’s Hollow; <PER>Ron</PER> was now filling <PER>Harry</PER> in on everything <PER>Harry</PER> had discovered about the wider Wizarding world during <PER>Harry</PER>'s weeks away. "
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.025217261101372013
+sentence: “C’mon,” said <PER>Harry</PER>, and <PER>Harry</PER> led <PER>Hermione</PER> and Mistress Cattermole to the door.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.025202088741217987
+sentence: The gum-chewing waitress shuffled over and <PER>Hermione</PER> ordered two cappuccinos: As <PER>Harry</PER> was invisible, it would have looked odd to order him one.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.025188362688050248
+sentence: “<PER>Harry</PER>!” wailed <PER>Hermione</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.02514800920348126
+sentence: “Ah, you have spotted my pet invention,” he said, shoving the tray into <PER>Hermione</PER>’s arms and joining <PER>Harry</PER> at the statue’s side.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.024881391596973446
+sentence: “<PER>Hermione</PER>,” muttered <PER>Harry</PER>, embarrassed, “now’s not the moment — ” “But <PER>Harry</PER>, it’s an Erumpent horn!
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Ron	score:0.024794494927868005
+sentence: <PER>Hermione</PER> was wrapped in a borrowed dressing gown, pale and unsteady on <PER>Hermione</PER>'s feet; <PER>Ron</PER> put an arm around her when <PER>Hermione</PER> reached him.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ginny	Harry	score:0.024672846836076512
+sentence: None <PER>Harry</PER> Potter and the Deathly Hallows - J.K. Rowling of them looked around when <PER>Harry</PER> and <PER>Ginny</PER> joined <PER>Harry</PER> and <PER>Ginny</PER>'s silent vigil.
+pattern_bef: Foe
+passive voice: False
+
+instance: Voldemort	Malfoy	score:0.024482625728686425
+sentence: “Severus please please ” “Silence,” said <PER>Voldemort</PER>, with another twitch of <PER>Malfoy</PER>’s wand, and Charity fell silent as if gagged.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.024428898230531182
+sentence: “Meet us upstairs,” <PER>Harry</PER> whispered to <PER>Hermione</PER>, while they helped Molly restore the garden to its normal state.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Harry	score:0.024428898230531182
+sentence: “What are we going to do with them?” <PER>Ron</PER> whispered to <PER>Harry</PER> through the dark; then, even more quietly, “Kill them?
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.024428898230531182
+sentence: “You got in all right, then?” <PER>Hermione</PER> whispered to <PER>Harry</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.024428898230531182
+sentence: <PER>Harry</PER> stared at it, aghast, unable to take in what <PER>Harry</PER> was seeing the wand that had survived so much “<PER>Harry</PER>,” <PER>Hermione</PER> whispered so quietly <PER>Harry</PER> could hardly hear <PER>Hermione</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.024428898230531182
+sentence: “He’s enjoying keeping us hanging.” “<PER>Harry</PER>,” whispered <PER>Hermione</PER>, pulling them both away from the door, into the middle of the still-dark landing, “are you saying what I think you’re saying?
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.024428898230531182
+sentence: “Too polite,” <PER>Harry</PER> whispered in <PER>Hermione</PER>’s ear as they passed out of the inn into the tiny backyard.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.0243037359667454
+sentence: “I’m sorry, I’m sorry!” <PER>Hermione</PER> cried as <PER>Harry</PER> wrenched the book from <PER>Ron</PER>’s leg and retied it shut.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Hermione	score:0.024107284152630637
+sentence: <PER>Harry</PER> was quite sure that <PER>Ron</PER>’s support of <PER>Hermione</PER> had little to do with a desire to know the meaning of the triangular rune.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.023769569784232725
+sentence: <PER>Harry</PER> realized their mistake just in time: <PER>Harry</PER> launched <PER>Harry</PER> sideways, shoving <PER>Ron</PER> and <PER>Hermione</PER> out of harm’s way as Xenophilius’s Stunning Spell soared across the room and hit the Erumpent horn.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Harry	score:0.0237306145788444
+sentence: “What did you see?” <PER>Ron</PER> asked, advancing on <PER>Harry</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Dudley	score:0.02365185288838989
+sentence: As it was, <PER>Harry</PER> stared at <PER>Dudley</PER> for several seconds before accepting that it must have been his cousin who had spoken; for one thing, <PER>Dudley</PER> had turned red.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.02365185288838989
+sentence: As he dragged sweater after sweater over his head, <PER>Harry</PER> stared at <PER>Ron</PER>, half expecting him to have disappeared every time him lost sight of him, and yet him had to be real: him had just dived into the pool, him had saved <PER>Harry</PER>’s life.
+pattern_bef: Foe
+passive voice: False
+
+instance: Voldemort	Harry	score:0.02365185288838989
+sentence: <PER>Voldemort</PER> had frozen where <PER>Voldemort</PER> stood, but <PER>Voldemort</PER>'s red eyes had found <PER>Harry</PER>, and <PER>Voldemort</PER> stared as <PER>Harry</PER> moved toward <PER>Harry</PER>, with nothing but the fire between them.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.023574771750014212
+sentence: “Yeah, you are, <PER>Hermione</PER>,” agreed <PER>Harry</PER> fervently.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Neville	score:0.02350367454105784
+sentence: <PER>Harry</PER> pulled the Invisibility Cloak from inside <PER>Harry</PER>'s robes, swung the Invisibility Cloak over <PER>Harry</PER>, and sprang to <PER>Harry</PER>'s feet, as <PER>Neville</PER> moved too.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.02333674826044485
+sentence: “Elphias Doge mentioned her to us,” said <PER>Harry</PER>, trying to spare <PER>Hermione</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.023059089380995657
+sentence: “You fancy stepping into Sirius’s shoes — ” “<PER>Harry</PER>, no!” <PER>Hermione</PER> begged <PER>Harry</PER>, but <PER>Harry</PER> continued to glare into Lupin’s livid face.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Ron	score:0.0230572355379971
+sentence: <PER>Hermione</PER> stopped dead, <PER>Hermione</PER>'s jaw hanging; <PER>Ron</PER> choked a little over his soup.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hagrid	Harry	score:0.022997359564907338
+sentence: <PER>Harry</PER> could feel <PER>Hagrid</PER> ’s arms trembling with the force of <PER>Harry</PER>'s heaving sobs; great tears splashed down upon him as <PER>Hagrid</PER> cradled <PER>Harry</PER> in his arms, and <PER>Harry</PER> did not dare, by movement or word, to intimate to <PER>Hagrid</PER> that all was not, yet, lost.
+pattern_bef: Foe
+passive voice: False
+
+instance: Neville	Harry	score:0.022815786806264282
+sentence: <PER>Neville</PER> patted <PER>Harry</PER> on the shoulder, released <PER>Harry</PER>, and walked away to look for more bodies.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.022790541545055998
+sentence: <PER>Harry</PER> had always thought of Splinching as something comical, but this <PER>Harry</PER> insides crawled unpleasantly as <PER>Hermione</PER> laid bare <PER>Ron</PER>’s upper arm, where a great chunk of flesh was missing, scooped cleanly away as though by a knife.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.0227125304832706
+sentence: <PER>Harry</PER> would try to extricate <PER>Hermione</PER> on <PER>Harry</PER>'s own while <PER>Ron</PER> was dealing with the raining office.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Snape	score:0.022672087796638984
+sentence: Then <PER>Snape</PER> spoke, and <PER>Harry</PER>’s heart lurched: <PER>Snape</PER> was inches away from where <PER>Snape</PER> crouched, hidden. "
+pattern_bef: Foe
+passive voice: False
+
+instance: Ginny	Harry	score:0.022660923183412507
+sentence: As the lamplight fell across George’s head, <PER>Ginny</PER> gasped and <PER>Harry</PER>’s stomach lurched: One of George’s ears was missing.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Malfoy	score:0.022562361308264833
+sentence: Their plans were made, Their's preparations complete; in the smallest bedroom a single long, coarse black hair (plucked from the sweater <PER>Hermione</PER> had been wearing at <PER>Malfoy</PER> Manor) lay curled in a small glass phial on the mantelpiece.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Harry	score:0.022111684589440794
+sentence: <PER>Ron</PER> passed <PER>Harry</PER> the new wand.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Harry	score:0.02211168448791001
+sentence: “What d’you mean?” <PER>Ron</PER> passed the Horcrux to <PER>Harry</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ginny	score:0.022025749814773787
+sentence: <PER>Harry</PER> found <PER>Harry</PER> crammed beside <PER>Ginny</PER>; the unsaid things that had just passed between them made <PER>Harry</PER> wish them had been separated by a few more people.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Harry	score:0.02197846360214939
+sentence: <PER>Harry</PER> Stunned the Death Eater as they passed: <PER>Malfoy</PER> looked around, beaming, for <PER>Harry</PER>'s savior, and <PER>Ron</PER> punched <PER>Harry</PER> from under the Cloak.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.02194978419999427
+sentence: <PER>Harry</PER> and <PER>Hermione</PER> threw <PER>Harry</PER> and <PER>Hermione</PER> into the panicking crowd.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.021714444895435947
+sentence: <PER>Malfoy</PER> saw <PER>Harry</PER> coming and raised one arm, but even as <PER>Harry</PER> grasped it <PER>Harry</PER> knew at once that it was no good: Goyle was too heavy and <PER>Malfoy</PER> ’s hand, covered in sweat, slid instantly out of <PER>Harry</PER>’s — roared <PER>Ron</PER>’s voice, and, as a great flaming chimaera bore down upon them, he and <PER>Hermione</PER> dragged Goyle onto he and <PER>Hermione</PER>'s broom and rose, rolling and pitching, into the air once more as <PER>Malfoy</PER> clambered up behind <PER>Harry</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Dudley	Harry	score:0.0216208612062454
+sentence: Aunt Petunia was looking at Uncle Vernon; <PER>Dudley</PER> was staring at <PER>Harry</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.0216208612062454
+sentence: <PER>Ron</PER> and <PER>Hermione</PER> were staring at <PER>Harry</PER> as though he had gone mad.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Ron	score:0.021592867969424945
+sentence: “That that was ” <PER>Hermione</PER> whimpered, as <PER>Ron</PER> helped her to her feet.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hagrid	score:0.02133942232992414
+sentence: “May I just add that while we here at Potterwatch applaud <PER>Hagrid</PER>’s spirit, we would urge even the most devoted of <PER>Harry</PER>’s supporters against following <PER>Hagrid</PER>’s lead.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Ron	score:0.021323740482330322
+sentence: <PER>Harry</PER> stretched out an arm; <PER>Hermione</PER> hoisted herself up; <PER>Ron</PER> climbed on behind them, and a second later the dragon became aware that it was untethered.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Hermione	score:0.021302551706546158
+sentence: For ten minutes or so <PER>Ron</PER> tapped and muttered, <PER>Hermione</PER> turned the pages of <PER>Hermione</PER>'s book, and <PER>Harry</PER> continued to practice with the blackthorn wand.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Harry	score:0.021146363680591085
+sentence: <PER>Harry</PER> hoisted it onto <PER>Harry</PER>'s own back and walked back to <PER>Ron</PER>, who clambered to <PER>Harry</PER>'s feet as <PER>Harry</PER> approached, eyes bloodshot but otherwise composed.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Harry	score:0.021054539465366395
+sentence: It placed <PER>Harry</PER> several feet below everybody else: <PER>Ron</PER> smirked at the sight of <PER>Harry</PER> sitting there like a child in a bumper car.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.02045314626887773
+sentence: It was like sinking into an old nightmare; for an instant <PER>Harry</PER> knelt again beside <PER>Dumbledore</PER>’s body at the foot of the tallest tower at Hogwarts, but in reality he was staring at a tiny body curled upon the grass, pierced by Bellatrix’s silver knife.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Ron	score:0.020091001399484276
+sentence: “Ooh, you look much tastier than Crabbe and Goyle, <PER>Harry</PER>,” said <PER>Hermione</PER>, before catching sight of <PER>Ron</PER>’s raised eyebrows, blushing slightly, and saying, “Oh, you know what I mean — Goyle ’s potion looked like bogies.” “Right then, fake Potters line up over here, please,” said Moody.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Hermione	score:0.02004653346671159
+sentence: he wanted to find <PER>Ron</PER>, to tell him about Gregorovitch, but <PER>Ron</PER> was dancing with <PER>Hermione</PER> out in the middle of the floor.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Harry	score:0.019807105225727928
+sentence: “If I don’t turn up, my wife — I mean, Cattermole ’s wife — ” “Well come with you, we should stick together — ” began <PER>Harry</PER>, but <PER>Ron</PER> shook <PER>Harry</PER>'s head feverishly.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Ron	score:0.019754155458956535
+sentence: <PER>Hermione</PER> was lying on <PER>Hermione</PER>'s bunk reading, while <PER>Ron</PER>, after many nervous glances up at <PER>Hermione</PER>, had taken a small wooden wireless out of his rucksack and started to try and tune it.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Hermione	score:0.019632499833431516
+sentence: “Let’s get undercover before we talk you through it.” <PER>Harry</PER> led them all back into the kitchen where, laughing and chattering, they settled on chairs, sat they upon Aunt Petunia’s gleaming work surfaces, or leaned up against Aunt Petunia’s's spotless appliances: <PER>Ron</PER>, long and lanky; <PER>Hermione</PER>, her bushy hair tied back in a long plait; Fred and George, grinning identically; Bill, badly scarred and long- P a g e ?
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.019617395340057242
+sentence: “<PER>Harry</PER>!” “<PER>Hermione</PER>, if you think I was going to sit here and let her pretend — ” “<PER>Harry</PER>, Mistress Cattermole!” <PER>Harry</PER> whirled around, throwing off the Invisibility Cloak; down below, the dementors had moved out of their corners; they were gliding toward the woman chained to the chair: Whether because the Patronus had vanished or because they sensed that their masters were no longer in control, they seemed to have abandoned restraint.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ginny	Harry	score:0.01934560797268281
+sentence: <PER>Harry</PER> turned to <PER>Ginny</PER> and <PER>Ginny</PER> answered <PER>Harry</PER>'s unspoken plea for information at once.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.01934560797268281
+sentence: <PER>Hermione</PER>, however, answered: <PER>Harry</PER> thought that answering questions correctly was such a deeply ingrained habit <PER>Hermione</PER> could not suppress the urge.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.019339150504062097
+sentence: Dread doused <PER>Harry</PER>’s jubilation: <PER>Ron</PER> was saying exactly what he had suspected and feared he to be thinking.
+pattern_bef: Foe
+passive voice: False
+
+instance: Neville	Hermione	score:0.019185080115956432
+sentence: “These have been great,” said <PER>Neville</PER>, beaming at <PER>Hermione</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hagrid	score:0.019044638323022722
+sentence: “After everyone’s gone to bed.” Up in the attic room, <PER>Ron</PER> examined his Deluminator, and <PER>Harry</PER> filled <PER>Hagrid</PER>’s mokeskin purse, not with gold, but with those items he most prized, apparently worthless though some of them were: the Marauder’s Map, the shard of Sirius’s enchanted mirror, and R.A.B.’s locket.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.01860035529217996
+sentence: <PER>Harry</PER> raised <PER>Harry</PER>'s eyebrows; <PER>Hermione</PER> gave a tiny, nervous nod.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hagrid	score:0.018579474965432552
+sentence: “Going to lob them over the walls — they won’t like this!” <PER>Harry</PER> knew now where to go: <PER>Harry</PER> sped off, with <PER>Hagrid</PER> and Fang galloping behind him.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.018103924913292713
+sentence: “If somebody swapped the real sword for the fake while it was in <PER>Dumbledore</PER>’s office,” she panted, as they propped the painting against the side of the tent, “Phineas Nigellus would have seen it happen, “Phineas Nigellus hangs right beside the case!” “Unless he was asleep,” said <PER>Harry</PER>, but he still held <PER>Harry</PER>'s breath as <PER>Hermione</PER> knelt down in front of the empty canvas, <PER>Hermione</PER>'s wand directed at its center, cleared her throat, then said: “Er — Phineas?
+pattern_bef: Foe
+passive voice: False
+
+instance: Dudley	Harry	score:0.018068722457714625
+sentence: “these people think I’m a waste of space, actually, but I’m used to — ” “I don’t think you’re a waste of space.” If <PER>Harry</PER> had not seen <PER>Dudley</PER>’s lips move, <PER>Harry</PER> might not have believed it.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.018022668358124938
+sentence: <PER>Hermione</PER> tugged at <PER>Harry</PER>'s ankle.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Hermione	score:0.017874982512603332
+sentence: There was the unmistakable sound of knuckles hitting flesh: <PER>Ron</PER> grunted in pain and <PER>Hermione</PER> screamed, “No!
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ginny	score:0.017612411473901135
+sentence: <PER>Harry</PER> spotted <PER>Ginny</PER> two tables away; <PER>Ginny</PER> was sitting with <PER>Ginny</PER>'s head on <PER>Ginny</PER>'s mother’s shoulder: There would be time to talk later, hours and days and maybe years in which to talk.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Snape	score:0.017425243119548184
+sentence: She brandished Shis wand at a torch on the wall and it flew out of it bracket: <PER>Harry</PER>, about to curse <PER>Snape</PER>, was forced to pull Luna out of the way of the descending flames, which became a ring of fire that filled the corridor and flew like a lasso at <PER>Snape</PER> Then it was no longer fire, but a great black serpent that <PER>McGonagall</PER> blasted to smoke, which re-formed and solidified in seconds to become a swarm of pursuing daggers: <PER>Snape</PER> avoided them only by forcing the suit of armor in front of him, and with echoing clangs the daggers sank, one after another, into its breast — “Minerva!” said a squeaky voice, and looking behind him, still shielding Luna from flying spells, <PER>Harry</PER> saw Professors Flitwick and Sprout sprinting up the corridor toward them in them's nightclothes, with the enormous Professor Slughorn panting along at the rear.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.017055966999603878
+sentence: People were moving around, trying to comfort each other, drinking, kneeling beside the dead, but <PER>Harry</PER> could not see any of the people <PER>Harry</PER> loved, no hint of <PER>Hermione</PER>, <PER>Ron</PER>, <PER>Ginny</PER>, or any of the other Weasleys, no Luna.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hagrid	score:0.01698254125140286
+sentence: “Blimey, <PER>Harry</PER>,” panted <PER>Hagrid</PER>, “this is it, eh?
+pattern_bef: Foe
+passive voice: False
+
+instance: Voldemort	Dumbledore	score:0.016923797758002013
+sentence: As <PER>Voldemort</PER> watched Kreacher sobbing on the floor, <PER>Voldemort</PER> remembered what <PER>Dumbledore</PER> had said to <PER>Voldemort</PER>, mere hours after Sirius’s death: I do not think Sirius ever saw Kreacher as a being with feelings as acute as a human’s.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.016923797758002013
+sentence: <PER>Harry</PER> forced <PER>Harry</PER> not to break down as <PER>Harry</PER> remembered <PER>Dumbledore</PER>’s funeral, and the rows and rows of golden chairs, and the Minister of Magic in the front row, the recitation of <PER>Dumbledore</PER>’s achievements, the stateliness of the white marble tomb.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.016177093214590377
+sentence: “But we’ll take turns wearing it, so nobody keeps it on too long.” “Great,” said <PER>Ron</PER> irritably, “and now we’ve sorted that out, can we please get some food?” “Fine, but we’ll go somewhere else to find it,” said <PER>Hermione</PER> with half a glance at <PER>Harry</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.016177093214590377
+sentence: “Well, it — it screamed,” said <PER>Harry</PER> with half a glance at <PER>Ron</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hagrid	Harry	score:0.01596922357380326
+sentence: As the curses came shooting across the intervening space again, <PER>Hagrid</PER> swerved and zigzagged: <PER>Harry</PER> knew that <PER>Hagrid</PER> did not dare use the dragon-fire button again, with <PER>Harry</PER> seated so insecurely.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Hermione	score:0.015598911606470311
+sentence: Behind <PER>Harry</PER>, whether from delight or fear <PER>Harry</PER> could not tell, <PER>Ron</PER> kept swearing at the top of <PER>Harry</PER>'s voice, and <PER>Hermione</PER> seemed to be sobbing.
+pattern_bef: Foe
+passive voice: False
+
+instance: Voldemort	Ron	score:0.01559891153995252
+sentence: “<PER>Ron</PER>!” he shouted, but the <PER>Riddle</PER>-<PER>Harry</PER> was now speaking with <PER>Voldemort</PER>’s voice and <PER>Ron</PER> was gazing, mesmerized, into its face.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.015391813947620347
+sentence: As <PER>Ron</PER> ran to pull <PER>Hermione</PER> out of the wreckage, <PER>Harry</PER> took <PER>Harry</PER>'s chance: <PER>Harry</PER> leapt over an armchair and wrested the three wands from <PER>Malfoy</PER>’s grip, pointed all of them at Greyback, and yelled, “Stupefyl” The werewolf was lifted off The werewolf's feet by the triple spell, flew up to the ceiling, and then smashed to the ground.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.015271857029940272
+sentence: <PER>Harry</PER> heard <PER>Hermione</PER> gasp, and <PER>Harry</PER> had the odd sensation that something was swooping low over <PER>Harry</PER>, immersing <PER>Harry</PER>'s body in its shadow.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Harry	score:0.015268671642448162
+sentence: “You aren’t still thinking of leaving?” “Yeah, you’ve got to stay, mate,” said <PER>Ron</PER>, thumping <PER>Harry</PER> on the back.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Harry	score:0.015065498465220872
+sentence: “It is!” said <PER>Ron</PER>, clearly frustrated that <PER>Harry</PER> had not grasped the brilliance of the plan.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.014822608994362052
+sentence: <PER>Harry</PER> and <PER>Hermione</PER> jumped to <PER>Harry</PER> and <PER>Hermione</PER>'s feet and drew <PER>Harry</PER> and <PER>Hermione</PER>'s wands.
+pattern_bef: Foe
+passive voice: False
+

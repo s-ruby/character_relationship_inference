@@ -1,0 +1,50 @@
+instance: Malfoy	Harry	score:0.33333333333333326
+sentence: “What did <PER>Malfoy</PER> mean?” <PER>Harry</PER> muttered to <PER>Ron</PER> as <PER>Harry</PER> stuck his hands under the icy jet that poured from the gargoyle’s mouth.
+pattern_bef: Foe
+passive voice: False
+
+instance: Snape	Harry	score:0.33333333333333326
+sentence: “I was there, cleaning out the bedpans on that detention from <PER>Snape</PER>, remember?” <PER>Harry</PER> frowned at <PER>Ron</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Snape	Harry	score:0.33333333333333326
+sentence: “Then I should’ve let <PER>Snape</PER> take you!” <PER>Harry</PER> shouted.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Harry	score:0.31061739226894347
+sentence: “Where’s <PER>Hermione</PER> gone?” <PER>Harry</PER> looked around too.
+pattern_bef: Foe
+passive voice: False
+
+instance: Voldemort	Harry	score:0.30947929752795766
+sentence: “Blimey, my ’eart’s goin’ that fast” “So — so Black was a supporter of <PER>Voldemort</PER>?” <PER>Harry</PER> prompted apologetically.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.30947929752795766
+sentence: “<PER>Harry</PER>?” <PER>Ron</PER>’s and <PER>Hermione</PER>’s faces appeared under the table.
+pattern_bef: Foe
+passive voice: False
+
+instance: McGonagall	Hermione	score:0.30947929752795766
+sentence: “What did you go running to <PER>McGonagall</PER> for?” <PER>Hermione</PER> threw her book aside.
+pattern_bef: Foe
+passive voice: False
+
+instance: Malfoy	Ron	score:0.30947929752795766
+sentence: “You don’t think <PER>Malfoy</PER> did something to <PER>Malfoy</PER>?” <PER>Ron</PER> said anxiously as they hurried upstairs toward Gryffindor Tower.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hermione	Ron	score:0.30947929752795766
+sentence: The first column read: Monday 9 o’clock, Arithmancy 9 o’clock, Transfiguration Lunch 1 o’clock, Charms 1 o’clock, Ancient Runes “<PER>Hermione</PER>?” <PER>Ron</PER> said cautiously, because she was liable to explode when interrupted these days.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hagrid	Harry	score:0.30947929752795766
+sentence: “Isn’t there anything anyone can do, <PER>Hagrid</PER>?” <PER>Harry</PER> asked fiercely, sitting down next to <PER>Harry</PER>.
+pattern_bef: Foe
+passive voice: False
+

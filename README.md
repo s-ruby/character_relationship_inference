@@ -34,10 +34,9 @@ python3 run_train_spanbert.py \
   --do_eval \
   --eval_test \
   --data_dir data \
-  --model spanbert-base-cased \
-  --train_batch_size 32 \
-  --eval_batch_size 32 \
-  --learning_rate 2e-5 \
+  --model spanbert-large-cased \
+  --train_batch_size 16 \
+  --eval_batch_size 16 \
   --num_train_epochs 10 \
   --max_seq_length 128 \
   --output_dir span_bert_training_output
@@ -47,6 +46,6 @@ python3 run_train_spanbert.py \
 
 ```
 # Optionally pass custom span bert model
-python3 main.py --model_dir=span_bert_training_output --min_conf=0.45 --text_file="anaphora_resolution/harrypotter1_final.txt"
+python3 main.py --model_dir=span_bert_training_output --min_conf=0.8 --text_file="anaphora_resolution/harrypotter1_final.txt"
 ```
 

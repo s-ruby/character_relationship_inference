@@ -41,8 +41,11 @@ def main(args):
         for ex, pred in list(zip(candidate_pairs, relation_preds)):
             if pred[0] != "no_relation":
                 if pred[1] > args.min_conf:
-                    print("\nExtracted relations:")
+                    print("\n")
+                    print("Sentence: {}".format(sentence))
+                    print("Extracted relations:")
                     print("\tSubject: {}\tObject: {}\tRelation: {}\tConfidence: {:.2f}".format(ex["subj"][0], ex["obj"][0], pred[0], pred[1]))
+                    
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()

@@ -1,0 +1,3259 @@
+Loading pre-trained spanBERT from ./span_bert_training_output
+Completed 0 sentences
+
+
+Sentence: Harry tried to argue back but Harry's words were drowned by a long, loud belch from the Dursleys’ son, Dudley.
+Extracted relations:
+	Subject: Harry	Object: Dudley	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: Harry tried to argue back but Harry's words were drowned by a long, loud belch from the Dursleys’ son, Dudley.
+Extracted relations:
+	Subject: Dudley	Object: Harry	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: Dudley, who was so large his bottom drooped over either side of the kitchen chair, grinned and turned to Harry.
+Extracted relations:
+	Subject: Dudley	Object: Harry	Relation: per:foe	Confidence: 0.87
+
+
+Sentence: Dudley, who was so large his bottom drooped over either side of the kitchen chair, grinned and turned to Harry.
+Extracted relations:
+	Subject: Harry	Object: Dudley	Relation: per:foe	Confidence: 0.87
+
+
+Sentence: “All right,” said Harry, “all right ” Uncle Vernon sat back down, breathing like a winded rhinoceros and watching Harry closely out of the corners of Harry's small, sharp eyes.
+Extracted relations:
+	Subject: Harry	Object: Uncle Vernon	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “All right,” said Harry, “all right ” Uncle Vernon sat back down, breathing like a winded rhinoceros and watching Harry closely out of the corners of Harry's small, sharp eyes.
+Extracted relations:
+	Subject: Uncle Vernon	Object: Harry	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: Ever since Harry had come home for the summer holidays, Uncle Vernon had been treating Uncle Vernon like a bomb that might go off at any moment, because Harry Potter wasn’t a normal boy.
+Extracted relations:
+	Subject: Harry	Object: Uncle Vernon	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: Ever since Harry had come home for the summer holidays, Uncle Vernon had been treating Uncle Vernon like a bomb that might go off at any moment, because Harry Potter wasn’t a normal boy.
+Extracted relations:
+	Subject: Uncle Vernon	Object: Harry	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: And if the Dursleys were unhappy to have him back for the holidays, it was nothing to how Harry felt.
+Extracted relations:
+	Subject: Dursleys	Object: Harry	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: And if the Dursleys were unhappy to have him back for the holidays, it was nothing to how Harry felt.
+Extracted relations:
+	Subject: Harry	Object: Dursleys	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: Harry missed Hogwarts so much it was like having a constant stomachache.
+Extracted relations:
+	Subject: Harry	Object: Hogwarts	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: Harry missed Hogwarts so much it was like having a constant stomachache.
+Extracted relations:
+	Subject: Hogwarts	Object: Harry	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: Uncle Vernon had even padlocked Harry’s owl, Hedwig, inside her cage, to stop her from carrying messages to anyone in the wizarding world.
+Extracted relations:
+	Subject: Uncle Vernon	Object: Harry	Relation: per:friend	Confidence: 0.88
+
+
+Sentence: Uncle Vernon had even padlocked Harry’s owl, Hedwig, inside her cage, to stop her from carrying messages to anyone in the wizarding world.
+Extracted relations:
+	Subject: Harry	Object: Uncle Vernon	Relation: per:friend	Confidence: 0.88
+
+
+Sentence: Harry had taken up Harry's place at wizard school, where Harry and Harry's scar were famous but now the school year was over, and Harry was back with the Dursleys for the summer, back to being treated like a dog that had rolled in something smelly.
+Extracted relations:
+	Subject: Harry	Object: Dursleys	Relation: per:foe	Confidence: 0.85
+
+
+Sentence: Harry had taken up Harry's place at wizard school, where Harry and Harry's scar were famous but now the school year was over, and Harry was back with the Dursleys for the summer, back to being treated like a dog that had rolled in something smelly.
+Extracted relations:
+	Subject: Dursleys	Object: Harry	Relation: per:foe	Confidence: 0.85
+
+
+Sentence: Some rich builder and his wife were coming to dinner and Uncle Vernon was hoping to get a huge order from Uncle Vernon (Uncle Vernon’s company made drills).
+Extracted relations:
+	Subject: Uncle Vernon	Object: Uncle Vernon’s	Relation: per:foe	Confidence: 0.91
+
+
+Sentence: Some rich builder and his wife were coming to dinner and Uncle Vernon was hoping to get a huge order from Uncle Vernon (Uncle Vernon’s company made drills).
+Extracted relations:
+	Subject: Uncle Vernon’s	Object: Uncle Vernon	Relation: per:foe	Confidence: 0.91
+
+
+Sentence: “And you?” said Uncle Vernon viciously to Harry.
+Extracted relations:
+	Subject: Uncle Vernon	Object: Harry	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: “And you?” said Uncle Vernon viciously to Harry.
+Extracted relations:
+	Subject: Harry	Object: Uncle Vernon	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: Neither of They had written to him all summer, even though Ron had said him was going to ask Harry to come and stay.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:friend	Confidence: 0.92
+
+
+Sentence: Neither of They had written to him all summer, even though Ron had said him was going to ask Harry to come and stay.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:friend	Confidence: 0.92
+
+
+Sentence: Harry hadn’t told the Dursleys this; Harry knew it was only their terror that Harry might turn them all into dung beetles that stopped them from locking Harry in the cupboard under the stairs with Harry's wand and broomstick.
+Extracted relations:
+	Subject: Harry	Object: Dursleys	Relation: per:friend	Confidence: 0.85
+
+
+Sentence: Harry hadn’t told the Dursleys this; Harry knew it was only their terror that Harry might turn them all into dung beetles that stopped them from locking Harry in the cupboard under the stairs with Harry's wand and broomstick.
+Extracted relations:
+	Subject: Dursleys	Object: Harry	Relation: per:friend	Confidence: 0.86
+
+
+Sentence: For the first couple of weeks back, Harry had enjoyed muttering nonsense words under Harry's breath and watching Dudley tearing out of the room as fast as Harry's fat legs would carry Harry.
+Extracted relations:
+	Subject: Harry	Object: Dudley	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: For the first couple of weeks back, Harry had enjoyed muttering nonsense words under Harry's breath and watching Dudley tearing out of the room as fast as Harry's fat legs would carry Harry.
+Extracted relations:
+	Subject: Dudley	Object: Harry	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: But the long silence from Ron and Hermione had made Harry feel so cut off from the magical world that even taunting Dudley had lost its appeal — and now Ron and Hermione had forgotten his birthday.
+Extracted relations:
+	Subject: Ron	Object: Hermione	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: But the long silence from Ron and Hermione had made Harry feel so cut off from the magical world that even taunting Dudley had lost its appeal — and now Ron and Hermione had forgotten his birthday.
+Extracted relations:
+	Subject: Hermione	Object: Ron	Relation: per:friend	Confidence: 0.94
+Completed 100 sentences
+
+
+Sentence: Harry knew Harry shouldn’t have risen to Dudley’s bait, but Dudley had said the very thing Harry had been thinking Harry maybe Harry didn’t have any friends at Hogwarts.
+Extracted relations:
+	Subject: Harry	Object: Dudley	Relation: per:friend	Confidence: 0.93
+
+
+Sentence: Harry knew Harry shouldn’t have risen to Dudley’s bait, but Dudley had said the very thing Harry had been thinking Harry maybe Harry didn’t have any friends at Hogwarts.
+Extracted relations:
+	Subject: Dudley	Object: Harry	Relation: per:friend	Confidence: 0.93
+
+
+Sentence: “I’m sorry,” Harry whispered, “I didn’t mean to offend you or anything — ” “Offend Dobby!” choked the elf.
+Extracted relations:
+	Subject: Harry	Object: Dobby	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: “I’m sorry,” Harry whispered, “I didn’t mean to offend you or anything — ” “Offend Dobby!” choked the elf.
+Extracted relations:
+	Subject: Dobby	Object: Harry	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: “Harry Potter is humble and modest,” said Dobby reverently, Harry Potter's orb-like eyes aglow.
+Extracted relations:
+	Subject: Dobby	Object: Harry Potter's	Relation: per:friend	Confidence: 0.92
+
+
+Sentence: “Harry Potter is humble and modest,” said Dobby reverently, Harry Potter's orb-like eyes aglow.
+Extracted relations:
+	Subject: Harry Potter's	Object: Dobby	Relation: per:friend	Confidence: 0.92
+
+
+Sentence: “Dobby heard tell,” he said hoarsely, “that Harry Potter met Voldemort for a second time, just weeks ago that Harry Potter escaped yet again.”
+Extracted relations:
+	Subject: Dobby	Object: Voldemort	Relation: per:foe	Confidence: 0.90
+
+
+Sentence: “Dobby heard tell,” he said hoarsely, “that Harry Potter met Voldemort for a second time, just weeks ago that Harry Potter escaped yet again.”
+Extracted relations:
+	Subject: Voldemort	Object: Dobby	Relation: per:foe	Confidence: 0.90
+
+
+Sentence: “Not — not He-Who-Must-Not-Be-Named, sir — ” But Dobby’s eyes were wide and Dobby seemed to be trying to give Harry a hint.
+Extracted relations:
+	Subject: Dobby	Object: Harry	Relation: per:friend	Confidence: 0.93
+
+
+Sentence: “Not — not He-Who-Must-Not-Be-Named, sir — ” But Dobby’s eyes were wide and Dobby seemed to be trying to give Harry a hint.
+Extracted relations:
+	Subject: Harry	Object: Dobby	Relation: per:friend	Confidence: 0.93
+Completed 200 sentences
+
+
+Sentence: said Uncle Vernon through gritted teeth, Uncle Vernon's face horribly close to Harry’s.
+Extracted relations:
+	Subject: Uncle Vernon	Object: Uncle Vernon's	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: said Uncle Vernon through gritted teeth, Uncle Vernon's face horribly close to Harry’s.
+Extracted relations:
+	Subject: Uncle Vernon's	Object: Uncle Vernon	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: Harry could make out Hermione’s neat writing, Ron’s untidy scrawl, and even a scribble that looked as though it was from the Hogwarts gamekeeper, Hagrid.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:foe	Confidence: 0.87
+
+
+Sentence: Harry could make out Hermione’s neat writing, Ron’s untidy scrawl, and even a scribble that looked as though it was from the Hogwarts gamekeeper, Hagrid.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:foe	Confidence: 0.87
+
+
+Sentence: Mister Mason stayed just long enough to tell the Dursleys that Mister Mason's wife was mortally afraid of birds of all shapes and sizes, and to ask whether this was their idea of a joke.
+Extracted relations:
+	Subject: Mason	Object: Dursleys	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: Mister Mason stayed just long enough to tell the Dursleys that Mister Mason's wife was mortally afraid of birds of all shapes and sizes, and to ask whether this was their idea of a joke.
+Extracted relations:
+	Subject: Dursleys	Object: Mason	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: Uncle Vernon was as bad as Uncle Vernon's word.
+Extracted relations:
+	Subject: Uncle Vernon	Object: Uncle Vernon's	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: Uncle Vernon was as bad as Uncle Vernon's word.
+Extracted relations:
+	Subject: Uncle Vernon's	Object: Uncle Vernon	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: Three days later, the Dursleys were showing no sign of relenting, and Harry couldn’t see any way out of Harry's situation.
+Extracted relations:
+	Subject: Dursleys	Object: Harry	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: Three days later, the Dursleys were showing no sign of relenting, and Harry couldn’t see any way out of Harry's situation.
+Extracted relations:
+	Subject: Harry	Object: Dursleys	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: Dobby might have saved Harry from horrible happenings at Hogwarts, but the way things were going, Harry’d probably starve to death anyway.
+Extracted relations:
+	Subject: Dobby	Object: Harry	Relation: per:friend	Confidence: 0.89
+
+
+Sentence: Dobby might have saved Harry from horrible happenings at Hogwarts, but the way things were going, Harry’d probably starve to death anyway.
+Extracted relations:
+	Subject: Harry	Object: Dobby	Relation: per:friend	Confidence: 0.89
+
+
+Sentence: Grinning at Harry from the front seats were Fred and George, Ron’s elder twin brothers.
+Extracted relations:
+	Subject: Harry	Object: Fred	Relation: per:foe	Confidence: 0.86
+
+
+Sentence: Grinning at Harry from the front seats were Fred and George, Ron’s elder twin brothers.
+Extracted relations:
+	Subject: Fred	Object: Harry	Relation: per:foe	Confidence: 0.86
+Completed 300 sentences
+
+
+Sentence: Harry listened anxiously, but there was no sound from the Dursleys’ bedroom.
+Extracted relations:
+	Subject: Harry	Object: Dursleys	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: Harry listened anxiously, but there was no sound from the Dursleys’ bedroom.
+Extracted relations:
+	Subject: Dursleys	Object: Harry	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: “So — we’ll get your trunk — you grab anything you need from your room and hand it out to Ron,” whispered George.
+Extracted relations:
+	Subject: Ron	Object: George	Relation: per:friend	Confidence: 0.89
+
+
+Sentence: “So — we’ll get your trunk — you grab anything you need from your room and hand it out to Ron,” whispered George.
+Extracted relations:
+	Subject: George	Object: Ron	Relation: per:friend	Confidence: 0.89
+
+
+Sentence: “So — what’s the story, Harry?” said Ron impatiently.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: “So — what’s the story, Harry?” said Ron impatiently.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: “I don’t think George could,” said Harry.
+Extracted relations:
+	Subject: George	Object: Harry	Relation: per:friend	Confidence: 0.86
+
+
+Sentence: “I don’t think George could,” said Harry.
+Extracted relations:
+	Subject: Harry	Object: George	Relation: per:friend	Confidence: 0.86
+
+
+Sentence: Judging by the fact that Draco Malfoy usually had the best of everything, Draco Malfoy's family was rolling in wizard gold; Draco Malfoy could just see Malfoy strutting around a large manor house.
+Extracted relations:
+	Subject: Draco Malfoy	Object: Draco Malfoy's	Relation: per:foe	Confidence: 0.85
+
+
+Sentence: Judging by the fact that Draco Malfoy usually had the best of everything, Draco Malfoy's family was rolling in wizard gold; Draco Malfoy could just see Malfoy strutting around a large manor house.
+Extracted relations:
+	Subject: Draco Malfoy's	Object: Draco Malfoy	Relation: per:foe	Confidence: 0.85
+
+
+Sentence: Had Harry been stupid to take Dobby seriously?
+Extracted relations:
+	Subject: Harry	Object: Dobby	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: Had Harry been stupid to take Dobby seriously?
+Extracted relations:
+	Subject: Dobby	Object: Harry	Relation: per:friend	Confidence: 0.95
+Completed 400 sentences
+
+
+Sentence: “ ’Morning, Mum,” said George, in what George clearly thought was a jaunty, winning voice.
+Extracted relations:
+	Subject: Mum	Object: George	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “ ’Morning, Mum,” said George, in what George clearly thought was a jaunty, winning voice.
+Extracted relations:
+	Subject: George	Object: Mum	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “Sorry, Mum, but see, we had to — ” All three of Molly’s sons were taller than Mum was, but they cowered as Mum's rage broke over they.
+Extracted relations:
+	Subject: Mum	Object: Molly	Relation: per:foe	Confidence: 0.86
+
+
+Sentence: “Sorry, Mum, but see, we had to — ” All three of Molly’s sons were taller than Mum was, but they cowered as Mum's rage broke over they.
+Extracted relations:
+	Subject: Molly	Object: Mum	Relation: per:foe	Confidence: 0.86
+
+
+Sentence: “It was cloudy, Mum!” said Fred.
+Extracted relations:
+	Subject: Mum	Object: Fred	Relation: per:foe	Confidence: 0.89
+
+
+Sentence: “It was cloudy, Mum!” said Fred.
+Extracted relations:
+	Subject: Fred	Object: Mum	Relation: per:foe	Confidence: 0.89
+
+
+Sentence: “You didn’t ask them to fly that wretched car — ” But Harry, who felt wide awake, said quickly, “I’ll help Ron.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:friend	Confidence: 0.88
+
+
+Sentence: “You didn’t ask them to fly that wretched car — ” But Harry, who felt wide awake, said quickly, “I’ll help Ron.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:friend	Confidence: 0.88
+
+
+Sentence: “Don’t be so ridiculous, Fred,” said Molly, Molly's cheeks rather pink.
+Extracted relations:
+	Subject: Fred	Object: Molly	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “Don’t be so ridiculous, Fred,” said Molly, Molly's cheeks rather pink.
+Extracted relations:
+	Subject: Molly	Object: Fred	Relation: per:foe	Confidence: 0.88
+Completed 500 sentences
+
+
+Sentence: “Yes, Arthur, cars,” said Molly, her eyes flashing.
+Extracted relations:
+	Subject: Arthur	Object: Molly	Relation: per:foe	Confidence: 0.86
+
+
+Sentence: “Yes, Arthur, cars,” said Molly, her eyes flashing.
+Extracted relations:
+	Subject: Molly	Object: Arthur	Relation: per:foe	Confidence: 0.86
+
+
+Sentence: “Ginny,” said Ron.
+Extracted relations:
+	Subject: Ginny	Object: Ron	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “Ginny,” said Ron.
+Extracted relations:
+	Subject: Ron	Object: Ginny	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: Ginny seemed very prone to knocking things over whenever Harry entered a room.
+Extracted relations:
+	Subject: Ginny	Object: Harry	Relation: per:friend	Confidence: 0.91
+
+
+Sentence: Ginny seemed very prone to knocking things over whenever Harry entered a room.
+Extracted relations:
+	Subject: Harry	Object: Ginny	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: Pretending Harry hadn’t noticed this, Harry sat down and took the toast Molly offered Harry.
+Extracted relations:
+	Subject: Harry	Object: Molly	Relation: per:foe	Confidence: 0.92
+
+
+Sentence: Pretending Harry hadn’t noticed this, Harry sat down and took the toast Molly offered Harry.
+Extracted relations:
+	Subject: Molly	Object: Harry	Relation: per:foe	Confidence: 0.92
+
+
+Sentence: “Errol!” said Ron, taking the limp owl from Percy and extracting a letter from under the limp owl wing.
+Extracted relations:
+	Subject: Errol	Object: Ron	Relation: per:foe	Confidence: 0.86
+
+
+Sentence: “Errol!” said Ron, taking the limp owl from Percy and extracting a letter from under the limp owl wing.
+Extracted relations:
+	Subject: Ron	Object: Errol	Relation: per:foe	Confidence: 0.87
+
+
+Sentence: they took turns riding Harry’s Nimbus Two Thousand, which was easily the best broom; Ron’s old Shooting Star was often outstripped by passing butterflies.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:foe	Confidence: 0.85
+
+
+Sentence: they took turns riding Harry’s Nimbus Two Thousand, which was easily the best broom; Ron’s old Shooting Star was often outstripped by passing butterflies.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:foe	Confidence: 0.85
+Completed 600 sentences
+
+
+Sentence: “Dudley would think it was a brilliant joke if I got lost up a chimney, don’t worry about that — ” “Well all right you go after Arthur,” said Mistress Weasley.
+Extracted relations:
+	Subject: Dudley	Object: Arthur	Relation: per:friend	Confidence: 0.93
+
+
+Sentence: “Dudley would think it was a brilliant joke if I got lost up a chimney, don’t worry about that — ” “Well all right you go after Arthur,” said Mistress Weasley.
+Extracted relations:
+	Subject: Arthur	Object: Dudley	Relation: per:friend	Confidence: 0.93
+
+
+Sentence: “Mister Malfoy, what a pleasure to see you again,” said Mister Borgin in a voice as oily as his hair.
+Extracted relations:
+	Subject: Malfoy	Object: Borgin	Relation: per:foe	Confidence: 0.90
+
+
+Sentence: “Mister Malfoy, what a pleasure to see you again,” said Mister Borgin in a voice as oily as his hair.
+Extracted relations:
+	Subject: Borgin	Object: Malfoy	Relation: per:foe	Confidence: 0.90
+
+
+Sentence: “The teachers all have favorites, that Hermione Granger — ” “I would have thought you’d be ashamed that a girl of no wizard family beat you in every exam,” snapped Mister Malfoy.
+Extracted relations:
+	Subject: Hermione Granger	Object: Malfoy	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: “The teachers all have favorites, that Hermione Granger — ” “I would have thought you’d be ashamed that a girl of no wizard family beat you in every exam,” snapped Mister Malfoy.
+Extracted relations:
+	Subject: Malfoy	Object: Hermione Granger	Relation: per:friend	Confidence: 0.95
+Completed 700 sentences
+
+
+Sentence: “Excellent.” said Fred and George together.
+Extracted relations:
+	Subject: Fred	Object: George	Relation: per:foe	Confidence: 0.86
+
+
+Sentence: “Excellent.” said Fred and George together.
+Extracted relations:
+	Subject: George	Object: Fred	Relation: per:foe	Confidence: 0.86
+
+
+Sentence: “But you’re Mugglesl” said Arthur delightedly.
+Extracted relations:
+	Subject: Mugglesl	Object: Arthur	Relation: per:foe	Confidence: 0.90
+
+
+Sentence: “But you’re Mugglesl” said Arthur delightedly.
+Extracted relations:
+	Subject: Arthur	Object: Mugglesl	Relation: per:foe	Confidence: 0.90
+
+
+Sentence: Fred and George had spotted Fred and George's friend from Hogwarts, Lee Jordan.
+Extracted relations:
+	Subject: Fred	Object: George	Relation: per:foe	Confidence: 0.87
+
+
+Sentence: Fred and George had spotted Fred and George's friend from Hogwarts, Lee Jordan.
+Extracted relations:
+	Subject: George	Object: Fred	Relation: per:foe	Confidence: 0.87
+
+
+Sentence: Harry’s face burned as Lockhart shook Harry's hand for the photographer, who was clicking away madly, wafting thick smoke over the Weasleys.
+Extracted relations:
+	Subject: Harry	Object: Lockhart	Relation: per:friend	Confidence: 0.93
+
+
+Sentence: Harry’s face burned as Lockhart shook Harry's hand for the photographer, who was clicking away madly, wafting thick smoke over the Weasleys.
+Extracted relations:
+	Subject: Lockhart	Object: Harry	Relation: per:friend	Confidence: 0.93
+
+
+Sentence: “Nice big smile, Harry,” said Lockhart, through Lockhart's own gleaming teeth.
+Extracted relations:
+	Subject: Harry	Object: Lockhart	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “Nice big smile, Harry,” said Lockhart, through Lockhart's own gleaming teeth.
+Extracted relations:
+	Subject: Lockhart	Object: Harry	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “Oh, it’s you,” said Ron, looking at Malfoy as if he were something unpleasant on the sole of his shoe.
+Extracted relations:
+	Subject: Ron	Object: Malfoy	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: “Oh, it’s you,” said Ron, looking at Malfoy as if he were something unpleasant on the sole of his shoe.
+Extracted relations:
+	Subject: Malfoy	Object: Ron	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: “Not as surprised as I am to see you in a shop, Weasley,” retorted Malfoy.
+Extracted relations:
+	Subject: Weasley	Object: Malfoy	Relation: per:friend	Confidence: 0.93
+
+
+Sentence: “Not as surprised as I am to see you in a shop, Weasley,” retorted Malfoy.
+Extracted relations:
+	Subject: Malfoy	Object: Weasley	Relation: per:friend	Confidence: 0.93
+
+
+Sentence: “Ron!” said Arthur, struggling over with Fred and George.
+Extracted relations:
+	Subject: Ron	Object: Arthur	Relation: per:foe	Confidence: 0.86
+
+
+Sentence: “Ron!” said Arthur, struggling over with Fred and George.
+Extracted relations:
+	Subject: Arthur	Object: Ron	Relation: per:foe	Confidence: 0.87
+Completed 800 sentences
+
+
+Sentence: In an instant he had pulled Arthur and Mister Malfoy apart.
+Extracted relations:
+	Subject: Arthur	Object: Malfoy	Relation: per:friend	Confidence: 0.89
+
+
+Sentence: In an instant he had pulled Arthur and Mister Malfoy apart.
+Extracted relations:
+	Subject: Malfoy	Object: Arthur	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: Arthur had a cut lip and Mister Malfoy had been hit in the eye by an Encyclopedia of Toadstools.
+Extracted relations:
+	Subject: Arthur	Object: Malfoy	Relation: per:friend	Confidence: 0.87
+
+
+Sentence: Arthur had a cut lip and Mister Malfoy had been hit in the eye by an Encyclopedia of Toadstools.
+Extracted relations:
+	Subject: Malfoy	Object: Arthur	Relation: per:friend	Confidence: 0.88
+
+
+Sentence: “Yeh should’ve ignored Yeh, Arthur,” said Hagrid, almost lifting Arthur off Arthur's feet as he straightened his robes.
+Extracted relations:
+	Subject: Yeh	Object: Arthur	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: “Yeh should’ve ignored Yeh, Arthur,” said Hagrid, almost lifting Arthur off Arthur's feet as he straightened his robes.
+Extracted relations:
+	Subject: Arthur	Object: Yeh	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: They hurried up the street, the Grangers shaking with fright and Molly beside Molly with fury.
+Extracted relations:
+	Subject: Grangers	Object: Molly	Relation: per:friend	Confidence: 0.91
+
+
+Sentence: They hurried up the street, the Grangers shaking with fright and Molly beside Molly with fury.
+Extracted relations:
+	Subject: Molly	Object: Grangers	Relation: per:friend	Confidence: 0.91
+
+
+Sentence: “A fine example to set for your children brawling in public what Gilderoy Lockhart must’ve thought — ” “Gilderoy Lockhart was pleased,” said Fred.
+Extracted relations:
+	Subject: Gilderoy Lockhart	Object: Fred	Relation: per:foe	Confidence: 0.90
+
+
+Sentence: “A fine example to set for your children brawling in public what Gilderoy Lockhart must’ve thought — ” “Gilderoy Lockhart was pleased,” said Fred.
+Extracted relations:
+	Subject: Fred	Object: Gilderoy Lockhart	Relation: per:foe	Confidence: 0.90
+
+
+Sentence: It was difficult not to feel jealous of Ron when He thought of the Dursleys and the sort of welcome
+Extracted relations:
+	Subject: Ron	Object: Dursleys	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: It was difficult not to feel jealous of Ron when He thought of the Dursleys and the sort of welcome
+Extracted relations:
+	Subject: Dursleys	Object: Ron	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: On their last evening, Molly conjured up a sumptuous dinner that included all of Harry’s favorite things, ending with a mouthwatering treacle pudding.
+Extracted relations:
+	Subject: Molly	Object: Harry	Relation: per:foe	Confidence: 0.89
+
+
+Sentence: On their last evening, Molly conjured up a sumptuous dinner that included all of Harry’s favorite things, ending with a mouthwatering treacle pudding.
+Extracted relations:
+	Subject: Harry	Object: Molly	Relation: per:foe	Confidence: 0.89
+
+
+Sentence: “Percy first,” said Molly, looking nervously at the clock overhead, which showed they had only five minutes to disappear casually through the barrier.
+Extracted relations:
+	Subject: Percy	Object: Molly	Relation: per:foe	Confidence: 0.89
+
+
+Sentence: “Percy first,” said Molly, looking nervously at the clock overhead, which showed they had only five minutes to disappear casually through the barrier.
+Extracted relations:
+	Subject: Molly	Object: Percy	Relation: per:foe	Confidence: 0.89
+
+
+Sentence: “I’ll take Ginny and you two come right after us,” Mistress Weasley told Harry and Ron, grabbing Ginny’s hand and setting off.
+Extracted relations:
+	Subject: Ginny	Object: Weasley	Relation: per:foe	Confidence: 0.89
+
+
+Sentence: “I’ll take Ginny and you two come right after us,” Mistress Weasley told Harry and Ron, grabbing Ginny’s hand and setting off.
+Extracted relations:
+	Subject: Weasley	Object: Ginny	Relation: per:foe	Confidence: 0.89
+
+
+Sentence: Harry felt perfectly confident; this wasn’t nearly as uncomfortable as using Floo powder.
+Extracted relations:
+	Subject: Harry	Object: Floo	Relation: per:friend	Confidence: 0.93
+
+
+Sentence: Harry felt perfectly confident; this wasn’t nearly as uncomfortable as using Floo powder.
+Extracted relations:
+	Subject: Floo	Object: Harry	Relation: per:friend	Confidence: 0.93
+
+
+Sentence: Harry hissed to Ron.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: Harry hissed to Ron.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:friend	Confidence: 0.95
+Completed 900 sentences
+
+
+Sentence: Harry and Ron exchanged nervous glances.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: Harry and Ron exchanged nervous glances.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: Steam was billowing from under the crumpled hood; Hedwig was shrieking in terror; a golf-ball-sized lump was throbbing on Harry’s head where he had hit the windshield; and to his right, Ron let out a low, despairing groan.
+Extracted relations:
+	Subject: Hedwig	Object: Harry	Relation: per:friend	Confidence: 0.92
+
+
+Sentence: Steam was billowing from under the crumpled hood; Hedwig was shrieking in terror; a golf-ball-sized lump was throbbing on Harry’s head where he had hit the windshield; and to his right, Ron let out a low, despairing groan.
+Extracted relations:
+	Subject: Harry	Object: Hedwig	Relation: per:friend	Confidence: 0.92
+
+
+Sentence: Ron shouted, throwing his full weight against his , but next second his had been knocked backward into Harry’s lap by a vicious uppercut from another branch.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: Ron shouted, throwing his full weight against his , but next second his had been knocked backward into Harry’s lap by a vicious uppercut from another branch.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:friend	Confidence: 0.95
+Completed 1000 sentences
+
+
+Sentence: “Hang on ” Harry muttered to Ron.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: “Hang on ” Harry muttered to Ron.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: “Or Harry might have been sacked).” said Ron enthusiastically.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: “Or Harry might have been sacked).” said Ron enthusiastically.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: Harry was a thin man with sallow skin, a hooked nose, and greasy, shoulder-length black hair, and at this moment, Harry was smiling in a way that told Harry He and Ron were in very deep trouble.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:foe	Confidence: 0.85
+
+
+Sentence: Harry was a thin man with sallow skin, a hooked nose, and greasy, shoulder-length black hair, and at this moment, Harry was smiling in a way that told Harry He and Ron were in very deep trouble.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:foe	Confidence: 0.85
+
+
+Sentence: Harry had seen Professor McGonagall angry on several occasions, but either Harry had forgotten just how thin Professor McGonagall's mouth could go, or Harry had never seen Professor McGonagall's this angry before.
+Extracted relations:
+	Subject: Harry	Object: McGonagall	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: Harry had seen Professor McGonagall angry on several occasions, but either Harry had forgotten just how thin Professor McGonagall's mouth could go, or Harry had never seen Professor McGonagall's this angry before.
+Extracted relations:
+	Subject: McGonagall	Object: Harry	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: She raised Shis wand the moment She entered; Harry and Ron both flinched, but She merely pointed it at the empty fireplace, where flames suddenly erupted.
+Extracted relations:
+	Subject: Shis	Object: Harry	Relation: per:friend	Confidence: 0.93
+
+
+Sentence: She raised Shis wand the moment She entered; Harry and Ron both flinched, but She merely pointed it at the empty fireplace, where flames suddenly erupted.
+Extracted relations:
+	Subject: Harry	Object: Shis	Relation: per:friend	Confidence: 0.93
+
+
+Sentence: Dumbledore stared down Dumbledore's very crooked nose at them, and Harry suddenly found Harry wishing Harry and Ron were still being beaten up by the Whomping Willow.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:friend	Confidence: 0.88
+
+
+Sentence: Dumbledore stared down Dumbledore's very crooked nose at them, and Harry suddenly found Harry wishing Harry and Ron were still being beaten up by the Whomping Willow.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:friend	Confidence: 0.88
+
+
+Sentence: Harry told Dumbledore everything except that Arthur owned the bewitched car, making it sound as though Harry and Ron had happened to find a flying car parked outside the station.
+Extracted relations:
+	Subject: Harry	Object: Arthur	Relation: per:friend	Confidence: 0.92
+
+
+Sentence: Harry told Dumbledore everything except that Arthur owned the bewitched car, making it sound as though Harry and Ron had happened to find a flying car parked outside the station.
+Extracted relations:
+	Subject: Arthur	Object: Harry	Relation: per:friend	Confidence: 0.92
+
+
+Sentence: “What are you talking about, Weasley?” barked Professor McGonagall.
+Extracted relations:
+	Subject: Weasley	Object: McGonagall	Relation: per:friend	Confidence: 0.89
+
+
+Sentence: “What are you talking about, Weasley?” barked Professor McGonagall.
+Extracted relations:
+	Subject: McGonagall	Object: Weasley	Relation: per:friend	Confidence: 0.89
+
+
+Sentence: “And speaking of Gryffindor — ” Professor McGonagall said sharply, but Harry cut in: “Professor, when we took the car, term hadn’t started, so — so Gryffindor shouldn’t really have points taken from it — should it?”
+Extracted relations:
+	Subject: McGonagall	Object: Harry	Relation: per:friend	Confidence: 0.93
+
+
+Sentence: “And speaking of Gryffindor — ” Professor McGonagall said sharply, but Harry cut in: “Professor, when we took the car, term hadn’t started, so — so Gryffindor shouldn’t really have points taken from it — should it?”
+Extracted relations:
+	Subject: Harry	Object: McGonagall	Relation: per:friend	Confidence: 0.93
+Completed 1100 sentences
+
+
+Sentence: Harry knew perfectly well they’d just be disappointed that the Whomping Willow hadn’t squashed Harry flat.
+Extracted relations:
+	Subject: Harry	Object: Willow	Relation: per:friend	Confidence: 0.96
+
+
+Sentence: Harry knew perfectly well they’d just be disappointed that the Whomping Willow hadn’t squashed Harry flat.
+Extracted relations:
+	Subject: Willow	Object: Harry	Relation: per:friend	Confidence: 0.96
+
+
+Sentence: “You’re not telling me you did fly here?” said Hermione, sounding almost as severe as Professor McGonagall.
+Extracted relations:
+	Subject: Hermione	Object: McGonagall	Relation: per:friend	Confidence: 0.87
+
+
+Sentence: “You’re not telling me you did fly here?” said Hermione, sounding almost as severe as Professor McGonagall.
+Extracted relations:
+	Subject: McGonagall	Object: Hermione	Relation: per:friend	Confidence: 0.86
+
+
+Sentence: Ron grinned guiltily at Harry.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: Ron grinned guiltily at Harry.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: “It’s all right, he’s still alive,” said Hermione, prodding Errol gently with the tip of Hermione's finger.
+Extracted relations:
+	Subject: Hermione	Object: Errol	Relation: per:friend	Confidence: 0.89
+
+
+Sentence: “It’s all right, he’s still alive,” said Hermione, prodding Errol gently with the tip of Hermione's finger.
+Extracted relations:
+	Subject: Errol	Object: Hermione	Relation: per:friend	Confidence: 0.89
+
+
+Sentence: Harry took Harry's and saw that they had double Herbology with the Hufflepuffs first.
+Extracted relations:
+	Subject: Harry	Object: Hufflepuffs	Relation: per:foe	Confidence: 0.85
+
+
+Sentence: Harry took Harry's and saw that they had double Herbology with the Hufflepuffs first.
+Extracted relations:
+	Subject: Hufflepuffs	Object: Harry	Relation: per:foe	Confidence: 0.85
+Completed 1200 sentences
+
+
+Sentence: They looked quite unremarkable to Harry, who didn’t have the slightest idea what Hermione meant by the “cry” of the Mandrake.
+Extracted relations:
+	Subject: Harry	Object: Hermione	Relation: per:friend	Confidence: 0.93
+
+
+Sentence: They looked quite unremarkable to Harry, who didn’t have the slightest idea what Hermione meant by the “cry” of the Mandrake.
+Extracted relations:
+	Subject: Hermione	Object: Harry	Relation: per:friend	Confidence: 0.93
+
+
+Sentence: “Justin Finch-Fletchley,” he said brightly, shaking Harry by the hand.
+Extracted relations:
+	Subject: Justin Finch-Fletchley	Object: Harry	Relation: per:foe	Confidence: 0.87
+
+
+Sentence: “Justin Finch-Fletchley,” he said brightly, shaking Harry by the hand.
+Extracted relations:
+	Subject: Harry	Object: Justin Finch-Fletchley	Relation: per:foe	Confidence: 0.87
+
+
+Sentence: Harry and Ron stood talking about Quidditch for several minutes before Harry became aware that he was being closely watched.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:friend	Confidence: 0.85
+
+
+Sentence: Harry and Ron stood talking about Quidditch for several minutes before Harry became aware that he was being closely watched.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:friend	Confidence: 0.85
+Completed 1300 sentences
+
+
+Sentence: “Of what? “Eat slugs, Malfoy,” said Ron angrily.
+Extracted relations:
+	Subject: Malfoy	Object: Ron	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: “Of what? “Eat slugs, Malfoy,” said Ron angrily.
+Extracted relations:
+	Subject: Ron	Object: Malfoy	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: “Be careful, Weasley,” sneered Malfoy.
+Extracted relations:
+	Subject: Weasley	Object: Malfoy	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: “Be careful, Weasley,” sneered Malfoy.
+Extracted relations:
+	Subject: Malfoy	Object: Weasley	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: “Come on then, Mister Creevey,” said Lockhart, beaming at Colin.
+Extracted relations:
+	Subject: Creevey	Object: Lockhart	Relation: per:foe	Confidence: 0.89
+
+
+Sentence: “Come on then, Mister Creevey,” said Lockhart, beaming at Colin.
+Extracted relations:
+	Subject: Lockhart	Object: Creevey	Relation: per:foe	Confidence: 0.89
+
+
+Sentence: “You’d better hope Creevey doesn’t meet Ginny, or they’ll be starting a Harry Potter fan club.”
+Extracted relations:
+	Subject: Creevey	Object: Ginny	Relation: per:friend	Confidence: 0.91
+
+
+Sentence: “You’d better hope Creevey doesn’t meet Ginny, or they’ll be starting a Harry Potter fan club.”
+Extracted relations:
+	Subject: Ginny	Object: Creevey	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: Ron was now staring at Lockhart with an expression of disbelief on his face; Seamus Finnigan and Dean Thomas, who were sitting in front, were shaking with silent laughter.
+Extracted relations:
+	Subject: Ron	Object: Lockhart	Relation: per:friend	Confidence: 0.89
+
+
+Sentence: Ron was now staring at Lockhart with an expression of disbelief on his face; Seamus Finnigan and Dean Thomas, who were sitting in front, were shaking with silent laughter.
+Extracted relations:
+	Subject: Lockhart	Object: Ron	Relation: per:friend	Confidence: 0.89
+
+
+Sentence: Hermione, on the other hand, was listening to Lockhart with rapt attention and gave a start when he mentioned Hermione's name. "
+Extracted relations:
+	Subject: Hermione	Object: Lockhart	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: Hermione, on the other hand, was listening to Lockhart with rapt attention and gave a start when he mentioned Hermione's name. "
+Extracted relations:
+	Subject: Lockhart	Object: Hermione	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: Seamus Finnigan let out a snort of laughter that even Lockhart couldn’t mistake for a scream of terror.
+Extracted relations:
+	Subject: Seamus Finnigan	Object: Lockhart	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: Seamus Finnigan let out a snort of laughter that even Lockhart couldn’t mistake for a scream of terror.
+Extracted relations:
+	Subject: Lockhart	Object: Seamus Finnigan	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: “Come on now — round them up, round them up, them’re only pixies,” Lockhart shouted.
+Extracted relations:
+	Subject: them’re	Object: Lockhart	Relation: per:foe	Confidence: 0.86
+
+
+Sentence: “Come on now — round them up, round them up, them’re only pixies,” Lockhart shouted.
+Extracted relations:
+	Subject: Lockhart	Object: them’re	Relation: per:foe	Confidence: 0.87
+
+
+Sentence: Lockhart gulped and dived under his own desk, narrowly avoiding being squashed by Neville, who fell a second later as the chandelier gave way.
+Extracted relations:
+	Subject: Lockhart	Object: Neville	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: Lockhart gulped and dived under his own desk, narrowly avoiding being squashed by Neville, who fell a second later as the chandelier gave way.
+Extracted relations:
+	Subject: Neville	Object: Lockhart	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: Nothing seemed to give Colin a bigger thrill than to say, “All right, Harry?”
+Extracted relations:
+	Subject: Colin	Object: Harry	Relation: per:friend	Confidence: 0.91
+
+
+Sentence: Nothing seemed to give Colin a bigger thrill than to say, “All right, Harry?”
+Extracted relations:
+	Subject: Harry	Object: Colin	Relation: per:friend	Confidence: 0.91
+
+
+Sentence: six or seven times a day and hear, “Hello, Colin,” back, however exasperated Harry sounded when Harry said it.
+Extracted relations:
+	Subject: Colin	Object: Harry	Relation: per:friend	Confidence: 0.93
+
+
+Sentence: six or seven times a day and hear, “Hello, Colin,” back, however exasperated Harry sounded when Harry said it.
+Extracted relations:
+	Subject: Harry	Object: Colin	Relation: per:friend	Confidence: 0.93
+
+
+Sentence: Hedwig was still angry with Harry about the disasterous car journey and Ron’s wand was still malfunctioning, surpassing itself on Friday morning by shooting out of Ron’s hand in Charms and hitting tiny old Professor Flitwick squarely between the eyes, creating a large, throbbing green boil where it had struck.
+Extracted relations:
+	Subject: Hedwig	Object: Harry	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: Hedwig was still angry with Harry about the disasterous car journey and Ron’s wand was still malfunctioning, surpassing itself on Friday morning by shooting out of Ron’s hand in Charms and hitting tiny old Professor Flitwick squarely between the eyes, creating a large, throbbing green boil where it had struck.
+Extracted relations:
+	Subject: Harry	Object: Hedwig	Relation: per:friend	Confidence: 0.90
+Completed 1400 sentences
+
+
+Sentence: “It’ll be really boring,” Harry said quickly, but Colin ignored Harry, Harry's face shining with excitement.
+Extracted relations:
+	Subject: Harry	Object: Colin	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: “It’ll be really boring,” Harry said quickly, but Colin ignored Harry, Harry's face shining with excitement.
+Extracted relations:
+	Subject: Colin	Object: Harry	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: “And the Slytherins don’t need a spy, Oliver,” said George.
+Extracted relations:
+	Subject: Oliver	Object: George	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “And the Slytherins don’t need a spy, Oliver,” said George.
+Extracted relations:
+	Subject: George	Object: Oliver	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “But Tve got a specially signed note here from Professor Snape.
+Extracted relations:
+	Subject: Tve	Object: Snape	Relation: per:foe	Confidence: 0.87
+
+
+Sentence: “But Tve got a specially signed note here from Professor Snape.
+Extracted relations:
+	Subject: Snape	Object: Tve	Relation: per:foe	Confidence: 0.88
+Completed 1500 sentences
+
+
+Sentence: “I’m the new Slytherin Seeker, Weasley,” said Malfoy, smugly.
+Extracted relations:
+	Subject: Seeker	Object: Weasley	Relation: per:foe	Confidence: 0.89
+
+
+Sentence: “I’m the new Slytherin Seeker, Weasley,” said Malfoy, smugly.
+Extracted relations:
+	Subject: Weasley	Object: Seeker	Relation: per:foe	Confidence: 0.89
+
+
+Sentence: Harry knew at once that Malfoy had said something really bad because there was an instant uproar at Harry's words.
+Extracted relations:
+	Subject: Harry	Object: Malfoy	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: Harry knew at once that Malfoy had said something really bad because there was an instant uproar at Harry's words.
+Extracted relations:
+	Subject: Malfoy	Object: Harry	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: “We’d better get him to Hagrid’s, it’s nearest,” said Harry to Hermione, who nodded bravely, and the pair of them pulled Ron up by the arms.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:foe	Confidence: 0.90
+
+
+Sentence: “We’d better get him to Hagrid’s, it’s nearest,” said Harry to Hermione, who nodded bravely, and the pair of them pulled Ron up by the arms.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:foe	Confidence: 0.91
+
+
+Sentence: “Get out of the way, Colin!” said Harry angrily.
+Extracted relations:
+	Subject: Colin	Object: Harry	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: “Get out of the way, Colin!” said Harry angrily.
+Extracted relations:
+	Subject: Harry	Object: Colin	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: Hagrid didn’t seem perturbed by Ron’s slug problem, which Harry hastily explained as he lowered Ron into a chair.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: Hagrid didn’t seem perturbed by Ron’s slug problem, which Harry hastily explained as he lowered Ron into a chair.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: His boarhound, Fang, was slobbering over Harry.
+Extracted relations:
+	Subject: Fang	Object: Harry	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: His boarhound, Fang, was slobbering over Harry.
+Extracted relations:
+	Subject: Harry	Object: Fang	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: “Malfoy called her ‘Mudblood,’ Hagrid — ” Ron dived out of sight again as a fresh wave of slugs made their appearance.
+Extracted relations:
+	Subject: Malfoy	Object: Ron	Relation: per:foe	Confidence: 0.87
+
+
+Sentence: “Malfoy called her ‘Mudblood,’ Hagrid — ” Ron dived out of sight again as a fresh wave of slugs made their appearance.
+Extracted relations:
+	Subject: Ron	Object: Malfoy	Relation: per:foe	Confidence: 0.87
+Completed 1600 sentences
+
+
+Sentence: “ You will be polishing the silver in the trophy room with Mister Filch,” said Professor McGonagall.
+Extracted relations:
+	Subject: Filch	Object: McGonagall	Relation: per:foe	Confidence: 0.89
+
+
+Sentence: “ You will be polishing the silver in the trophy room with Mister Filch,” said Professor McGonagall.
+Extracted relations:
+	Subject: McGonagall	Object: Filch	Relation: per:foe	Confidence: 0.89
+
+
+Sentence: “And you, Potter, will be helping Professor Lockhart answer Professor Lockhart's fan mail,” said Professor McGonagall.
+Extracted relations:
+	Subject: Lockhart	Object: McGonagall	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “And you, Potter, will be helping Professor Lockhart answer Professor Lockhart's fan mail,” said Professor McGonagall.
+Extracted relations:
+	Subject: McGonagall	Object: Lockhart	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “D’you think Harry was lying?
+Extracted relations:
+	Subject: D’you	Object: Harry	Relation: per:friend	Confidence: 0.93
+
+
+Sentence: “D’you think Harry was lying?
+Extracted relations:
+	Subject: Harry	Object: D’you	Relation: per:friend	Confidence: 0.93
+
+
+Sentence: Ginny Weasley, who had been looking pale, was bullied into taking some by Percy.
+Extracted relations:
+	Subject: Ginny Weasley	Object: Percy	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: Ginny Weasley, who had been looking pale, was bullied into taking some by Percy.
+Extracted relations:
+	Subject: Percy	Object: Ginny Weasley	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: Nearly Headless Nick, the ghost of Gryffindor Tower, was staring morosely out of a window, muttering under his breath, " don’t fulfill their requirements half an inch, if that ” “Hello, Nick,” said Harry.
+Extracted relations:
+	Subject: Nick	Object: Harry	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: Nearly Headless Nick, the ghost of Gryffindor Tower, was staring morosely out of a window, muttering under his breath, " don’t fulfill their requirements half an inch, if that ” “Hello, Nick,” said Harry.
+Extracted relations:
+	Subject: Harry	Object: Nick	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “You’d better get out of here, Harry,” said Nick quickly.
+Extracted relations:
+	Subject: Harry	Object: Nick	Relation: per:foe	Confidence: 0.86
+
+
+Sentence: “You’d better get out of here, Harry,” said Nick quickly.
+Extracted relations:
+	Subject: Nick	Object: Harry	Relation: per:foe	Confidence: 0.85
+
+
+Sentence: Wooden filing cabinets stood around the walls; from Wooden filing cabinets's labels, Harry could see that they contained details of every pupil Filch had ever punished.
+Extracted relations:
+	Subject: Harry	Object: Filch	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: Wooden filing cabinets stood around the walls; from Wooden filing cabinets's labels, Harry could see that they contained details of every pupil Filch had ever punished.
+Extracted relations:
+	Subject: Filch	Object: Harry	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: Fred and George Weasley had an entire drawer to Fred and George Weasley.
+Extracted relations:
+	Subject: Fred	Object: George Weasley	Relation: per:foe	Confidence: 0.85
+
+
+Sentence: Fred and George Weasley had an entire drawer to Fred and George Weasley.
+Extracted relations:
+	Subject: George Weasley	Object: Fred	Relation: per:foe	Confidence: 0.85
+Completed 1700 sentences
+
+
+Sentence: Hopefully, whatever Peeves had done (and it sounded as though Peeves’d wrecked something very big this time) would distract Filch from Harry.
+Extracted relations:
+	Subject: Filch	Object: Harry	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: Hopefully, whatever Peeves had done (and it sounded as though Peeves’d wrecked something very big this time) would distract Filch from Harry.
+Extracted relations:
+	Subject: Harry	Object: Filch	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: “A deathday party?” said Hermione keenly when Harry had changed at last and joined Hermione's and Ron in the common room.
+Extracted relations:
+	Subject: Hermione	Object: Harry	Relation: per:foe	Confidence: 0.91
+
+
+Sentence: “A deathday party?” said Hermione keenly when Harry had changed at last and joined Hermione's and Ron in the common room.
+Extracted relations:
+	Subject: Harry	Object: Hermione	Relation: per:foe	Confidence: 0.91
+Completed 1800 sentences
+
+
+Sentence: “How are you, Myrtle?” said Hermione in a falsely bright voice.
+Extracted relations:
+	Subject: Myrtle	Object: Hermione	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “How are you, Myrtle?” said Hermione in a falsely bright voice.
+Extracted relations:
+	Subject: Hermione	Object: Myrtle	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: Myrtle eyed Hermione suspiciously.
+Extracted relations:
+	Subject: Myrtle	Object: Hermione	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: Myrtle eyed Hermione suspiciously.
+Extracted relations:
+	Subject: Hermione	Object: Myrtle	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: “Welcome, Patrick,” said Nick stiffly.
+Extracted relations:
+	Subject: Patrick	Object: Nick	Relation: per:friend	Confidence: 0.89
+
+
+Sentence: “Welcome, Patrick,” said Nick stiffly.
+Extracted relations:
+	Subject: Nick	Object: Patrick	Relation: per:friend	Confidence: 0.89
+
+
+Sentence: “It’s that voice again — shut up a minute — ” soo hungry for so long ” “Listen!” said Harry urgently, and Ron and Hermione froze, watching him.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:friend	Confidence: 0.91
+
+
+Sentence: “It’s that voice again — shut up a minute — ” soo hungry for so long ” “Listen!” said Harry urgently, and Ron and Hermione froze, watching him.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:friend	Confidence: 0.91
+Completed 1900 sentences
+
+
+Sentence: Harry said loudly, uncomfortably aware of everyone looking at Harry, including all the Lockharts on the walls.
+Extracted relations:
+	Subject: Harry	Object: Lockharts	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: Harry said loudly, uncomfortably aware of everyone looking at Harry, including all the Lockharts on the walls.
+Extracted relations:
+	Subject: Lockharts	Object: Harry	Relation: per:friend	Confidence: 0.94
+Completed 2000 sentences
+
+
+Sentence: Ginny Weasley seemed very disturbed by Mistress Norris’s fate.
+Extracted relations:
+	Subject: Ginny Weasley	Object: Norris	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: Ginny Weasley seemed very disturbed by Mistress Norris’s fate.
+Extracted relations:
+	Subject: Norris	Object: Ginny Weasley	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: “And I can’t find the story anywhere else — ” “Hermione, let me read your composition,” said Ron desperately, checking his watch.
+Extracted relations:
+	Subject: Hermione	Object: Ron	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “And I can’t find the story anywhere else — ” “Hermione, let me read your composition,” said Ron desperately, checking his watch.
+Extracted relations:
+	Subject: Ron	Object: Hermione	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: Professor Binns was looking at her in such amazement, Harry was sure no student had ever interrupted Harry before, alive or dead.
+Extracted relations:
+	Subject: Binns	Object: Harry	Relation: per:friend	Confidence: 0.92
+
+
+Sentence: Professor Binns was looking at her in such amazement, Harry was sure no student had ever interrupted Harry before, alive or dead.
+Extracted relations:
+	Subject: Harry	Object: Binns	Relation: per:friend	Confidence: 0.92
+
+
+Sentence: “Nonsense, O’Flaherty,” said Professor Binns in an aggravated tone.
+Extracted relations:
+	Subject: O’Flaherty	Object: Binns	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: “Nonsense, O’Flaherty,” said Professor Binns in an aggravated tone.
+Extracted relations:
+	Subject: Binns	Object: O’Flaherty	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: “If a long succession of Hogwarts headmasters and headmistresses haven’t found the thing — ” “But, Professor,” piped up Parvati Patil, “you’d probably have to use Dark Magic to open it — ” “Just because a wizard doesn’t use Dark Magic doesn’t mean he can’t, Miss Pennyfeather,” snapped Professor Binns.
+Extracted relations:
+	Subject: Hogwarts	Object: Parvati Patil	Relation: per:foe	Confidence: 0.86
+
+
+Sentence: “If a long succession of Hogwarts headmasters and headmistresses haven’t found the thing — ” “But, Professor,” piped up Parvati Patil, “you’d probably have to use Dark Magic to open it — ” “Just because a wizard doesn’t use Dark Magic doesn’t mean he can’t, Miss Pennyfeather,” snapped Professor Binns.
+Extracted relations:
+	Subject: Parvati Patil	Object: Hogwarts	Relation: per:foe	Confidence: 0.86
+
+
+Sentence: Harry had never told Ron and Hermione that the Sorting Hat had seriously considered putting him in Slytherin.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:friend	Confidence: 0.91
+
+
+Sentence: Harry had never told Ron and Hermione that the Sorting Hat had seriously considered putting him in Slytherin.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:friend	Confidence: 0.91
+
+
+Sentence: “Hullo, Colin,” said Harry automatically.
+Extracted relations:
+	Subject: Colin	Object: Harry	Relation: per:foe	Confidence: 0.90
+
+
+Sentence: “Hullo, Colin,” said Harry automatically.
+Extracted relations:
+	Subject: Harry	Object: Colin	Relation: per:foe	Confidence: 0.89
+
+
+Sentence: “People here’ll believe anything,” said Ron in disgust.
+Extracted relations:
+	Subject: here’ll	Object: Ron	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: “People here’ll believe anything,” said Ron in disgust.
+Extracted relations:
+	Subject: Ron	Object: here’ll	Relation: per:friend	Confidence: 0.95
+Completed 2100 sentences
+
+
+Sentence: “This is a girls’ bathroom,” she said, eyeing Ron and Harry suspiciously.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: “This is a girls’ bathroom,” she said, eyeing Ron and Harry suspiciously.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: “Ask Shis if She saw anything,” Harry mouthed at Hermione.
+Extracted relations:
+	Subject: Shis	Object: Harry	Relation: per:friend	Confidence: 0.87
+
+
+Sentence: “Ask Shis if She saw anything,” Harry mouthed at Hermione.
+Extracted relations:
+	Subject: Harry	Object: Shis	Relation: per:friend	Confidence: 0.86
+
+
+Sentence: “What are you whispering?” said Myrtle, staring at Harry.
+Extracted relations:
+	Subject: Myrtle	Object: Harry	Relation: per:friend	Confidence: 0.89
+
+
+Sentence: “What are you whispering?” said Myrtle, staring at Harry.
+Extracted relations:
+	Subject: Harry	Object: Myrtle	Relation: per:friend	Confidence: 0.89
+
+
+Sentence: “I do have feelings, you know, even if I am dead — ” “Myrtle, no one wants to upset you,” said Hermione.
+Extracted relations:
+	Subject: Myrtle	Object: Hermione	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: “I do have feelings, you know, even if I am dead — ” “Myrtle, no one wants to upset you,” said Hermione.
+Extracted relations:
+	Subject: Hermione	Object: Myrtle	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: “That’s what I told Ginny,” said Percy fiercely, “but she still seems to think you’re going to be expelled, I’ve never seen shis so upset, crying shis eyes out, you might think of she, all the first years are thoroughly overexcited by this business — ” “ You don’t care about Ginny,” said Ron, whose ears were now reddening.
+Extracted relations:
+	Subject: Ginny	Object: Percy	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: “That’s what I told Ginny,” said Percy fiercely, “but she still seems to think you’re going to be expelled, I’ve never seen shis so upset, crying shis eyes out, you might think of she, all the first years are thoroughly overexcited by this business — ” “ You don’t care about Ginny,” said Ron, whose ears were now reddening.
+Extracted relations:
+	Subject: Percy	Object: Ginny	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: “You heard him — ‘You’ll be next, MudbloodsV — come on, you’ve only got to look at him's foul rat face to know it’s him — ” “Malfoy, the Heir of Slytherin?” said Hermione skeptically.
+Extracted relations:
+	Subject: Malfoy	Object: Hermione	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: “You heard him — ‘You’ll be next, MudbloodsV — come on, you’ve only got to look at him's foul rat face to know it’s him — ” “Malfoy, the Heir of Slytherin?” said Hermione skeptically.
+Extracted relations:
+	Subject: Hermione	Object: Malfoy	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: “What’s that?” said Ron and Harry together.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:foe	Confidence: 0.86
+
+
+Sentence: “What’s that?” said Ron and Harry together.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:foe	Confidence: 0.86
+Completed 2200 sentences
+
+
+Sentence: he usually picked Harry to help Harry with these reconstructions; so far, Harry had been forced to play a simple Transylvanian villager whom Lockhart had cured of a Babbling Curse, a yeti with a head cold, and a vampire who had been unable to eat anything except lettuce since Lockhart had dealt with Harry.
+Extracted relations:
+	Subject: Harry	Object: Lockhart	Relation: per:foe	Confidence: 0.86
+
+
+Sentence: he usually picked Harry to help Harry with these reconstructions; so far, Harry had been forced to play a simple Transylvanian villager whom Lockhart had cured of a Babbling Curse, a yeti with a head cold, and a vampire who had been unable to eat anything except lettuce since Lockhart had dealt with Harry.
+Extracted relations:
+	Subject: Lockhart	Object: Harry	Relation: per:foe	Confidence: 0.86
+
+
+Sentence: “But the thing is, it’s in the Restricted Section of the library, so I need a teacher to sign for it — I’m sure it would help me understand what you say in Gadding with Ghouls about slow-acting venoms — ” “Ah, Gadding with GhoulsV’ said Lockhart, taking the note from Hermione and smiling widely at Hermione.
+Extracted relations:
+	Subject: Gadding	Object: Lockhart	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “But the thing is, it’s in the Restricted Section of the library, so I need a teacher to sign for it — I’m sure it would help me understand what you say in Gadding with Ghouls about slow-acting venoms — ” “Ah, Gadding with GhoulsV’ said Lockhart, taking the note from Hermione and smiling widely at Hermione.
+Extracted relations:
+	Subject: Lockhart	Object: Gadding	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “So, Harry,” said Lockhart, while Hermione folded the note with fumbling fingers and slipped it into Hermione's bag.
+Extracted relations:
+	Subject: Harry	Object: Lockhart	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “So, Harry,” said Lockhart, while Hermione folded the note with fumbling fingers and slipped it into Hermione's bag.
+Extracted relations:
+	Subject: Lockhart	Object: Harry	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: Hermione had overridden Ron’s objections by pointing out that it was the last place anyone in their right minds would go, so they were guaranteed some privacy.
+Extracted relations:
+	Subject: Hermione	Object: Ron	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: Hermione had overridden Ron’s objections by pointing out that it was the last place anyone in their right minds would go, so they were guaranteed some privacy.
+Extracted relations:
+	Subject: Ron	Object: Hermione	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: Moaning Myrtle was crying noisily in Hermione's stall, but they were ignoring Hermione, and Hermione they.
+Extracted relations:
+	Subject: Myrtle	Object: Hermione	Relation: per:friend	Confidence: 0.92
+
+
+Sentence: Moaning Myrtle was crying noisily in Hermione's stall, but they were ignoring Hermione, and Hermione they.
+Extracted relations:
+	Subject: Hermione	Object: Myrtle	Relation: per:friend	Confidence: 0.92
+
+
+Sentence: “D’you realize how much we’re going to have to steal, Hermione?
+Extracted relations:
+	Subject: D’you	Object: Hermione	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: “D’you realize how much we’re going to have to steal, Hermione?
+Extracted relations:
+	Subject: Hermione	Object: D’you	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: However, while Hermione was checking that the coast was clear for them to leave the bathroom, Ron muttered to Harry, “It’ll be a lot less hassle if you can just knock Malfoy off his broom tomorrow.”
+Extracted relations:
+	Subject: Hermione	Object: Ron	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: However, while Hermione was checking that the coast was clear for them to leave the bathroom, Ron muttered to Harry, “It’ll be a lot less hassle if you can just knock Malfoy off his broom tomorrow.”
+Extracted relations:
+	Subject: Ron	Object: Hermione	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: Harry was nervous, mainly at the thought of what Wood would say if Gryffindor lost, but also at the idea of facing a team mounted on the fastest racing brooms gold could buy.
+Extracted relations:
+	Subject: Harry	Object: Gryffindor	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: Harry was nervous, mainly at the thought of what Wood would say if Gryffindor lost, but also at the idea of facing a team mounted on the fastest racing brooms gold could buy.
+Extracted relations:
+	Subject: Gryffindor	Object: Harry	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: “All right there, Scarhead?” yelled Malfoy, shooting underneath Harry as though to show off the speed of Harry's broom.
+Extracted relations:
+	Subject: Scarhead	Object: Malfoy	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: “All right there, Scarhead?” yelled Malfoy, shooting underneath Harry as though to show off the speed of Harry's broom.
+Extracted relations:
+	Subject: Malfoy	Object: Scarhead	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: “Close one, Harry!” said George, streaking past him with George's club in him's hand, ready to knock the Bludger back toward a Slytherin.
+Extracted relations:
+	Subject: Harry	Object: George	Relation: per:foe	Confidence: 0.89
+
+
+Sentence: “Close one, Harry!” said George, streaking past him with George's club in him's hand, ready to knock the Bludger back toward a Slytherin.
+Extracted relations:
+	Subject: George	Object: Harry	Relation: per:foe	Confidence: 0.89
+
+
+Sentence: Harry saw George give the Bludger a powerful whack in the direction of Adrian Pucey, but the Bludger changed direction in midair and shot straight for Harry again.
+Extracted relations:
+	Subject: Harry	Object: George	Relation: per:foe	Confidence: 0.87
+
+
+Sentence: Harry saw George give the Bludger a powerful whack in the direction of Adrian Pucey, but the Bludger changed direction in midair and shot straight for Harry again.
+Extracted relations:
+	Subject: George	Object: Harry	Relation: per:foe	Confidence: 0.87
+
+
+Sentence: Harry dropped quickly to avoid it, and George managed to hit it hard toward Malfoy.
+Extracted relations:
+	Subject: Harry	Object: George	Relation: per:friend	Confidence: 0.92
+
+
+Sentence: Harry dropped quickly to avoid it, and George managed to hit it hard toward Malfoy.
+Extracted relations:
+	Subject: George	Object: Harry	Relation: per:friend	Confidence: 0.92
+
+
+Sentence: Once again, the Bludger swerved like a boomerang and shot at Harry’s head.
+Extracted relations:
+	Subject: Bludger	Object: Harry	Relation: per:friend	Confidence: 0.88
+
+
+Sentence: Once again, the Bludger swerved like a boomerang and shot at Harry’s head.
+Extracted relations:
+	Subject: Harry	Object: Bludger	Relation: per:friend	Confidence: 0.87
+
+
+Sentence: Harry ducked as Fred swung at the Bludger with all his might; the Bludger was knocked off course.
+Extracted relations:
+	Subject: Harry	Object: Fred	Relation: per:friend	Confidence: 0.92
+
+
+Sentence: Harry ducked as Fred swung at the Bludger with all his might; the Bludger was knocked off course.
+Extracted relations:
+	Subject: Fred	Object: Harry	Relation: per:friend	Confidence: 0.92
+
+
+Sentence: Fred and George were now flying so close to Harry on either side that Harry could see nothing at all except their flailing arms and had no chance to look for the Snitch, let alone catch it.
+Extracted relations:
+	Subject: Fred	Object: George	Relation: per:friend	Confidence: 0.92
+
+
+Sentence: Fred and George were now flying so close to Harry on either side that Harry could see nothing at all except their flailing arms and had no chance to look for the Snitch, let alone catch it.
+Extracted relations:
+	Subject: George	Object: Fred	Relation: per:friend	Confidence: 0.92
+
+
+Sentence: “We need time out,” said George, trying to signal to Wood and stop the Bludger breaking Harry’s nose at the same time.
+Extracted relations:
+	Subject: George	Object: Bludger	Relation: per:friend	Confidence: 0.88
+
+
+Sentence: “We need time out,” said George, trying to signal to Wood and stop the Bludger breaking Harry’s nose at the same time.
+Extracted relations:
+	Subject: Bludger	Object: George	Relation: per:friend	Confidence: 0.87
+Completed 2300 sentences
+
+
+Sentence: “Oliver, this is insane,” said Alicia Spinnet angrily.
+Extracted relations:
+	Subject: Oliver	Object: Alicia Spinnet	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: “Oliver, this is insane,” said Alicia Spinnet angrily.
+Extracted relations:
+	Subject: Alicia Spinnet	Object: Oliver	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: Harry could hear laughter from the crowd; Harry knew Harry must look very stupid, but the Bludger was heavy and couldn’t change direction as quickly as Harry could; Harry began a kind of roller-coaster ride around the edges of the stadium, squinting through the silver sheets of rain to the Gryffindor goal posts, where Adrian Pucey was trying to get past Wood — A whistling in Harry’s ear told Harry the Bludger had just missed Harry again; Harry turned right over and sped in the opposite direction.
+Extracted relations:
+	Subject: Harry	Object: Bludger	Relation: per:friend	Confidence: 0.93
+
+
+Sentence: Harry could hear laughter from the crowd; Harry knew Harry must look very stupid, but the Bludger was heavy and couldn’t change direction as quickly as Harry could; Harry began a kind of roller-coaster ride around the edges of the stadium, squinting through the silver sheets of rain to the Gryffindor goal posts, where Adrian Pucey was trying to get past Wood — A whistling in Harry’s ear told Harry the Bludger had just missed Harry again; Harry turned right over and sped in the opposite direction.
+Extracted relations:
+	Subject: Bludger	Object: Harry	Relation: per:friend	Confidence: 0.93
+
+
+Sentence: “Training for the ballet, Potter?” yelled Malfoy as Harry was forced to do a stupid kind of twirl in midair to dodge the Bludger, and he fled, the Bludger trailing a few feet behind him; and then, glaring back at Malfoy in hatred, him saw the Bludger — the Golden Snitch.
+Extracted relations:
+	Subject: Malfoy	Object: Harry	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: “Training for the ballet, Potter?” yelled Malfoy as Harry was forced to do a stupid kind of twirl in midair to dodge the Bludger, and he fled, the Bludger trailing a few feet behind him; and then, glaring back at Malfoy in hatred, him saw the Bludger — the Golden Snitch.
+Extracted relations:
+	Subject: Harry	Object: Malfoy	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: Through a haze of rain and pain — Harry dived for the shimmering, sneering face below Harry and saw its eyes widen with fear: Malfoy thought Harry was attacking Harry.
+Extracted relations:
+	Subject: Harry	Object: Malfoy	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: Through a haze of rain and pain — Harry dived for the shimmering, sneering face below Harry and saw its eyes widen with fear: Malfoy thought Harry was attacking Harry.
+Extracted relations:
+	Subject: Malfoy	Object: Harry	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: “Lie back, Harry,” said Lockhart soothingly.
+Extracted relations:
+	Subject: Harry	Object: Lockhart	Relation: per:foe	Confidence: 0.90
+
+
+Sentence: “Lie back, Harry,” said Lockhart soothingly.
+Extracted relations:
+	Subject: Lockhart	Object: Harry	Relation: per:foe	Confidence: 0.90
+
+
+Sentence: “Great capture, Harry, really spectacular, your best yet, I’d say — ” Through the thicket of legs around him, Harry spotted Fred and George Weasley, wrestling the rogue Bludger into a box.
+Extracted relations:
+	Subject: Harry	Object: Fred	Relation: per:foe	Confidence: 0.90
+
+
+Sentence: “Great capture, Harry, really spectacular, your best yet, I’d say — ” Through the thicket of legs around him, Harry spotted Fred and George Weasley, wrestling the rogue Bludger into a box.
+Extracted relations:
+	Subject: Fred	Object: Harry	Relation: per:foe	Confidence: 0.90
+
+
+Sentence: Lockhart hadn’t mended Harry’s bones.
+Extracted relations:
+	Subject: Lockhart	Object: Harry	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: Lockhart hadn’t mended Harry’s bones.
+Extracted relations:
+	Subject: Harry	Object: Lockhart	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: “I’ll be able to, certainly, but it will be painful,” said Madam Pomfrey grimly, throwing Harry a pair of pajamas.
+Extracted relations:
+	Subject: Pomfrey	Object: Harry	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: “I’ll be able to, certainly, but it will be painful,” said Madam Pomfrey grimly, throwing Harry a pair of pajamas.
+Extracted relations:
+	Subject: Harry	Object: Pomfrey	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: “Unbelievable flying, Harry,” said George.
+Extracted relations:
+	Subject: Harry	Object: George	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “Unbelievable flying, Harry,” said George.
+Extracted relations:
+	Subject: George	Object: Harry	Relation: per:foe	Confidence: 0.88
+Completed 2400 sentences
+
+
+Sentence: “Dobby warned and warned Harry Potter.
+Extracted relations:
+	Subject: Dobby	Object: Harry Potter	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: “Dobby warned and warned Harry Potter.
+Extracted relations:
+	Subject: Harry Potter	Object: Dobby	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: Dobby’s lip trembled and Harry was seized by a sudden suspicion.
+Extracted relations:
+	Subject: Dobby	Object: Harry	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: Dobby’s lip trembled and Harry was seized by a sudden suspicion.
+Extracted relations:
+	Subject: Harry	Object: Dobby	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: A second later, He crawled back onto the bed, cross-eyed, muttering, “Bad Dobby, very bad Dobby ”
+Extracted relations:
+	Subject: Bad Dobby	Object: Dobby	Relation: per:friend	Confidence: 0.93
+
+
+Sentence: A second later, He crawled back onto the bed, cross-eyed, muttering, “Bad Dobby, very bad Dobby ”
+Extracted relations:
+	Subject: Dobby	Object: Bad Dobby	Relation: per:friend	Confidence: 0.93
+Completed 2500 sentences
+
+
+Sentence: Percy couldn’t see why Ron and Hermione would be in there again, but after making sure that neither Filch nor any prefects were around, Percy opened the door and heard their voices coming from a locked stall.
+Extracted relations:
+	Subject: Percy	Object: Ron	Relation: per:friend	Confidence: 0.88
+
+
+Sentence: Percy couldn’t see why Ron and Hermione would be in there again, but after making sure that neither Filch nor any prefects were around, Percy opened the door and heard their voices coming from a locked stall.
+Extracted relations:
+	Subject: Ron	Object: Percy	Relation: per:friend	Confidence: 0.88
+
+
+Sentence: “Or maybe it can disguise it — pretend to be a suit of armor or something — I’ve read about Chameleon Ghouls — ” “You read too much, Hermione,” said Ron, pouring dead lacewings on top of the leeches.
+Extracted relations:
+	Subject: Hermione	Object: Ron	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “Or maybe it can disguise it — pretend to be a suit of armor or something — I’ve read about Chameleon Ghouls — ” “You read too much, Hermione,” said Ron, pouring dead lacewings on top of the leeches.
+Extracted relations:
+	Subject: Ron	Object: Hermione	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: They only stopped when Percy, apoplectic with rage, told They he was going to write to Mistress Weasley and tell her Ginny was having nightmares.
+Extracted relations:
+	Subject: Percy	Object: Weasley	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: They only stopped when Percy, apoplectic with rage, told They he was going to write to Mistress Weasley and tell her Ginny was having nightmares.
+Extracted relations:
+	Subject: Weasley	Object: Percy	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: Harry privately felt Harry’d rather face Slytherin’s legendary monster than let Snape catch him robbing him's office.
+Extracted relations:
+	Subject: Harry	Object: Harry’d	Relation: per:friend	Confidence: 0.91
+
+
+Sentence: Harry privately felt Harry’d rather face Slytherin’s legendary monster than let Snape catch him robbing him's office.
+Extracted relations:
+	Subject: Harry’d	Object: Harry	Relation: per:friend	Confidence: 0.91
+
+
+Sentence: “Knowing Snape, something foul,” said Harry as the potion frothed and bubbled.
+Extracted relations:
+	Subject: Snape	Object: Harry	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: “Knowing Snape, something foul,” said Harry as the potion frothed and bubbled.
+Extracted relations:
+	Subject: Harry	Object: Snape	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: Then Lockhart and Snape raised Lockhart and Snape's wands like swords in front of Lockhart and Snape.
+Extracted relations:
+	Subject: Lockhart	Object: Snape	Relation: per:foe	Confidence: 0.89
+
+
+Sentence: Then Lockhart and Snape raised Lockhart and Snape's wands like swords in front of Lockhart and Snape.
+Extracted relations:
+	Subject: Snape	Object: Lockhart	Relation: per:foe	Confidence: 0.89
+
+
+Sentence: “One — two — three — ” Both of them swung Both of Both of Both of them's wands above Both of Both of Both of them's heads and pointed Both of Both of them at Both of them's opponent; Snape cried: “ ExpelliarmusV’ There was a dazzling flash of scarlet light and Lockhart was blasted off Lockhart's feet:
+Extracted relations:
+	Subject: Snape	Object: Lockhart	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “One — two — three — ” Both of them swung Both of Both of Both of them's wands above Both of Both of Both of them's heads and pointed Both of Both of them at Both of them's opponent; Snape cried: “ ExpelliarmusV’ There was a dazzling flash of scarlet light and Lockhart was blasted off Lockhart's feet:
+Extracted relations:
+	Subject: Lockhart	Object: Snape	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “Who cares?” said Harry and Ron together.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:foe	Confidence: 0.86
+
+
+Sentence: “Who cares?” said Harry and Ron together.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:foe	Confidence: 0.86
+Completed 2600 sentences
+
+
+Sentence: “That was a Disarming Charm — as you see, I’ve lost my wand — ah, thank you, Miss Brown — yes, an excellent idea to show them that, Professor Snape, but if you don’t mind my saying so, it was very obvious what you were about to do.
+Extracted relations:
+	Subject: Brown	Object: Snape	Relation: per:foe	Confidence: 0.89
+
+
+Sentence: “That was a Disarming Charm — as you see, I’ve lost my wand — ah, thank you, Miss Brown — yes, an excellent idea to show them that, Professor Snape, but if you don’t mind my saying so, it was very obvious what you were about to do.
+Extracted relations:
+	Subject: Snape	Object: Brown	Relation: per:foe	Confidence: 0.89
+
+
+Sentence: “Weasley, you can partner Finnigan.
+Extracted relations:
+	Subject: Weasley	Object: Finnigan	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “Weasley, you can partner Finnigan.
+Extracted relations:
+	Subject: Finnigan	Object: Weasley	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: His spell hit Harry so hard Harry felt as though Harry’d been hit over the head with a saucepan.
+Extracted relations:
+	Subject: Harry	Object: Harry’d	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: His spell hit Harry so hard Harry felt as though Harry’d been hit over the head with a saucepan.
+Extracted relations:
+	Subject: Harry’d	Object: Harry	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: “Now, Harry,” said Lockhart.
+Extracted relations:
+	Subject: Harry	Object: Lockhart	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “Now, Harry,” said Lockhart.
+Extracted relations:
+	Subject: Lockhart	Object: Harry	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: Snape smirked as Lockhart quickly picked it up, saying, “Whoops — my wand is a little overexcited — ” Snape moved closer to Malfoy, bent down, and whispered something in his ear.
+Extracted relations:
+	Subject: Snape	Object: Lockhart	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: Snape smirked as Lockhart quickly picked it up, saying, “Whoops — my wand is a little overexcited — ” Snape moved closer to Malfoy, bent down, and whispered something in his ear.
+Extracted relations:
+	Subject: Lockhart	Object: Snape	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: “Scared?” muttered Malfoy, so that Lockhart couldn’t hear Lockhart.
+Extracted relations:
+	Subject: Malfoy	Object: Lockhart	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: “Scared?” muttered Malfoy, so that Lockhart couldn’t hear Lockhart.
+Extracted relations:
+	Subject: Lockhart	Object: Malfoy	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: Lockhart cuffed Harry merrily on the shoulder.
+Extracted relations:
+	Subject: Lockhart	Object: Harry	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: Lockhart cuffed Harry merrily on the shoulder.
+Extracted relations:
+	Subject: Harry	Object: Lockhart	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: “Don’t move, Potter,” said Snape lazily, clearly enjoying the sight of Harry standing motionless, eye to eye with the angry snake.
+Extracted relations:
+	Subject: Snape	Object: Harry	Relation: per:foe	Confidence: 0.86
+
+
+Sentence: “Don’t move, Potter,” said Snape lazily, clearly enjoying the sight of Harry standing motionless, eye to eye with the angry snake.
+Extracted relations:
+	Subject: Harry	Object: Snape	Relation: per:foe	Confidence: 0.86
+
+
+Sentence: Harry didn’t have a clue what was going on, and neither Ron nor Hermione explained anything until they had dragged him all the way up to the empty Gryffindor common room.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:friend	Confidence: 0.87
+
+
+Sentence: Harry didn’t have a clue what was going on, and neither Ron nor Hermione explained anything until they had dragged him all the way up to the empty Gryffindor common room.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:friend	Confidence: 0.87
+Completed 2700 sentences
+
+
+Sentence: “For heaven’s sake, Harry,” said Hermione, exasperated, as one of Ron’s bishops wrestled Hermione's knight off his horse and dragged him off the board.
+Extracted relations:
+	Subject: Harry	Object: Hermione	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “For heaven’s sake, Harry,” said Hermione, exasperated, as one of Ron’s bishops wrestled Hermione's knight off his horse and dragged him off the board.
+Extracted relations:
+	Subject: Hermione	Object: Harry	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: Every one of the Hufflepuffs looked as though they had been Petrified by the sight of he, and the color was draining out of Ernie’s face.
+Extracted relations:
+	Subject: Hufflepuffs	Object: Ernie	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: Every one of the Hufflepuffs looked as though they had been Petrified by the sight of he, and the color was draining out of Ernie’s face.
+Extracted relations:
+	Subject: Ernie	Object: Hufflepuffs	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: “It’s not possible to live with the Dursleys and not hate them,” said Harry.
+Extracted relations:
+	Subject: Dursleys	Object: Harry	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: “It’s not possible to live with the Dursleys and not hate them,” said Harry.
+Extracted relations:
+	Subject: Harry	Object: Dursleys	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: “Oh, hello, Hagrid,” Harry said, looking up.
+Extracted relations:
+	Subject: Hagrid	Object: Harry	Relation: per:foe	Confidence: 0.86
+
+
+Sentence: “Oh, hello, Hagrid,” Harry said, looking up.
+Extracted relations:
+	Subject: Harry	Object: Hagrid	Relation: per:foe	Confidence: 0.86
+
+
+Sentence: In the end, Professor McGonagall conjured a large fan out of thin air, which Professor McGonagall gave to Ernie with instructions to waft Nearly Headless Nick up the stairs.
+Extracted relations:
+	Subject: McGonagall	Object: Ernie	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: In the end, Professor McGonagall conjured a large fan out of thin air, which Professor McGonagall gave to Ernie with instructions to waft Nearly Headless Nick up the stairs.
+Extracted relations:
+	Subject: Ernie	Object: McGonagall	Relation: per:foe	Confidence: 0.88
+Completed 2800 sentences
+
+
+Sentence: Then a small voice said in Harry's ear, “Bee in your bonnet, Harry Potter?”
+Extracted relations:
+	Subject: Harry	Object: Harry Potter	Relation: per:foe	Confidence: 0.85
+
+
+Sentence: Then a small voice said in Harry's ear, “Bee in your bonnet, Harry Potter?”
+Extracted relations:
+	Subject: Harry Potter	Object: Harry	Relation: per:foe	Confidence: 0.85
+
+
+Sentence: “Fawkes is a phoenix, Harry.
+Extracted relations:
+	Subject: Fawkes	Object: Harry	Relation: per:foe	Confidence: 0.86
+
+
+Sentence: “Fawkes is a phoenix, Harry.
+Extracted relations:
+	Subject: Harry	Object: Fawkes	Relation: per:foe	Confidence: 0.86
+
+
+Sentence: Harry thought of Malfoy shouting, “You’ll be next, Mudbloods!”
+Extracted relations:
+	Subject: Harry	Object: Malfoy	Relation: per:friend	Confidence: 0.89
+
+
+Sentence: Harry thought of Malfoy shouting, “You’ll be next, Mudbloods!”
+Extracted relations:
+	Subject: Malfoy	Object: Harry	Relation: per:friend	Confidence: 0.89
+
+
+Sentence: “Oh, get out of the way, Percy,” said Fred.
+Extracted relations:
+	Subject: Percy	Object: Fred	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “Oh, get out of the way, Percy,” said Fred.
+Extracted relations:
+	Subject: Fred	Object: Percy	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “Yeah, Harry’s off to the Chamber of Secrets for a cup of tea with Harry's fanged servant,” said George, chortling.
+Extracted relations:
+	Subject: Harry	Object: George	Relation: per:foe	Confidence: 0.90
+
+
+Sentence: “Yeah, Harry’s off to the Chamber of Secrets for a cup of tea with Harry's fanged servant,” said George, chortling.
+Extracted relations:
+	Subject: George	Object: Harry	Relation: per:foe	Confidence: 0.90
+
+
+Sentence: “Oh, don’t,” she wailed every time Fred asked Harry loudly who he was planning to attack next, or when George pretended to ward Harry off with a large clove of garlic when they met.
+Extracted relations:
+	Subject: Harry	Object: George	Relation: per:friend	Confidence: 0.93
+
+
+Sentence: “Oh, don’t,” she wailed every time Fred asked Harry loudly who he was planning to attack next, or when George pretended to ward Harry off with a large clove of garlic when they met.
+Extracted relations:
+	Subject: George	Object: Harry	Relation: per:friend	Confidence: 0.93
+Completed 2900 sentences
+
+
+Sentence: They had sent Harry a toothpick and a note telling Harry to find out whether Harry’d be able to stay at Hogwarts for the summer vacation, too.
+Extracted relations:
+	Subject: Harry	Object: Harry’d	Relation: per:foe	Confidence: 0.91
+
+
+Sentence: They had sent Harry a toothpick and a note telling Harry to find out whether Harry’d be able to stay at Hogwarts for the summer vacation, too.
+Extracted relations:
+	Subject: Harry’d	Object: Harry	Relation: per:foe	Confidence: 0.91
+
+
+Sentence: Hagrid had sent him a large tin of treacle toffee, which Harry decided to soften by the fire before eating; Ron had given him a book called Flying with the Cannons, a book of interesting facts about his favorite Quidditch team, and Hermione had bought him a luxury eagle-feather quill.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:foe	Confidence: 0.85
+
+
+Sentence: Hagrid had sent him a large tin of treacle toffee, which Harry decided to soften by the fire before eating; Ron had given him a book called Flying with the Cannons, a book of interesting facts about his favorite Quidditch team, and Hermione had bought him a luxury eagle-feather quill.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:foe	Confidence: 0.85
+
+
+Sentence: Harry opened the last present to find a new, hand-knitted sweater from Molly and a large plum cake.
+Extracted relations:
+	Subject: Harry	Object: Molly	Relation: per:foe	Confidence: 0.86
+
+
+Sentence: Harry opened the last present to find a new, hand-knitted sweater from Molly and a large plum cake.
+Extracted relations:
+	Subject: Molly	Object: Harry	Relation: per:foe	Confidence: 0.86
+
+
+Sentence: Harry didn’t even care that Draco Malfoy was making loud, snide remarks about Harry's new sweater from the Slytherin table.
+Extracted relations:
+	Subject: Harry	Object: Draco Malfoy	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: Harry didn’t even care that Draco Malfoy was making loud, snide remarks about Harry's new sweater from the Slytherin table.
+Extracted relations:
+	Subject: Draco Malfoy	Object: Harry	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: But to Harry’s and Ron’s utter amazement, stage one of the operation went just as smoothly as Hermione had said.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:friend	Confidence: 0.87
+
+
+Sentence: But to Harry’s and Ron’s utter amazement, stage one of the operation went just as smoothly as Hermione had said.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:friend	Confidence: 0.87
+
+
+Sentence: Ron whispered ecstatically as Crabbe gleefully pointed out the cakes to Goyle and grabbed them.
+Extracted relations:
+	Subject: Ron	Object: Crabbe	Relation: per:foe	Confidence: 0.86
+
+
+Sentence: Ron whispered ecstatically as Crabbe gleefully pointed out the cakes to Goyle and grabbed them.
+Extracted relations:
+	Subject: Crabbe	Object: Ron	Relation: per:foe	Confidence: 0.85
+
+
+Sentence: “I’m sure I’ve done everything right,” said Hermione, nervously rereading the splotched page of Moste Potente Potions.
+Extracted relations:
+	Subject: Hermione	Object: Moste Potente Potions	Relation: per:friend	Confidence: 0.91
+
+
+Sentence: “I’m sure I’ve done everything right,” said Hermione, nervously rereading the splotched page of Moste Potente Potions.
+Extracted relations:
+	Subject: Moste Potente Potions	Object: Hermione	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: “Urgh — essence of Millicent Bulstrode,” said Ron, eyeing it with loathing.
+Extracted relations:
+	Subject: Millicent Bulstrode	Object: Ron	Relation: per:foe	Confidence: 0.87
+
+
+Sentence: “Urgh — essence of Millicent Bulstrode,” said Ron, eyeing it with loathing.
+Extracted relations:
+	Subject: Ron	Object: Millicent Bulstrode	Relation: per:foe	Confidence: 0.87
+Completed 3000 sentences
+
+
+Sentence: “Don’t swing your arms like that,” Harry muttered to Ron.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: “Don’t swing your arms like that,” Harry muttered to Ron.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: Malfoy sneered and motioned for Harry and Ron to follow him.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: Malfoy sneered and motioned for Harry and Ron to follow him.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: Harry almost said something apologetic to Percy but caught himself just in time.
+Extracted relations:
+	Subject: Harry	Object: Percy	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: Harry almost said something apologetic to Percy but caught himself just in time.
+Extracted relations:
+	Subject: Percy	Object: Harry	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: “Wait here,” said Malfoy to Harry and Ron, motioning them to a pair of empty chairs set back from the fire.
+Extracted relations:
+	Subject: Malfoy	Object: Harry	Relation: per:foe	Confidence: 0.89
+
+
+Sentence: “Wait here,” said Malfoy to Harry and Ron, motioning them to a pair of empty chairs set back from the fire.
+Extracted relations:
+	Subject: Harry	Object: Malfoy	Relation: per:foe	Confidence: 0.89
+
+
+Sentence: Malfoy thrust it under Ron’s nose.
+Extracted relations:
+	Subject: Malfoy	Object: Ron	Relation: per:friend	Confidence: 0.92
+
+
+Sentence: Malfoy thrust it under Ron’s nose.
+Extracted relations:
+	Subject: Ron	Object: Malfoy	Relation: per:friend	Confidence: 0.92
+
+
+Sentence: “Arthur Weasley loves Muggles so much Arthur Weasley should snap Arthur Weasley's wand in half and go and join them,” said Malfoy scornfully.
+Extracted relations:
+	Subject: Arthur Weasley	Object: Arthur Weasley's	Relation: per:foe	Confidence: 0.91
+
+
+Sentence: “Arthur Weasley loves Muggles so much Arthur Weasley should snap Arthur Weasley's wand in half and go and join them,” said Malfoy scornfully.
+Extracted relations:
+	Subject: Arthur Weasley's	Object: Arthur Weasley	Relation: per:foe	Confidence: 0.91
+
+
+Sentence: “What’s up with you, Crabbe?” snapped Malfoy.
+Extracted relations:
+	Subject: Crabbe	Object: Malfoy	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: “What’s up with you, Crabbe?” snapped Malfoy.
+Extracted relations:
+	Subject: Malfoy	Object: Crabbe	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: Far too late, Harry and Ron forced themselves to laugh, but Malfoy seemed satisfied; perhaps Crabbe and Goyle were always slow on the uptake.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:friend	Confidence: 0.92
+
+
+Sentence: Far too late, Harry and Ron forced themselves to laugh, but Malfoy seemed satisfied; perhaps Crabbe and Goyle were always slow on the uptake.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:friend	Confidence: 0.92
+
+
+Sentence: Ron’s jaw dropped so that Crabbe looked even more clueless than usual.
+Extracted relations:
+	Subject: Ron	Object: Crabbe	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: Ron’s jaw dropped so that Crabbe looked even more clueless than usual.
+Extracted relations:
+	Subject: Crabbe	Object: Ron	Relation: per:friend	Confidence: 0.94
+Completed 3100 sentences
+
+
+Sentence: Ron was clenching Crabbe ’s gigantic fists.
+Extracted relations:
+	Subject: Ron	Object: Crabbe	Relation: per:friend	Confidence: 0.91
+
+
+Sentence: Ron was clenching Crabbe ’s gigantic fists.
+Extracted relations:
+	Subject: Crabbe	Object: Ron	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: Feeling that it would be a bit of a giveaway if Ron punched Malfoy, Harry shot him a warning look and said, “D’you know if the person who opened the Chamber last time was caught?”
+Extracted relations:
+	Subject: Ron	Object: Malfoy	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: Feeling that it would be a bit of a giveaway if Ron punched Malfoy, Harry shot him a warning look and said, “D’you know if the person who opened the Chamber last time was caught?”
+Extracted relations:
+	Subject: Malfoy	Object: Ron	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: “Azkaban — the wizard prison , Goyle,” said Malfoy, looking at him in disbelief.
+Extracted relations:
+	Subject: Goyle	Object: Malfoy	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “Azkaban — the wizard prison , Goyle,” said Malfoy, looking at him in disbelief.
+Extracted relations:
+	Subject: Malfoy	Object: Goyle	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: his nose was also slowly lengthening — their hour was up, Ron was turning back into himself, and from the look of horror himself was suddenly giving Harry, himself must be, too.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:friend	Confidence: 0.92
+
+
+Sentence: his nose was also slowly lengthening — their hour was up, Ron was turning back into himself, and from the look of horror himself was suddenly giving Harry, himself must be, too.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:friend	Confidence: 0.92
+
+
+Sentence: “Medicine for my stomach,” Ron grunted, and without further ado they sprinted the length of the Slytherin common room, hurled themselves at the stone wall, and dashed up the passage, hoping against hope that Malfoy hadn’t noticed anything.
+Extracted relations:
+	Subject: Ron	Object: Malfoy	Relation: per:friend	Confidence: 0.92
+
+
+Sentence: “Medicine for my stomach,” Ron grunted, and without further ado they sprinted the length of the Slytherin common room, hurled themselves at the stone wall, and dashed up the passage, hoping against hope that Malfoy hadn’t noticed anything.
+Extracted relations:
+	Subject: Malfoy	Object: Ron	Relation: per:friend	Confidence: 0.92
+
+
+Sentence: “It’s okay, Hermione,” said Harry quickly.
+Extracted relations:
+	Subject: Hermione	Object: Harry	Relation: per:foe	Confidence: 0.86
+
+
+Sentence: “It’s okay, Hermione,” said Harry quickly.
+Extracted relations:
+	Subject: Harry	Object: Hermione	Relation: per:foe	Confidence: 0.85
+
+
+Sentence: “Just a get well card,” said Hermione hastily, trying to poke it out of sight, but Ron was too quick for Hermione.
+Extracted relations:
+	Subject: Hermione	Object: Ron	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: “Just a get well card,” said Hermione hastily, trying to poke it out of sight, but Ron was too quick for Hermione.
+Extracted relations:
+	Subject: Ron	Object: Hermione	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: Ron was just saying Harry wished Harry had asked Hermione how many rat tails you were supposed to add to a Hair-Raising Potion when an angry outburst from the floor above reached their ears.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: Ron was just saying Harry wished Harry had asked Hermione how many rat tails you were supposed to add to a Hair-Raising Potion when an angry outburst from the floor above reached their ears.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:friend	Confidence: 0.94
+Completed 3200 sentences
+
+
+Sentence: Harry couldn’t explain, even to Harry, why Harry didn’t just throw Riddle’s diary away.
+Extracted relations:
+	Subject: Harry	Object: Riddle	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: Harry couldn’t explain, even to Harry, why Harry didn’t just throw Riddle’s diary away.
+Extracted relations:
+	Subject: Riddle	Object: Harry	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: And while Harry was sure Harry had never heard the name T. M. Riddle before, it still seemed to mean something to Harry, almost as though Riddle was a friend he’d had when he was very small, and had half-forgotten.
+Extracted relations:
+	Subject: Harry	Object: T. M. Riddle	Relation: per:friend	Confidence: 0.86
+
+
+Sentence: And while Harry was sure Harry had never heard the name T. M. Riddle before, it still seemed to mean something to Harry, almost as though Riddle was a friend he’d had when he was very small, and had half-forgotten.
+Extracted relations:
+	Subject: T. M. Riddle	Object: Harry	Relation: per:friend	Confidence: 0.86
+
+
+Sentence: “The moment their acne clears up, their’ll be ready for repotting again,” Harry heard her telling Filch kindly one afternoon.
+Extracted relations:
+	Subject: their’ll	Object: Harry	Relation: per:foe	Confidence: 0.89
+
+
+Sentence: “The moment their acne clears up, their’ll be ready for repotting again,” Harry heard her telling Filch kindly one afternoon.
+Extracted relations:
+	Subject: Harry	Object: their’ll	Relation: per:foe	Confidence: 0.89
+
+
+Sentence: Ernie Macmillan of Hufflepuff was still convinced that Harry was the guilty one, that he had “given he away” at the Dueling Club.
+Extracted relations:
+	Subject: Ernie Macmillan	Object: Harry	Relation: per:friend	Confidence: 0.92
+
+
+Sentence: Ernie Macmillan of Hufflepuff was still convinced that Harry was the guilty one, that he had “given he away” at the Dueling Club.
+Extracted relations:
+	Subject: Harry	Object: Ernie Macmillan	Relation: per:friend	Confidence: 0.92
+
+
+Sentence: “Please, Hermione, tell me you weren’t one of the forty-six,” said Ron as they left the Great Hall for their first lesson.
+Extracted relations:
+	Subject: Hermione	Object: Ron	Relation: per:foe	Confidence: 0.85
+
+
+Sentence: “Please, Hermione, tell me you weren’t one of the forty-six,” said Ron as they left the Great Hall for their first lesson.
+Extracted relations:
+	Subject: Ron	Object: Hermione	Relation: per:foe	Confidence: 0.85
+Completed 3300 sentences
+
+
+Sentence: “Wonder what Potter’s written in this?” said Malfoy, who obviously hadn’t noticed the year on the cover and thought he had Harry’s own diary.
+Extracted relations:
+	Subject: Malfoy	Object: Harry	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: “Wonder what Potter’s written in this?” said Malfoy, who obviously hadn’t noticed the year on the cover and thought he had Harry’s own diary.
+Extracted relations:
+	Subject: Harry	Object: Malfoy	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: “Hand it over, Malfoy,” said Percy sternly.
+Extracted relations:
+	Subject: Malfoy	Object: Percy	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: “Hand it over, Malfoy,” said Percy sternly.
+Extracted relations:
+	Subject: Percy	Object: Malfoy	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: “When I’ve had a look,” said Malfoy, waving the diary tauntingly at Harry.
+Extracted relations:
+	Subject: Malfoy	Object: Harry	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: “When I’ve had a look,” said Malfoy, waving the diary tauntingly at Harry.
+Extracted relations:
+	Subject: Harry	Object: Malfoy	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: It wasn’t until they had reached Professor Flitwick’s class that Harry noticed something rather odd about Riddle’s diary.
+Extracted relations:
+	Subject: Flitwick	Object: Harry	Relation: per:friend	Confidence: 0.85
+
+
+Sentence: It wasn’t until they had reached Professor Flitwick’s class that Harry noticed something rather odd about Riddle’s diary.
+Extracted relations:
+	Subject: Harry	Object: Flitwick	Relation: per:friend	Confidence: 0.85
+
+
+Sentence: This was partly because he didn’t think he could stand Fred and George singing, “he eyes are as green as a fresh pickled toad” one more time, and partly because he wanted to examine Riddle’s diary again, and knew that Ron thought he was wasting his time.
+Extracted relations:
+	Subject: Fred	Object: George	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: This was partly because he didn’t think he could stand Fred and George singing, “he eyes are as green as a fresh pickled toad” one more time, and partly because he wanted to examine Riddle’s diary again, and knew that Ron thought he was wasting his time.
+Extracted relations:
+	Subject: George	Object: Fred	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: “You wanted to see me, Professor Dippet?” said Riddle.
+Extracted relations:
+	Subject: Dippet	Object: Riddle	Relation: per:foe	Confidence: 0.87
+
+
+Sentence: “You wanted to see me, Professor Dippet?” said Riddle.
+Extracted relations:
+	Subject: Riddle	Object: Dippet	Relation: per:foe	Confidence: 0.87
+Completed 3400 sentences
+
+
+Sentence: Harry could tell that Riddle was doing some serious thinking.
+Extracted relations:
+	Subject: Harry	Object: Riddle	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: Harry could tell that Riddle was doing some serious thinking.
+Extracted relations:
+	Subject: Riddle	Object: Harry	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: “Well, hurry off to bed,” said Dumbledore, giving Riddle exactly the kind of penetrating stare Harry knew so well.
+Extracted relations:
+	Subject: Riddle	Object: Harry	Relation: per:friend	Confidence: 0.89
+
+
+Sentence: “Well, hurry off to bed,” said Dumbledore, giving Riddle exactly the kind of penetrating stare Harry knew so well.
+Extracted relations:
+	Subject: Harry	Object: Riddle	Relation: per:friend	Confidence: 0.89
+
+
+Sentence: “What’s up?” said Ron, looking at Harry with concern.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:friend	Confidence: 0.93
+
+
+Sentence: “What’s up?” said Ron, looking at Harry with concern.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:friend	Confidence: 0.93
+
+
+Sentence: And if, as a boy, Hagrid had heard that a monster was hidden somewhere in the castle, Harry was sure Harry’d have gone to any lengths for a glimpse of Harry’d.
+Extracted relations:
+	Subject: Harry	Object: Harry’d	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: And if, as a boy, Hagrid had heard that a monster was hidden somewhere in the castle, Harry was sure Harry’d have gone to any lengths for a glimpse of Harry’d.
+Extracted relations:
+	Subject: Harry’d	Object: Harry	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: Harry’d probably thought it was a shame that the monster had been cooped up so long, and thought it deserved the chance to stretch its many legs; Harry could just imagine the thirteen-year-old Hagrid trying to fit a leash and collar on it.
+Extracted relations:
+	Subject: Harry’d	Object: Harry	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: Harry’d probably thought it was a shame that the monster had been cooped up so long, and thought it deserved the chance to stretch its many legs; Harry could just imagine the thirteen-year-old Hagrid trying to fit a leash and collar on it.
+Extracted relations:
+	Subject: Harry	Object: Harry’d	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: “Riddle might have got the wrong person,” said Hermione.
+Extracted relations:
+	Subject: Riddle	Object: Hermione	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: “Riddle might have got the wrong person,” said Hermione.
+Extracted relations:
+	Subject: Hermione	Object: Riddle	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: “But the monster had killed someone, Ron,” said Hermione.
+Extracted relations:
+	Subject: Ron	Object: Hermione	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “But the monster had killed someone, Ron,” said Hermione.
+Extracted relations:
+	Subject: Hermione	Object: Ron	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: Peeves had finally got bored of his “Oh, Potter, you rotter” song, Ernie Macmillan asked Harry quite politely to pass a bucket of leaping toadstools in Herbology one day, and in March several of the Mandrakes threw a loud and raucous party in greenhouse three.
+Extracted relations:
+	Subject: Ernie Macmillan	Object: Harry	Relation: per:foe	Confidence: 0.86
+
+
+Sentence: Peeves had finally got bored of his “Oh, Potter, you rotter” song, Ernie Macmillan asked Harry quite politely to pass a bucket of leaping toadstools in Herbology one day, and in March several of the Mandrakes threw a loud and raucous party in greenhouse three.
+Extracted relations:
+	Subject: Harry	Object: Ernie Macmillan	Relation: per:foe	Confidence: 0.86
+
+
+Sentence: Harry smiled grimly to Harry at the thought of what Uncle Vernon and Aunt Petunia would say if Harry tried to discuss Harry's career in wizardry with them.
+Extracted relations:
+	Subject: Harry	Object: Uncle Vernon	Relation: per:friend	Confidence: 0.88
+
+
+Sentence: Harry smiled grimly to Harry at the thought of what Uncle Vernon and Aunt Petunia would say if Harry tried to discuss Harry's career in wizardry with them.
+Extracted relations:
+	Subject: Uncle Vernon	Object: Harry	Relation: per:friend	Confidence: 0.88
+Completed 3500 sentences
+
+
+Sentence: Hermione had been urging Harry to report the robbery, but Harry didn’t like the idea.
+Extracted relations:
+	Subject: Hermione	Object: Harry	Relation: per:friend	Confidence: 0.92
+
+
+Sentence: Hermione had been urging Harry to report the robbery, but Harry didn’t like the idea.
+Extracted relations:
+	Subject: Harry	Object: Hermione	Relation: per:friend	Confidence: 0.92
+
+
+Sentence: Harry recognized Madam Pomfrey's as the Ravenclaw they’d accidentally asked for directions to the Slytherin common room.
+Extracted relations:
+	Subject: Harry	Object: Pomfrey	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: Harry recognized Madam Pomfrey's as the Ravenclaw they’d accidentally asked for directions to the Slytherin common room.
+Extracted relations:
+	Subject: Pomfrey	Object: Harry	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: Harry and Ron shook their heads, both staring at Hermione.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: Harry and Ron shook their heads, both staring at Hermione.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: “That’s two Gryffindors down, not counting a Gryffindor ghost, one Ravenclaw, and one Hufflepuff,” said the Weasley twins’ friend Lee Jordan, counting on his fingers.
+Extracted relations:
+	Subject: Weasley	Object: Lee Jordan	Relation: per:foe	Confidence: 0.86
+
+
+Sentence: “That’s two Gryffindors down, not counting a Gryffindor ghost, one Ravenclaw, and one Hufflepuff,” said the Weasley twins’ friend Lee Jordan, counting on his fingers.
+Extracted relations:
+	Subject: Lee Jordan	Object: Weasley	Relation: per:foe	Confidence: 0.86
+Completed 3600 sentences
+
+
+Sentence: Thankfully, Snape sneezed at almost exactly the moment Ron swore.
+Extracted relations:
+	Subject: Snape	Object: Ron	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: Thankfully, Snape sneezed at almost exactly the moment Ron swore.
+Extracted relations:
+	Subject: Ron	Object: Snape	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: Harry elbowed Ron hard to make him shut up.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: Harry elbowed Ron hard to make him shut up.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: It was Harry’s turn for an elbow in the ribs; Dumbledore’d let out an audible gasp.
+Extracted relations:
+	Subject: Harry	Object: Dumbledore’d	Relation: per:friend	Confidence: 0.89
+
+
+Sentence: It was Harry’s turn for an elbow in the ribs; Dumbledore’d let out an audible gasp.
+Extracted relations:
+	Subject: Dumbledore’d	Object: Harry	Relation: per:friend	Confidence: 0.88
+
+
+Sentence: “Dear, dear, you know, that temper of yours will lead you into trouble one of these days, Hagrid,” said Mister Malfoy.
+Extracted relations:
+	Subject: Hagrid	Object: Malfoy	Relation: per:foe	Confidence: 0.89
+
+
+Sentence: “Dear, dear, you know, that temper of yours will lead you into trouble one of these days, Hagrid,” said Mister Malfoy.
+Extracted relations:
+	Subject: Malfoy	Object: Hagrid	Relation: per:foe	Confidence: 0.89
+
+
+Sentence: “Now, now, Malfoy,” said Snape, though he couldn’t suppress a thin-lipped smile.
+Extracted relations:
+	Subject: Malfoy	Object: Snape	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “Now, now, Malfoy,” said Snape, though he couldn’t suppress a thin-lipped smile.
+Extracted relations:
+	Subject: Snape	Object: Malfoy	Relation: per:foe	Confidence: 0.88
+Completed 3700 sentences
+
+
+Sentence: “Let me at him,” Ron growled as Harry and Dean hung onto his arms.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:friend	Confidence: 0.89
+
+
+Sentence: “Let me at him,” Ron growled as Harry and Dean hung onto his arms.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:friend	Confidence: 0.89
+
+
+Sentence: Ernie and Harry's friend Hannah came to work at the same Shrivelfig as Harry and Ron.
+Extracted relations:
+	Subject: Ernie	Object: Harry	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: Ernie and Harry's friend Hannah came to work at the same Shrivelfig as Harry and Ron.
+Extracted relations:
+	Subject: Harry	Object: Ernie	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “No,” said Harry, so firmly that Ernie and Hannah stared.
+Extracted relations:
+	Subject: Harry	Object: Ernie	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: “No,” said Harry, so firmly that Ernie and Hannah stared.
+Extracted relations:
+	Subject: Ernie	Object: Harry	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: Harry hit Ron over the hand with his pruning shears.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:friend	Confidence: 0.93
+
+
+Sentence: Harry hit Ron over the hand with his pruning shears.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:friend	Confidence: 0.93
+
+
+Sentence: “But we can’t follow them now — ” Ernie and Hannah were listening curiously.
+Extracted relations:
+	Subject: Ernie	Object: Hannah	Relation: per:friend	Confidence: 0.92
+
+
+Sentence: “But we can’t follow them now — ” Ernie and Hannah were listening curiously.
+Extracted relations:
+	Subject: Hannah	Object: Ernie	Relation: per:friend	Confidence: 0.92
+
+
+Sentence: “Oh, yes he would,” said Ron, even more loudly than Dean.
+Extracted relations:
+	Subject: Ron	Object: Dean	Relation: per:friend	Confidence: 0.85
+
+
+Sentence: “I flatter myself I know a touch more about Hagrid ’s arrest than you do, Arthur,” said Lockhart in a self-satisfied tone.
+Extracted relations:
+	Subject: Arthur	Object: Lockhart	Relation: per:foe	Confidence: 0.87
+
+
+Sentence: “I flatter myself I know a touch more about Hagrid ’s arrest than you do, Arthur,” said Lockhart in a self-satisfied tone.
+Extracted relations:
+	Subject: Lockhart	Object: Arthur	Relation: per:foe	Confidence: 0.87
+
+
+Sentence: Ron started to say that he didn’t think so, somehow, but stopped in midsentence when Harry kicked him hard under the desk.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: Ron started to say that he didn’t think so, somehow, but stopped in midsentence when Harry kicked him hard under the desk.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: But Lockhart’s disgusting cheeriness, Lockhart’s's hints that Lockhart had always thought Hagrid was no good, his confidence that the whole business was now at an end, irritated Harry so much that Harry yearned to throw Gadding with Ghouls right in Lockhart’s stupid face.
+Extracted relations:
+	Subject: Harry	Object: Lockhart	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: But Lockhart’s disgusting cheeriness, Lockhart’s's hints that Lockhart had always thought Hagrid was no good, his confidence that the whole business was now at an end, irritated Harry so much that Harry yearned to throw Gadding with Ghouls right in Lockhart’s stupid face.
+Extracted relations:
+	Subject: Lockhart	Object: Harry	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: Ron read the message, swallowed hard, and looked sideways at the empty seat usually filled by Hermione.
+Extracted relations:
+	Subject: Ron	Object: Hermione	Relation: per:friend	Confidence: 0.91
+
+
+Sentence: Ron read the message, swallowed hard, and looked sideways at the empty seat usually filled by Hermione.
+Extracted relations:
+	Subject: Hermione	Object: Ron	Relation: per:friend	Confidence: 0.91
+
+
+Sentence: Something wet touched Harry’s hand and Harry jumped backward, crushing Ron’s foot, but it was only Fang’s nose.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: Something wet touched Harry’s hand and Harry jumped backward, crushing Ron’s foot, but it was only Fang’s nose.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: “What?” said Ron loudly, looking around into the pitch-dark, and gripping Harry’s elbow very hard.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:friend	Confidence: 0.85
+
+
+Sentence: “What?” said Ron loudly, looking around into the pitch-dark, and gripping Harry’s elbow very hard.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:friend	Confidence: 0.85
+Completed 3800 sentences
+
+
+Sentence: Fang didn’t seem at all keen on it; Fang kept close to Harry, who could feel him quivering.
+Extracted relations:
+	Subject: Fang	Object: Harry	Relation: per:friend	Confidence: 0.88
+
+
+Sentence: Fang didn’t seem at all keen on it; Fang kept close to Harry, who could feel him quivering.
+Extracted relations:
+	Subject: Harry	Object: Fang	Relation: per:friend	Confidence: 0.88
+
+
+Sentence: Harry looked sideways at Ron.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: Harry looked sideways at Ron.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:friend	Confidence: 0.94
+Completed 3900 sentences
+
+
+Sentence: When Harry got outside again, Harry found Ron being violently sick in the pumpkin patch.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: When Harry got outside again, Harry found Ron being violently sick in the pumpkin patch.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: “Ron,” he hissed through the dark, “Ron — ” Ron woke with a yelp like Fang’s, stared wildly around, and saw Harry.
+Extracted relations:
+	Subject: Ron	Object: Fang	Relation: per:friend	Confidence: 0.89
+
+
+Sentence: “Ron,” he hissed through the dark, “Ron — ” Ron woke with a yelp like Fang’s, stared wildly around, and saw Harry.
+Extracted relations:
+	Subject: Fang	Object: Ron	Relation: per:friend	Confidence: 0.89
+
+
+Sentence: Professor McGonagall restored it with a wave of Professor McGonagall's own wand, and turned, frowning, to Seamus.
+Extracted relations:
+	Subject: McGonagall	Object: Seamus	Relation: per:foe	Confidence: 0.86
+
+
+Sentence: Professor McGonagall restored it with a wave of Professor McGonagall's own wand, and turned, frowning, to Seamus.
+Extracted relations:
+	Subject: Seamus	Object: McGonagall	Relation: per:foe	Confidence: 0.86
+
+
+Sentence: Ron looked as though Harry’d just been told Harry had to go and live in the Forbidden Forest.
+Extracted relations:
+	Subject: Ron	Object: Harry’d	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: Ron looked as though Harry’d just been told Harry had to go and live in the Forbidden Forest.
+Extracted relations:
+	Subject: Harry’d	Object: Ron	Relation: per:friend	Confidence: 0.89
+
+
+Sentence: Ginny didn’t say anything, but glanced up and down the Gryffindor table with a scared look on her face that reminded Harry of someone, though he couldn’t think who.
+Extracted relations:
+	Subject: Ginny	Object: Harry	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: Ginny didn’t say anything, but glanced up and down the Gryffindor table with a scared look on her face that reminded Harry of someone, though he couldn’t think who.
+Extracted relations:
+	Subject: Harry	Object: Ginny	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: “Spit it out,” said Ron, watching her.
+Extracted relations:
+	Subject: Ron	Object: Spit	Relation: per:foe	Confidence: 0.85
+
+
+Sentence: Ginny was rocking backward and forward slightly in Ginny's chair, exactly like Dobby did when Dobby was teetering on the edge of revealing forbidden information.
+Extracted relations:
+	Subject: Ginny	Object: Dobby	Relation: per:friend	Confidence: 0.86
+
+
+Sentence: Ginny was rocking backward and forward slightly in Ginny's chair, exactly like Dobby did when Dobby was teetering on the edge of revealing forbidden information.
+Extracted relations:
+	Subject: Dobby	Object: Ginny	Relation: per:friend	Confidence: 0.86
+
+
+Sentence: “I’ve got to tell you something,” Ginny mumbled, carefully not looking at Harry.
+Extracted relations:
+	Subject: Ginny	Object: Harry	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: “I’ve got to tell you something,” Ginny mumbled, carefully not looking at Harry.
+Extracted relations:
+	Subject: Harry	Object: Ginny	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: Percy!” said Ron angrily.
+Extracted relations:
+	Subject: Percy	Object: Ron	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: Percy!” said Ron angrily.
+Extracted relations:
+	Subject: Ron	Object: Percy	Relation: per:friend	Confidence: 0.95
+Completed 4000 sentences
+
+
+Sentence: “Thank you, Harry,” said Lockhart graciously while they waited for a long line of Hufflepuffs to pass.
+Extracted relations:
+	Subject: Harry	Object: Lockhart	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “Thank you, Harry,” said Lockhart graciously while they waited for a long line of Hufflepuffs to pass.
+Extracted relations:
+	Subject: Lockhart	Object: Harry	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “We were going to — to go and see — ” “Hermione,” said Harry.
+Extracted relations:
+	Subject: Hermione	Object: Harry	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “We were going to — to go and see — ” “Hermione,” said Harry.
+Extracted relations:
+	Subject: Harry	Object: Hermione	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “We haven’t seen her for ages, Professor,” Harry went on hurriedly, treading on Ron’s foot, “and we thought we’d sneak into the hospital wing, you know, and tell her the Mandrakes are nearly ready and, er, not to worry — ” Professor McGonagall was still staring at him, and for a moment, Harry thought she was going to explode, but when she spoke, it was in a strangely croaky voice.
+Extracted relations:
+	Subject: McGonagall	Object: Harry	Relation: per:friend	Confidence: 0.91
+
+
+Sentence: “We haven’t seen her for ages, Professor,” Harry went on hurriedly, treading on Ron’s foot, “and we thought we’d sneak into the hospital wing, you know, and tell her the Mandrakes are nearly ready and, er, not to worry — ” Professor McGonagall was still staring at him, and for a moment, Harry thought she was going to explode, but when she spoke, it was in a strangely croaky voice.
+Extracted relations:
+	Subject: Harry	Object: McGonagall	Relation: per:friend	Confidence: 0.91
+
+
+Sentence: “Try and get it out,” Ron whispered, shifting his chair so that he blocked Harry from Madam Pomfrey’s view.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:friend	Confidence: 0.86
+
+
+Sentence: “Try and get it out,” Ron whispered, shifting his chair so that he blocked Harry from Madam Pomfrey’s view.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:friend	Confidence: 0.86
+
+
+Sentence: Hermione’s hand was clamped so tightly around the paper that Harry was sure Harry was going to tear the paper.
+Extracted relations:
+	Subject: Hermione	Object: Harry	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: Hermione’s hand was clamped so tightly around the paper that Harry was sure Harry was going to tear the paper.
+Extracted relations:
+	Subject: Harry	Object: Hermione	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: “Ginny Weasley,” said Professor McGonagall.
+Extracted relations:
+	Subject: Ginny Weasley	Object: McGonagall	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “Ginny Weasley,” said Professor McGonagall.
+Extracted relations:
+	Subject: McGonagall	Object: Ginny Weasley	Relation: per:foe	Confidence: 0.88
+Completed 4100 sentences
+
+
+Sentence: “She knew something, Harry,” said Ron, speaking for the first time since they had entered the wardrobe in the staffroom.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “She knew something, Harry,” said Ron, speaking for the first time since they had entered the wardrobe in the staffroom.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “Harry,” said Ron.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “Harry,” said Ron.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: Harry couldn’t see how Ginny could still be alive.
+Extracted relations:
+	Subject: Harry	Object: Ginny	Relation: per:friend	Confidence: 0.89
+
+
+Sentence: Harry couldn’t see how Ginny could still be alive.
+Extracted relations:
+	Subject: Ginny	Object: Harry	Relation: per:friend	Confidence: 0.89
+
+
+Sentence: “D’you know what?” said Ron.
+Extracted relations:
+	Subject: D’you	Object: Ron	Relation: per:friend	Confidence: 0.87
+
+
+Sentence: “D’you know what?” said Ron.
+Extracted relations:
+	Subject: Ron	Object: D’you	Relation: per:friend	Confidence: 0.87
+
+
+Sentence: “My dear boy,” said Lockhart, straightening up and frowning at Harry.
+Extracted relations:
+	Subject: Lockhart	Object: Harry	Relation: per:friend	Confidence: 0.93
+
+
+Sentence: “My dear boy,” said Lockhart, straightening up and frowning at Harry.
+Extracted relations:
+	Subject: Harry	Object: Lockhart	Relation: per:friend	Confidence: 0.93
+
+
+Sentence: “Shouldn’t have let Professor Snape teach us that one,” said Harry furiously, kicking Lockhart’s trunk aside.
+Extracted relations:
+	Subject: Snape	Object: Harry	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: “Shouldn’t have let Professor Snape teach us that one,” said Harry furiously, kicking Lockhart’s trunk aside.
+Extracted relations:
+	Subject: Harry	Object: Snape	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: “What d’you want me to do?” said Lockhart weakly.
+Extracted relations:
+	Subject: d’you	Object: Lockhart	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: “What d’you want me to do?” said Lockhart weakly.
+Extracted relations:
+	Subject: Lockhart	Object: d’you	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: “Harry,” said Ron.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “Harry,” said Ron.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: Harry heard Ron gasp and looked up again.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:friend	Confidence: 0.87
+
+
+Sentence: Harry heard Ron gasp and looked up again.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:friend	Confidence: 0.87
+Completed 4200 sentences
+
+
+Sentence: “I’ll just — ” He put He's hand on the door knob, but Ron and Harry both pointed their wands at him.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: “I’ll just — ” He put He's hand on the door knob, but Ron and Harry both pointed their wands at him.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: “Get up,” said Ron sharply, pointing his wand at Lockhart.
+Extracted relations:
+	Subject: Ron	Object: Lockhart	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: “Get up,” said Ron sharply, pointing his wand at Lockhart.
+Extracted relations:
+	Subject: Lockhart	Object: Ron	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: He raised Ron’s Spellotaped wand high over his head and yelled, “Obliviatel” The wand exploded with the force of a small bomb.
+Extracted relations:
+	Subject: Ron	Object: Spellotaped	Relation: per:friend	Confidence: 0.85
+
+
+Sentence: He raised Ron’s Spellotaped wand high over his head and yelled, “Obliviatel” The wand exploded with the force of a small bomb.
+Extracted relations:
+	Subject: Spellotaped	Object: Ron	Relation: per:friend	Confidence: 0.86
+
+
+Sentence: It sounded as though Ron had just kicked Lockhart in the shins.
+Extracted relations:
+	Subject: Ron	Object: Lockhart	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: It sounded as though Ron had just kicked Lockhart in the shins.
+Extracted relations:
+	Subject: Lockhart	Object: Ron	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: But then Her must be — “Ginny, please wake up,” Harry muttered desperately, shaking Ginny.
+Extracted relations:
+	Subject: Ginny	Object: Harry	Relation: per:friend	Confidence: 0.87
+
+
+Sentence: But then Her must be — “Ginny, please wake up,” Harry muttered desperately, shaking Ginny.
+Extracted relations:
+	Subject: Harry	Object: Ginny	Relation: per:friend	Confidence: 0.87
+Completed 4300 sentences
+
+
+Sentence: But there was no mistaking Harry — “Tom — Tom Riddle?”
+Extracted relations:
+	Subject: Harry	Object: Tom	Relation: per:friend	Confidence: 0.91
+
+
+Sentence: But there was no mistaking Harry — “Tom — Tom Riddle?”
+Extracted relations:
+	Subject: Tom	Object: Harry	Relation: per:friend	Confidence: 0.91
+
+
+Sentence: “You’ve got to help me, Tom,” Harry said, raising Ginny’s head again.
+Extracted relations:
+	Subject: Tom	Object: Harry	Relation: per:foe	Confidence: 0.86
+
+
+Sentence: “You’ve got to help me, Tom,” Harry said, raising Ginny’s head again.
+Extracted relations:
+	Subject: Harry	Object: Tom	Relation: per:foe	Confidence: 0.86
+
+
+Sentence: “Listen,” said Harry urgently, Harry's knees sagging with Ginny’s dead weight.
+Extracted relations:
+	Subject: Harry	Object: Ginny	Relation: per:friend	Confidence: 0.92
+
+
+Sentence: “Listen,” said Harry urgently, Harry's knees sagging with Ginny’s dead weight.
+Extracted relations:
+	Subject: Ginny	Object: Harry	Relation: per:friend	Confidence: 0.92
+
+
+Sentence: “I’ve waited a long time for this, Harry Potter,” said Riddle.
+Extracted relations:
+	Subject: Harry Potter	Object: Riddle	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “I’ve waited a long time for this, Harry Potter,” said Riddle.
+Extracted relations:
+	Subject: Riddle	Object: Harry Potter	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: Harry was speaking at random, wanting to scare Riddle, wishing rather than believing it to be true — Riddle opened his mouth, but froze.
+Extracted relations:
+	Subject: Harry	Object: Riddle	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: Harry was speaking at random, wanting to scare Riddle, wishing rather than believing it to be true — Riddle opened his mouth, but froze.
+Extracted relations:
+	Subject: Riddle	Object: Harry	Relation: per:friend	Confidence: 0.95
+Completed 4400 sentences
+
+
+Sentence: “And that — ” said Riddle, now eyeing the ragged thing that Fawkes had dropped, “that’s the old school Sorting Hat — ” So it was.
+Extracted relations:
+	Subject: Riddle	Object: Fawkes	Relation: per:friend	Confidence: 0.93
+
+
+Sentence: “And that — ” said Riddle, now eyeing the ragged thing that Fawkes had dropped, “that’s the old school Sorting Hat — ” So it was.
+Extracted relations:
+	Subject: Fawkes	Object: Riddle	Relation: per:friend	Confidence: 0.93
+
+
+Sentence: He might not see what use Fawkes or the Sorting Hat were, but He was no longer alone, and He waited for Riddle to stop laughing with He's courage mounting.
+Extracted relations:
+	Subject: Fawkes	Object: Riddle	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: He might not see what use Fawkes or the Sorting Hat were, but He was no longer alone, and He waited for Riddle to stop laughing with He's courage mounting.
+Extracted relations:
+	Subject: Riddle	Object: Fawkes	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: “To business, Harry,” said Riddle, still smiling broadly.
+Extracted relations:
+	Subject: Harry	Object: Riddle	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “To business, Harry,” said Riddle, still smiling broadly.
+Extracted relations:
+	Subject: Riddle	Object: Harry	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: Riddle opened his mouth wide and hissed — but Harry understood what Harry was saying .
+Extracted relations:
+	Subject: Riddle	Object: Harry	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: Riddle opened his mouth wide and hissed — but Harry understood what Harry was saying .
+Extracted relations:
+	Subject: Harry	Object: Riddle	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: Waiting for fangs to sink through Harry Harry's body Harry Harry heard more mad hissing, something thrashing wildly off the pillars — Harry Harry couldn’t help it — Harry Harry opened Harry Harry's eyes wide enough to squint at what was going on.
+Extracted relations:
+	Subject: Harry Harry's	Object: Harry Harry	Relation: per:friend	Confidence: 0.88
+
+
+Sentence: Waiting for fangs to sink through Harry Harry's body Harry Harry heard more mad hissing, something thrashing wildly off the pillars — Harry Harry couldn’t help it — Harry Harry opened Harry Harry's eyes wide enough to squint at what was going on.
+Extracted relations:
+	Subject: Harry Harry	Object: Harry Harry's	Relation: per:friend	Confidence: 0.88
+
+
+Sentence: “You’re dead, Harry Potter,” said Riddle’s voice above him.
+Extracted relations:
+	Subject: Harry Potter	Object: Riddle	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “You’re dead, Harry Potter,” said Riddle’s voice above him.
+Extracted relations:
+	Subject: Riddle	Object: Harry Potter	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “Phoenix tears ” said Riddle quietly, staring at Harry’s arm.
+Extracted relations:
+	Subject: Riddle	Object: Harry	Relation: per:friend	Confidence: 0.89
+
+
+Sentence: “Phoenix tears ” said Riddle quietly, staring at Harry’s arm.
+Extracted relations:
+	Subject: Harry	Object: Riddle	Relation: per:friend	Confidence: 0.89
+Completed 4500 sentences
+
+
+Sentence: c -couldn’t say it in front of Percy — it was me, Harry — but I — I s-swear I d-didn’t mean to — R-Riddle made me, R-Riddle t-took me over — and — how did you kill that — that thing?
+Extracted relations:
+	Subject: Percy	Object: Harry	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: c -couldn’t say it in front of Percy — it was me, Harry — but I — I s-swear I d-didn’t mean to — R-Riddle made me, R-Riddle t-took me over — and — how did you kill that — that thing?
+Extracted relations:
+	Subject: Harry	Object: Percy	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: “Ginny” Ron thrust an arm through the gap in the rock to pull Ginny” Ron's through first.
+Extracted relations:
+	Subject: Ginny	Object: Ron	Relation: per:foe	Confidence: 0.87
+
+
+Sentence: “Ginny” Ron thrust an arm through the gap in the rock to pull Ginny” Ron's through first.
+Extracted relations:
+	Subject: Ron	Object: Ginny	Relation: per:foe	Confidence: 0.87
+
+
+Sentence: said Ron, gaping at the glittering weapon in Harry’s hand.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:friend	Confidence: 0.91
+
+
+Sentence: said Ron, gaping at the glittering weapon in Harry’s hand.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: “I’ll explain when we get out of here,” said Harry with a sideways glance at Ginny, who was crying harder than ever.
+Extracted relations:
+	Subject: Harry	Object: Ginny	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: “I’ll explain when we get out of here,” said Harry with a sideways glance at Ginny, who was crying harder than ever.
+Extracted relations:
+	Subject: Ginny	Object: Harry	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: “But you’re much too heavy for a bird to pull up there — ” “Fawkes,” said Harry, “isn’t an ordinary bird.”
+Extracted relations:
+	Subject: Fawkes	Object: Harry	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “But you’re much too heavy for a bird to pull up there — ” “Fawkes,” said Harry, “isn’t an ordinary bird.”
+Extracted relations:
+	Subject: Harry	Object: Fawkes	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “Harry! “Where now?” said Ron, with an anxious look at Ginny.
+Extracted relations:
+	Subject: Ron	Object: Ginny	Relation: per:friend	Confidence: 0.92
+
+
+Sentence: “Harry! “Where now?” said Ron, with an anxious look at Ginny.
+Extracted relations:
+	Subject: Ginny	Object: Ron	Relation: per:friend	Confidence: 0.92
+
+
+Sentence: him had so far avoided mentioning Riddle’s diary — or Ginny.
+Extracted relations:
+	Subject: Riddle	Object: Ginny	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: him had so far avoided mentioning Riddle’s diary — or Ginny.
+Extracted relations:
+	Subject: Ginny	Object: Riddle	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: “You know, Minerva,” Professor Dumbledore said thoughtfully to Professor McGonagall, “I think all this merits a good feast
+Extracted relations:
+	Subject: Minerva	Object: McGonagall	Relation: per:foe	Confidence: 0.89
+
+
+Sentence: “You know, Minerva,” Professor Dumbledore said thoughtfully to Professor McGonagall, “I think all this merits a good feast
+Extracted relations:
+	Subject: McGonagall	Object: Minerva	Relation: per:foe	Confidence: 0.89
+
+
+Sentence: She left, and Harry and Ron gazed uncertainly at Professor Dumbledore.
+Extracted relations:
+	Subject: Harry	Object: Ron	Relation: per:friend	Confidence: 0.89
+
+
+Sentence: She left, and Harry and Ron gazed uncertainly at Professor Dumbledore.
+Extracted relations:
+	Subject: Ron	Object: Harry	Relation: per:friend	Confidence: 0.89
+Completed 4600 sentences
+
+
+Sentence: Harry had completely forgotten about Lockhart.
+Extracted relations:
+	Subject: Harry	Object: Lockhart	Relation: per:friend	Confidence: 0.86
+
+
+Sentence: Harry had completely forgotten about Lockhart.
+Extracted relations:
+	Subject: Lockhart	Object: Harry	Relation: per:friend	Confidence: 0.86
+
+
+Sentence: “I don’t think I’m like him!” said Harry, more loudly than Harry’d intended.
+Extracted relations:
+	Subject: Harry	Object: Harry’d	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: “I don’t think I’m like him!” said Harry, more loudly than Harry’d intended.
+Extracted relations:
+	Subject: Harry’d	Object: Harry	Relation: per:friend	Confidence: 0.90
+
+
+Sentence: “Because if Harry here” — Mister Malfoy shot Harry a swift, sharp look — “and his friend Ron hadn’t discovered this book, why — Ginny Weasley might have taken all the blame.
+Extracted relations:
+	Subject: Harry	Object: Malfoy	Relation: per:foe	Confidence: 0.89
+
+
+Sentence: “Because if Harry here” — Mister Malfoy shot Harry a swift, sharp look — “and his friend Ron hadn’t discovered this book, why — Ginny Weasley might have taken all the blame.
+Extracted relations:
+	Subject: Malfoy	Object: Harry	Relation: per:foe	Confidence: 0.89
+Completed 4700 sentences
+
+
+Sentence: “Mister Malfoy,” Harry gasped, skidding to a halt, “I’ve got something for you — ”
+Extracted relations:
+	Subject: Malfoy	Object: Harry	Relation: per:friend	Confidence: 0.88
+
+
+Sentence: “Mister Malfoy,” Harry gasped, skidding to a halt, “I’ve got something for you — ”
+Extracted relations:
+	Subject: Harry	Object: Malfoy	Relation: per:friend	Confidence: 0.88
+
+
+Sentence: Mister Malfoy ripped the sock off the diary, threw the smelly sock into Lucius Malfoy’s hand aside, then looked furiously from the ruined book to Harry.
+Extracted relations:
+	Subject: Malfoy	Object: Lucius Malfoy’s	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: Mister Malfoy ripped the sock off the diary, threw the smelly sock into Lucius Malfoy’s hand aside, then looked furiously from the ruined book to Harry.
+Extracted relations:
+	Subject: Lucius Malfoy’s	Object: Malfoy	Relation: per:friend	Confidence: 0.94
+
+
+Sentence: Dobby was holding up Harry’s disgusting, slimy sock, and looking at it as though it were a priceless treasure.
+Extracted relations:
+	Subject: Dobby	Object: Harry	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: Dobby was holding up Harry’s disgusting, slimy sock, and looking at it as though it were a priceless treasure.
+Extracted relations:
+	Subject: Harry	Object: Dobby	Relation: per:friend	Confidence: 0.95
+
+
+Sentence: “Least I could do, Dobby,” said Harry, grinning.
+Extracted relations:
+	Subject: Dobby	Object: Harry	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “Least I could do, Dobby,” said Harry, grinning.
+Extracted relations:
+	Subject: Harry	Object: Dobby	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “I’ve just got one question, Dobby,” said Harry as Dobby pulled on Harry’s sock with shaking hands.
+Extracted relations:
+	Subject: Dobby	Object: Harry	Relation: per:foe	Confidence: 0.91
+
+
+Sentence: “I’ve just got one question, Dobby,” said Harry as Dobby pulled on Harry’s sock with shaking hands.
+Extracted relations:
+	Subject: Harry	Object: Dobby	Relation: per:foe	Confidence: 0.91
+
+
+Sentence: Hogwarts was back to normal with only a few, small differences — Defense Against the Dark Arts classes were canceled (“but we’ve had plenty of practice at that anyway,” Ron told a disgruntled Hermione) and Lucius Malfoy had been sacked as a school governor.
+Extracted relations:
+	Subject: Ron	Object: Hermione	Relation: per:friend	Confidence: 0.93
+
+
+Sentence: Hogwarts was back to normal with only a few, small differences — Defense Against the Dark Arts classes were canceled (“but we’ve had plenty of practice at that anyway,” Ron told a disgruntled Hermione) and Lucius Malfoy had been sacked as a school governor.
+Extracted relations:
+	Subject: Hermione	Object: Ron	Relation: per:friend	Confidence: 0.93
+
+
+Sentence: “It’s that Ravenclaw prefect, Penelope Clearwater,” said Ginny.
+Extracted relations:
+	Subject: Penelope Clearwater	Object: Ginny	Relation: per:foe	Confidence: 0.88
+
+
+Sentence: “It’s that Ravenclaw prefect, Penelope Clearwater,” said Ginny.
+Extracted relations:
+	Subject: Ginny	Object: Penelope Clearwater	Relation: per:foe	Confidence: 0.88
+
+ Relation Counts
+defaultdict(<class 'int'>, {('Harry', 'Dudley', 'per:friend'): 3, ('Dudley', 'Harry', 'per:friend'): 3, ('Dudley', 'Harry', 'per:foe'): 1, ('Harry', 'Dudley', 'per:foe'): 1, ('Harry', 'Uncle Vernon', 'per:foe'): 1, ('Uncle Vernon', 'Harry', 'per:foe'): 1, ('Harry', 'Uncle Vernon', 'per:friend'): 4, ('Uncle Vernon', 'Harry', 'per:friend'): 4, ('Dursleys', 'Harry', 'per:friend'): 5, ('Harry', 'Dursleys', 'per:friend'): 5, ('Harry', 'Hogwarts', 'per:friend'): 1, ('Hogwarts', 'Harry', 'per:friend'): 1, ('Harry', 'Dursleys', 'per:foe'): 1, ('Dursleys', 'Harry', 'per:foe'): 1, ('Uncle Vernon', 'Uncle Vernon’s', 'per:foe'): 1, ('Uncle Vernon’s', 'Uncle Vernon', 'per:foe'): 1, 
+('Ron', 'Harry', 'per:friend'): 37, 
+('Harry', 'Ron', 'per:friend'): 37, 
+('Ron', 'Hermione', 'per:friend'): 6,
+ ('Hermione', 'Ron', 'per:friend'): 6, ('Harry', 'Dobby', 'per:friend'): 6, ('Dobby', 'Harry', 'per:friend'): 6, ('Dobby', "Harry Potter's", 'per:friend'): 1, ("Harry Potter's", 'Dobby', 'per:friend'): 1, ('Dobby', 'Voldemort', 'per:foe'): 1, ('Voldemort', 'Dobby', 'per:foe'): 1, ('Uncle Vernon', "Uncle Vernon's", 'per:friend'): 2, ("Uncle Vernon's", 'Uncle Vernon', 'per:friend'): 2, ('Harry', 'Ron', 'per:foe'): 10, ('Ron', 'Harry', 'per:foe'): 10, ('Mason', 'Dursleys', 'per:friend'): 1, ('Dursleys', 'Mason', 'per:friend'): 1, ('Harry', 'Fred', 'per:foe'): 2, ('Fred', 'Harry', 'per:foe'): 2, ('Ron', 'George', 'per:friend'): 1, ('George', 'Ron', 'per:friend'): 1, ('George', 'Harry', 'per:friend'): 3, ('Harry', 'George', 'per:friend'): 3, ('Draco Malfoy', "Draco Malfoy's", 'per:foe'): 1, ("Draco Malfoy's", 'Draco Malfoy', 'per:foe'): 1, ('Mum', 'George', 'per:foe'): 1, ('George', 'Mum', 'per:foe'): 1, ('Mum', 'Molly', 'per:foe'): 1, ('Molly', 'Mum', 'per:foe'): 1, ('Mum', 'Fred', 'per:foe'): 1, ('Fred', 'Mum', 'per:foe'): 1, ('Fred', 'Molly', 'per:foe'): 1, ('Molly', 'Fred', 'per:foe'): 1, ('Arthur', 'Molly', 'per:foe'): 1, ('Molly', 'Arthur', 'per:foe'): 1, ('Ginny', 'Ron', 'per:foe'): 2, ('Ron', 'Ginny', 'per:foe'): 2, ('Ginny', 'Harry', 'per:friend'): 7, ('Harry', 'Ginny', 'per:friend'): 7, ('Harry', 'Molly', 'per:foe'): 3, ('Molly', 'Harry', 'per:foe'): 3, ('Errol', 'Ron', 'per:foe'): 1, ('Ron', 'Errol', 'per:foe'): 1, ('Dudley', 'Arthur', 'per:friend'): 1, ('Arthur', 'Dudley', 'per:friend'): 1, ('Malfoy', 'Borgin', 'per:foe'): 1, ('Borgin', 'Malfoy', 'per:foe'): 1, ('Hermione Granger', 'Malfoy', 'per:friend'): 1, ('Malfoy', 'Hermione Granger', 'per:friend'): 1, ('Fred', 'George', 'per:foe'): 2, ('George', 'Fred', 'per:foe'): 2, ('Mugglesl', 'Arthur', 'per:foe'): 1, ('Arthur', 'Mugglesl', 'per:foe'): 1, ('Harry', 'Lockhart', 'per:friend'): 6, ('Lockhart', 'Harry', 'per:friend'): 6, ('Harry', 'Lockhart', 'per:foe'): 6, ('Lockhart', 'Harry', 'per:foe'): 6, ('Ron', 'Malfoy', 'per:friend'): 5, ('Malfoy', 'Ron', 'per:friend'): 5, ('Weasley', 'Malfoy', 'per:friend'): 2, ('Malfoy', 'Weasley', 'per:friend'): 2, ('Ron', 'Arthur', 'per:foe'): 1, ('Arthur', 'Ron', 'per:foe'): 1, ('Arthur', 'Malfoy', 'per:friend'): 2, ('Malfoy', 'Arthur', 'per:friend'): 2, ('Yeh', 'Arthur', 'per:friend'): 1, ('Arthur', 'Yeh', 'per:friend'): 1, ('Grangers', 'Molly', 'per:friend'): 1, ('Molly', 'Grangers', 'per:friend'): 1, ('Gilderoy Lockhart', 'Fred', 'per:foe'): 1, ('Fred', 'Gilderoy Lockhart', 'per:foe'): 1, ('Ron', 'Dursleys', 'per:friend'): 1, ('Dursleys', 'Ron', 'per:friend'): 1, ('Percy', 'Molly', 'per:foe'): 1, ('Molly', 'Percy', 'per:foe'): 1, ('Ginny', 'Weasley', 'per:foe'): 1, ('Weasley', 'Ginny', 'per:foe'): 1, ('Harry', 'Floo', 'per:friend'): 1, ('Floo', 'Harry', 'per:friend'): 1, ('Hedwig', 'Harry', 'per:friend'): 2, ('Harry', 'Hedwig', 'per:friend'): 2, ('Harry', 'McGonagall', 'per:friend'): 3, ('McGonagall', 'Harry', 'per:friend'): 3, ('Shis', 'Harry', 'per:friend'): 2, ('Harry', 'Shis', 'per:friend'): 2, ('Harry', 'Arthur', 'per:friend'): 1, ('Arthur', 'Harry', 'per:friend'): 1, ('Weasley', 'McGonagall', 'per:friend'): 1, ('McGonagall', 'Weasley', 'per:friend'): 1, ('Harry', 'Willow', 'per:friend'): 1, ('Willow', 'Harry', 'per:friend'): 1, ('Hermione', 'McGonagall', 'per:friend'): 1, ('McGonagall', 'Hermione', 'per:friend'): 1, ('Hermione', 'Errol', 'per:friend'): 1, ('Errol', 'Hermione', 'per:friend'): 1, ('Harry', 'Hufflepuffs', 'per:foe'): 1, ('Hufflepuffs', 'Harry', 'per:foe'): 1, 
+('Harry', 'Hermione', 'per:friend'): 3, 
+('Hermione', 'Harry', 'per:friend'): 3, ('Justin Finch-Fletchley', 'Harry', 'per:foe'): 1, ('Harry', 'Justin Finch-Fletchley', 'per:foe'): 1, ('Creevey', 'Lockhart', 'per:foe'): 1, ('Lockhart', 'Creevey', 'per:foe'): 1, ('Creevey', 'Ginny', 'per:friend'): 1, ('Ginny', 'Creevey', 'per:friend'): 1, ('Ron', 'Lockhart', 'per:friend'): 3, ('Lockhart', 'Ron', 'per:friend'): 3, ('Hermione', 'Lockhart', 'per:foe'): 1, ('Lockhart', 'Hermione', 'per:foe'): 1, ('Seamus Finnigan', 'Lockhart', 'per:friend'): 1, ('Lockhart', 'Seamus Finnigan', 'per:friend'): 1, ('them’re', 'Lockhart', 'per:foe'): 1, ('Lockhart', 'them’re', 'per:foe'): 1, ('Lockhart', 'Neville', 'per:friend'): 1, ('Neville', 'Lockhart', 'per:friend'): 1, ('Colin', 'Harry', 'per:friend'): 4, ('Harry', 'Colin', 'per:friend'): 4, ('Oliver', 'George', 'per:foe'): 1, ('George', 'Oliver', 'per:foe'): 1, ('Tve', 'Snape', 'per:foe'): 1, ('Snape', 'Tve', 'per:foe'): 1, ('Seeker', 'Weasley', 'per:foe'): 1, ('Weasley', 'Seeker', 'per:foe'): 1, ('Harry', 'Malfoy', 'per:friend'): 7, ('Malfoy', 'Harry', 'per:friend'): 7, ('Fang', 'Harry', 'per:friend'): 2, ('Harry', 'Fang', 'per:friend'): 2, ('Malfoy', 'Ron', 'per:foe'): 1, ('Ron', 'Malfoy', 'per:foe'): 1, ('Filch', 'McGonagall', 'per:foe'): 1, ('McGonagall', 'Filch', 'per:foe'): 1, ('Lockhart', 'McGonagall', 'per:foe'): 1, ('McGonagall', 'Lockhart', 'per:foe'): 1, ('D’you', 'Harry', 'per:friend'): 1, ('Harry', 'D’you', 'per:friend'): 1, ('Ginny Weasley', 'Percy', 'per:friend'): 1, ('Percy', 'Ginny Weasley', 'per:friend'): 1, ('Nick', 'Harry', 'per:foe'): 2, ('Harry', 'Nick', 'per:foe'): 2, ('Harry', 'Filch', 'per:friend'): 2, ('Filch', 'Harry', 'per:friend'): 2, ('Fred', 'George Weasley', 'per:foe'): 1, ('George Weasley', 'Fred', 'per:foe'): 1, ('Hermione', 'Harry', 'per:foe'): 4, ('Harry', 'Hermione', 'per:foe'): 4, ('Myrtle', 'Hermione', 'per:foe'): 1, ('Hermione', 'Myrtle', 'per:foe'): 1, ('Myrtle', 'Hermione', 'per:friend'): 3, ('Hermione', 'Myrtle', 'per:friend'): 3, ('Patrick', 'Nick', 'per:friend'): 1, ('Nick', 'Patrick', 'per:friend'): 1, ('Harry', 'Lockharts', 'per:friend'): 1, ('Lockharts', 'Harry', 'per:friend'): 1, ('Ginny Weasley', 'Norris', 'per:friend'): 1, ('Norris', 'Ginny Weasley', 'per:friend'): 1, ('Hermione', 'Ron', 'per:foe'): 4, 
+('Ron', 'Hermione', 'per:foe'): 4, ('Binns', 'Harry', 'per:friend'): 1, ('Harry', 'Binns', 'per:friend'): 1, ('O’Flaherty', 'Binns', 'per:friend'): 1, ('Binns', 'O’Flaherty', 'per:friend'): 1, ('Hogwarts', 'Parvati Patil', 'per:foe'): 1, ('Parvati Patil', 'Hogwarts', 'per:foe'): 1, ('Colin', 'Harry', 'per:foe'): 1, ('Harry', 'Colin', 'per:foe'): 1, ('here’ll', 'Ron', 'per:friend'): 1, ('Ron', 'here’ll', 'per:friend'): 1, ('Myrtle', 'Harry', 'per:friend'): 1, ('Harry', 'Myrtle', 'per:friend'): 1, ('Ginny', 'Percy', 'per:friend'): 1, ('Percy', 'Ginny', 'per:friend'): 1, ('Malfoy', 'Hermione', 'per:friend'): 1, ('Hermione', 'Malfoy', 'per:friend'): 1, ('Gadding', 'Lockhart', 'per:foe'): 1, ('Lockhart', 'Gadding', 'per:foe'): 1, ('D’you', 'Hermione', 'per:friend'): 1, ('Hermione', 'D’you', 'per:friend'): 1, ('Harry', 'Gryffindor', 'per:friend'): 1, ('Gryffindor', 'Harry', 'per:friend'): 1, ('Scarhead', 'Malfoy', 'per:friend'): 1, ('Malfoy', 'Scarhead', 'per:friend'): 1, ('Harry', 'George', 'per:foe'): 4, ('George', 'Harry', 'per:foe'): 4, ('Bludger', 'Harry', 'per:friend'): 2, ('Harry', 'Bludger', 'per:friend'): 2, ('Harry', 'Fred', 'per:friend'): 1, ('Fred', 'Harry', 'per:friend'): 1, ('Fred', 'George', 'per:friend'): 2, ('George', 'Fred', 'per:friend'): 2, ('George', 'Bludger', 'per:friend'): 1, ('Bludger', 'George', 'per:friend'): 1, ('Oliver', 'Alicia Spinnet', 'per:friend'): 1, ('Alicia Spinnet', 'Oliver', 'per:friend'): 1, ('Pomfrey', 'Harry', 'per:friend'): 1, ('Harry', 'Pomfrey', 'per:friend'): 1, ('Dobby', 'Harry Potter', 'per:friend'): 1, ('Harry Potter', 'Dobby', 'per:friend'): 1, ('Bad Dobby', 'Dobby', 'per:friend'): 1, ('Dobby', 'Bad Dobby', 'per:friend'): 1, ('Percy', 'Ron', 'per:friend'): 2, ('Ron', 'Percy', 'per:friend'): 2, ('Percy', 'Weasley', 'per:friend'): 1, ('Weasley', 'Percy', 'per:friend'): 1, ('Harry', 'Harry’d', 'per:friend'): 5, ('Harry’d', 'Harry', 'per:friend'): 5, ('Snape', 'Harry', 'per:friend'): 2, ('Harry', 'Snape', 'per:friend'): 2, ('Lockhart', 'Snape', 'per:foe'): 2, ('Snape', 'Lockhart', 'per:foe'): 2, ('Brown', 'Snape', 'per:foe'): 1, ('Snape', 'Brown', 'per:foe'): 1, ('Weasley', 'Finnigan', 'per:foe'): 1, ('Finnigan', 'Weasley', 'per:foe'): 1, ('Snape', 'Lockhart', 'per:friend'): 1, ('Lockhart', 'Snape', 'per:friend'): 1, ('Malfoy', 'Lockhart', 'per:friend'): 1, ('Lockhart', 'Malfoy', 'per:friend'): 1, ('Snape', 'Harry', 'per:foe'): 1, ('Harry', 'Snape', 'per:foe'): 1, ('Hufflepuffs', 'Ernie', 'per:friend'): 1, ('Ernie', 'Hufflepuffs', 'per:friend'): 1, ('Hagrid', 'Harry', 'per:foe'): 1, ('Harry', 'Hagrid', 'per:foe'): 1, ('McGonagall', 'Ernie', 'per:foe'): 1, ('Ernie', 'McGonagall', 'per:foe'): 1, ('Harry', 'Harry Potter', 'per:foe'): 1, ('Harry Potter', 'Harry', 'per:foe'): 1, ('Fawkes', 'Harry', 'per:foe'): 2, ('Harry', 'Fawkes', 'per:foe'): 2, ('Percy', 'Fred', 'per:foe'): 1, ('Fred', 'Percy', 'per:foe'): 1, ('Harry', 'Harry’d', 'per:foe'): 1, ('Harry’d', 'Harry', 'per:foe'): 1, ('Harry', 'Draco Malfoy', 'per:friend'): 1, ('Draco Malfoy', 'Harry', 'per:friend'): 1, ('Ron', 'Crabbe', 'per:foe'): 1, ('Crabbe', 'Ron', 'per:foe'): 1, ('Hermione', 'Moste Potente Potions', 'per:friend'): 1, ('Moste Potente Potions', 'Hermione', 'per:friend'): 1, ('Millicent Bulstrode', 'Ron', 'per:foe'): 1, ('Ron', 'Millicent Bulstrode', 'per:foe'): 1, ('Harry', 'Percy', 'per:friend'): 2, ('Percy', 'Harry', 'per:friend'): 2, ('Malfoy', 'Harry', 'per:foe'): 2, ('Harry', 'Malfoy', 'per:foe'): 2, ('Arthur Weasley', "Arthur Weasley's", 'per:foe'): 1, ("Arthur Weasley's", 'Arthur Weasley', 'per:foe'): 1, ('Crabbe', 'Malfoy', 'per:friend'): 1, ('Malfoy', 'Crabbe', 'per:friend'): 1, ('Ron', 'Crabbe', 'per:friend'): 2, ('Crabbe', 'Ron', 'per:friend'): 2, ('Goyle', 'Malfoy', 'per:foe'): 1, ('Malfoy', 'Goyle', 'per:foe'): 1, ('Harry', 'Riddle', 'per:friend'): 6, ('Riddle', 'Harry', 'per:friend'): 6, ('Harry', 'T. M. Riddle', 'per:friend'): 1, ('T. M. Riddle', 'Harry', 'per:friend'): 1, ('their’ll', 'Harry', 'per:foe'): 1, ('Harry', 'their’ll', 'per:foe'): 1, ('Ernie Macmillan', 'Harry', 'per:friend'): 1, ('Harry', 'Ernie Macmillan', 'per:friend'): 1, ('Malfoy', 'Percy', 'per:friend'): 1, ('Percy', 'Malfoy', 'per:friend'): 1, ('Flitwick', 'Harry', 'per:friend'): 1, ('Harry', 'Flitwick', 'per:friend'): 1, ('Dippet', 'Riddle', 'per:foe'): 1, ('Riddle', 'Dippet', 'per:foe'): 1, ('Riddle', 'Hermione', 'per:friend'): 1, ('Hermione', 'Riddle', 'per:friend'): 1, ('Ernie Macmillan', 'Harry', 'per:foe'): 1, ('Harry', 'Ernie Macmillan', 'per:foe'): 1, ('Harry', 'Pomfrey', 'per:foe'): 1, ('Pomfrey', 'Harry', 'per:foe'): 1, ('Weasley', 'Lee Jordan', 'per:foe'): 1, ('Lee Jordan', 'Weasley', 'per:foe'): 1, ('Snape', 'Ron', 'per:friend'): 1, ('Ron', 'Snape', 'per:friend'): 1, ('Harry', 'Dumbledore’d', 'per:friend'): 1, ('Dumbledore’d', 'Harry', 'per:friend'): 1, ('Hagrid', 'Malfoy', 'per:foe'): 1, ('Malfoy', 'Hagrid', 'per:foe'): 1, ('Malfoy', 'Snape', 'per:foe'): 1, ('Snape', 'Malfoy', 'per:foe'): 1, ('Ernie', 'Harry', 'per:foe'): 1, ('Harry', 'Ernie', 'per:foe'): 1, ('Harry', 'Ernie', 'per:friend'): 1, ('Ernie', 'Harry', 'per:friend'): 1, ('Ernie', 'Hannah', 'per:friend'): 1, ('Hannah', 'Ernie', 'per:friend'): 1, ('Ron', 'Dean', 'per:friend'): 1, ('Arthur', 'Lockhart', 'per:foe'): 1, ('Lockhart', 'Arthur', 'per:foe'): 1, ('Ron', 'Fang', 'per:friend'): 1, ('Fang', 'Ron', 'per:friend'): 1, ('McGonagall', 'Seamus', 'per:foe'): 1, ('Seamus', 'McGonagall', 'per:foe'): 1, ('Ron', 'Harry’d', 'per:friend'): 1, ('Harry’d', 'Ron', 'per:friend'): 1, ('Ron', 'Spit', 'per:foe'): 1, ('Ginny', 'Dobby', 'per:friend'): 1, ('Dobby', 'Ginny', 'per:friend'): 1, ('Ginny Weasley', 'McGonagall', 'per:foe'): 1, ('McGonagall', 'Ginny Weasley', 'per:foe'): 1, ('D’you', 'Ron', 'per:friend'): 1, ('Ron', 'D’you', 'per:friend'): 1, ('d’you', 'Lockhart', 'per:friend'): 1, ('Lockhart', 'd’you', 'per:friend'): 1, ('Ron', 'Spellotaped', 'per:friend'): 1, ('Spellotaped', 'Ron', 'per:friend'): 1, ('Harry', 'Tom', 'per:friend'): 1, ('Tom', 'Harry', 'per:friend'): 1, ('Tom', 'Harry', 'per:foe'): 1, ('Harry', 'Tom', 'per:foe'): 1, ('Harry Potter', 'Riddle', 'per:foe'): 2, ('Riddle', 'Harry Potter', 'per:foe'): 2, ('Riddle', 'Fawkes', 'per:friend'): 2, ('Fawkes', 'Riddle', 'per:friend'): 2, ('Harry', 'Riddle', 'per:foe'): 1, ('Riddle', 'Harry', 'per:foe'): 1, ("Harry Harry's", 'Harry Harry', 'per:friend'): 1, ('Harry Harry', "Harry Harry's", 'per:friend'): 1, ('Ron', 'Ginny', 'per:friend'): 1, ('Ginny', 'Ron', 'per:friend'): 1, ('Riddle', 'Ginny', 'per:friend'): 1, ('Ginny', 'Riddle', 'per:friend'): 1, ('Minerva', 'McGonagall', 'per:foe'): 1, ('McGonagall', 'Minerva', 'per:foe'): 1, ('Malfoy', 'Lucius Malfoy’s', 'per:friend'): 1, ('Lucius Malfoy’s', 'Malfoy', 'per:friend'): 1, ('Dobby', 'Harry', 'per:foe'): 2, ('Harry', 'Dobby', 'per:foe'): 2, ('Penelope Clearwater', 'Ginny', 'per:foe'): 1, ('Ginny', 'Penelope Clearwater', 'per:foe'): 1})

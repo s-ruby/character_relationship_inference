@@ -3,8 +3,11 @@ import argparse
 from spanbert import SpanBERT
 from processors.spacy_help_functions import get_entities, create_entity_pairs
 from processors.nlp_provider import NlpProvider
+from collections import defaultdict
 
 def main(args):
+    results_dict = defaultdict(int)
+
     entities_of_interest = ["PERSON"]
 
     # Load spacy model
@@ -41,11 +44,13 @@ def main(args):
         for ex, pred in list(zip(candidate_pairs, relation_preds)):
             if pred[0] != "no_relation":
                 if pred[1] > args.min_conf:
+                    results_dict[(ex["subj"][0], ex["obj"][0], pred[0])] += 1
                     print("\n")
                     print("Sentence: {}".format(sentence))
                     print("Extracted relations:")
                     print("\tSubject: {}\tObject: {}\tRelation: {}\tConfidence: {:.2f}".format(ex["subj"][0], ex["obj"][0], pred[0], pred[1]))
-                    
+    print("\n Relation Counts")
+    print(results_dict)               
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()

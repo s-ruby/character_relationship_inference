@@ -1,0 +1,1230 @@
+instance: Harry	Ron	score:0.30759689922480615
+sentence: “<PER>Cornelius</PER> Fudge, the Minister of Magic!” <PER>Harry</PER> elbowed <PER>Ron</PER> hard to make him shut up.
+pattern_bef: Friend
+passive voice: False
+
+instance: Voldemort	Riddle	score:0.21428571485011338
+sentence: “Very few people know that Lord <PER>Voldemort</PER> was once called Tom <PER>Riddle</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Hagrid	Malfoy	score:0.2142857145903614
+sentence: “Dear, dear, you know, that temper of yours will lead you into trouble one of these days, <PER>Hagrid</PER>,” said Mister <PER>Malfoy</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ginny	McGonagall	score:0.2142857145903614
+sentence: “Which student?” “<PER>Ginny</PER> Weasley,” said Professor <PER>McGonagall</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	McGonagall	score:0.2142857145903614
+sentence: “You know, Minerva,” Professor <PER>Dumbledore</PER> said thoughtfully to Professor <PER>McGonagall</PER>, “I think all this merits a good feast Might I ask you to go and alert the kitchens?” “Right,” said Professor <PER>McGonagall</PER> crisply, also moving to the door.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.2142857145903614
+sentence: “Can I give that diary back to Mister <PER>Malfoy</PER>, please?” “Certainly, <PER>Harry</PER>,” said Professor <PER>Dumbledore</PER> calmly.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.2142857142857143
+sentence: More than anything else at Hogwarts, more even than playing Quidditch, <PER>Harry</PER> missed <PER>Harry</PER>'s best friends, <PER>Ron</PER> Weasley and <PER>Hermione</PER> Granger.
+pattern_bef: Friend
+passive voice: False
+
+instance: Voldemort	Harry	score:0.2142857142857143
+sentence: “<PER>Harry</PER> Potter speaks not of his triumph over He-Who-Must-Not-Be- Named — ” “<PER>Voldemort</PER>?” said <PER>Harry</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.2142857142857143
+sentence: “So — what’s the story, <PER>Harry</PER>?” said <PER>Ron</PER> impatiently.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ginny	Ron	score:0.2142857142857143
+sentence: “<PER>Ginny</PER>,” said <PER>Ron</PER> in an undertone to <PER>Harry</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.2142857142857143
+sentence: “Muggles have garden gnomes, too, you know,” <PER>Harry</PER> told <PER>Ron</PER> as they crossed the lawn.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.2142857142857143
+sentence: Seeing the shocked look on <PER>Harry</PER>’s face, <PER>Ron</PER> added, “It doesn’t hurt them — you’ve just got to make them really dizzy so them can’t find them's way back to the gnomeholes.” He let go of the gnome’s ankles: It flew twenty feet into the air and landed with a thud in the field over the hedge.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ginny	Ron	score:0.2142857142857143
+sentence: “<PER>Ginny</PER>,” said <PER>Ron</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ginny	score:0.2142857142857143
+sentence: “I expect we’ll be able to pick up a lot of <PER>Ginny</PER>’s things secondhand.” “Oh, are you starting at Hogwarts this year?” <PER>Harry</PER> asked <PER>Ginny</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Hagrid	Harry	score:0.2142857142857143
+sentence: “<PER>Hagrid</PER>!” <PER>Harry</PER> croaked in relief.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.2142857142857143
+sentence: “Guess who I saw in Borgin and Burkes?” <PER>Harry</PER> asked <PER>Ron</PER> and <PER>Hermione</PER> as they climbed the Gringotts steps.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.2142857142857143
+sentence: “Meet you back here,” <PER>Ron</PER> said to <PER>Hermione</PER> as the Weasleys and <PER>Harry</PER> were led off to their underground vaults by another Gringotts goblin.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.2142857142857143
+sentence: him saw <PER>Ron</PER> — and then him saw <PER>Harry</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Malfoy	score:0.2142857142857143
+sentence: “Famous <PER>Harry</PER> Potter,” said <PER>Malfoy</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.2142857142857143
+sentence: “Let’s go together, we’ve only got a minute,” <PER>Ron</PER> said to <PER>Harry</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.2142857142857143
+sentence: “We’re attracting too much atten — ” “<PER>Harry</PER>!” said <PER>Ron</PER>, his eyes gleaming.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.2142857142857143
+sentence: “There!” <PER>Harry</PER> shouted, making <PER>Ron</PER> and Hedwig jump.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.2142857142857143
+sentence: <PER>Harry</PER> told <PER>Dumbledore</PER> everything except that Arthur owned the bewitched car, making it sound as though <PER>Harry</PER> and <PER>Ron</PER> had happened to find a flying car parked outside the station.
+pattern_bef: Friend
+passive voice: False
+
+instance: McGonagall	Harry	score:0.2142857142857143
+sentence: “And speaking of Gryffindor — ” Professor <PER>McGonagall</PER> said sharply, but <PER>Harry</PER> cut in: “Professor, when we took the car, term hadn’t started, so — so Gryffindor shouldn’t really have points taken from it — should it?” he finished, watching her anxiously.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.2142857142857143
+sentence: Arms reached through the portrait hole to pull <PER>Harry</PER> and <PER>Ron</PER> inside, leaving <PER>Hermione</PER> to scramble in after them.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Neville	score:0.2142857142857143
+sentence: “You’d better open it, <PER>Ron</PER>,” said <PER>Neville</PER> in a timid whisper.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.2142857142857143
+sentence: When <PER>Harry</PER> had taken <PER>Harry</PER>'s place between <PER>Ron</PER> and <PER>Hermione</PER>, she said, “We’ll be repotting Mandrakes today.
+pattern_bef: Friend
+passive voice: False
+
+instance: Malfoy	Ron	score:0.2142857142857143
+sentence: “Eat slugs, <PER>Malfoy</PER>,” said <PER>Ron</PER> angrily.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.2142857142857143
+sentence: As <PER>Harry</PER> walked onto the field, <PER>Harry</PER> saw <PER>Ron</PER> and <PER>Hermione</PER> sitting in the stands.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.2142857142857143
+sentence: “What’s happening?” <PER>Ron</PER> asked <PER>Harry</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.2142857142857143
+sentence: “Nearly there, <PER>Ron</PER>,” said <PER>Hermione</PER> as the gamekeeper’s cabin came into view.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.2142857142857143
+sentence: <PER>Hagrid</PER> didn’t seem perturbed by <PER>Ron</PER>’s slug problem, which <PER>Harry</PER> hastily explained as he lowered <PER>Ron</PER> into a chair.
+pattern_bef: Friend
+passive voice: False
+
+instance: Hagrid	Harry	score:0.2142857142857143
+sentence: “What did Lockhart want with you, <PER>Hagrid</PER>?” <PER>Harry</PER> asked, scratching Fang’s ears.
+pattern_bef: Friend
+passive voice: False
+
+instance: Malfoy	Hermione	score:0.2142857142857143
+sentence: “Who was he tryin’ ter curse?” “<PER>Malfoy</PER> called <PER>Hermione</PER> something — it must’ve been really bad, because everyone went wild.” “It was bad,” said <PER>Ron</PER> hoarsely, emerging over the tabletop looking pale and sweaty.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hagrid	score:0.2142857142857143
+sentence: “Well, I don’ blame yeh fer tryin’ ter curse him, <PER>Ron</PER>,” said <PER>Hagrid</PER> loudly over the thuds of more slugs hitting the basin.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hagrid	score:0.2142857142857143
+sentence: “<PER>Harry</PER>,” said <PER>Hagrid</PER> abruptly as though struck by a sudden thought.
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	Harry	score:0.2142857142857143
+sentence: “You may go,” <PER>Dumbledore</PER> said to <PER>Harry</PER>, <PER>Ron</PER>, and <PER>Hermione</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.2142857142857143
+sentence: Nor could <PER>Harry</PER> and <PER>Ron</PER> get much response from <PER>Hermione</PER>'s when they asked what <PER>Hermione</PER> was up to, and not until the following Wednesday did they find out.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.2142857142857143
+sentence: <PER>Harry</PER> found <PER>Ron</PER> at the back of the library, measuring <PER>Harry</PER>'s History of Magic homework.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.2142857142857143
+sentence: “I always knew Salazar Slytherin was a twisted old loony,” <PER>Ron</PER> told <PER>Harry</PER> and <PER>Hermione</PER> as they fought their way through the teeming corridors at the end of the lesson to drop off their bags before dinner.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.2142857142857143
+sentence: <PER>Harry</PER> had never told <PER>Ron</PER> and <PER>Hermione</PER> that the Sorting Hat had seriously considered putting him in Slytherin.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.2142857142857143
+sentence: “D’you really think there’s a Chamber of Secrets?” <PER>Ron</PER> asked <PER>Hermione</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ginny	Ron	score:0.2142857142857143
+sentence: “Listen, we never laid a finger on that cat!” “That’s what I told <PER>Ginny</PER>,” said Percy fiercely, “but she still seems to think you’re going to be expelled, I’ve never seen shis so upset, crying shis eyes out, you might think of she, all the first years are thoroughly overexcited by this business — ” “ You don’t care about <PER>Ginny</PER>,” said <PER>Ron</PER>, whose ears were now reddening.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.2142857142857143
+sentence: “What we’d need to do is to get inside the Slytherin common room and ask <PER>Malfoy</PER> a few questions without <PER>Malfoy</PER> realizing it’s us.” “But that’s impossible,” <PER>Harry</PER> said as <PER>Ron</PER> laughed.
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Ron	score:0.2142857142857143
+sentence: “Or maybe it can disguise it — pretend to be a suit of armor or something — I’ve read about Chameleon Ghouls — ” “You read too much, <PER>Hermione</PER>,” said <PER>Ron</PER>, pouring dead lacewings on top of the leeches.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.2142857142857143
+sentence: Through the confusion, <PER>Harry</PER> saw <PER>Hermione</PER> slip quietly into <PER>Snape</PER>’s office.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.2142857142857143
+sentence: As half the class lumbered up to <PER>Snape</PER> ’s desk, some weighted down with arms like clubs, others unable to talk through gigantic puffed- up lips, <PER>Harry</PER> saw <PER>Hermione</PER> slide back into the dungeon, the front of <PER>Hermione</PER>'s robes bulging.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.2142857142857143
+sentence: “He knew it was me,” <PER>Harry</PER> told <PER>Ron</PER> and <PER>Hermione</PER> as they hurried back to Moaning Myrtle’s bathroom.
+pattern_bef: Friend
+passive voice: False
+
+instance: Malfoy	Snape	score:0.2142857142857143
+sentence: “How about <PER>Malfoy</PER> and Potter?” said <PER>Snape</PER> with a twisted smile.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.2142857142857143
+sentence: “For heaven’s sake, <PER>Harry</PER>,” said <PER>Hermione</PER>, exasperated, as one of <PER>Ron</PER>’s bishops wrestled <PER>Hermione</PER>'s knight off his horse and dragged him off the board.
+pattern_bef: Friend
+passive voice: False
+
+instance: McGonagall	Harry	score:0.2142857142857143
+sentence: Professor <PER>McGonagall</PER> told <PER>Harry</PER> to wait and left <PER>Harry</PER> there, alone.
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	Hagrid	score:0.2142857142857143
+sentence: “It wasn’ <PER>Harry</PER>, Professor <PER>Dumbledore</PER>!” said <PER>Hagrid</PER> urgently.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.2142857142857143
+sentence: “ — it can’t’ve bin him, I’ll swear it in front o’ the Ministry o’ Magic if I have to — ” “<PER>Hagrid</PER>, I — ” “ — yeh’ve got the wrong boy, sir, I know <PER>Harry</PER> never “<PER>Hagrid</PER>l” said <PER>Dumbledore</PER> loudly.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.2142857142857143
+sentence: <PER>Harry</PER> saw <PER>Ron</PER>'s eyes widen in shock.
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.2142857142857143
+sentence: “It’s okay, <PER>Hermione</PER>,” said <PER>Harry</PER> quickly.
+pattern_bef: Friend
+passive voice: False
+
+instance: Malfoy	Ron	score:0.2142857142857143
+sentence: “I was so sure it was <PER>Malfoy</PER>,” said <PER>Ron</PER>, for about the hundredth time.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.2142857142857143
+sentence: “Is Lockhart the smarmiest bloke you’ve ever met, or what?” <PER>Ron</PER> said to <PER>Harry</PER> as they left the infirmary and started up the stairs toward Gryffindor Tower.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.2142857142857143
+sentence: <PER>Ron</PER> was just saying <PER>Harry</PER> wished <PER>Harry</PER> had asked <PER>Hermione</PER> how many rat tails you were supposed to add to a Hair-Raising Potion when an angry outburst from the floor above reached their ears.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.2142857142857143
+sentence: Nevertheless, <PER>Harry</PER> was determined to find out more about <PER>Riddle</PER>, so next day at break, <PER>Harry</PER> headed for the trophy room to examine <PER>Riddle</PER>’s special award, accompanied by an interested <PER>Hermione</PER> and a thoroughly unconvinced <PER>Ron</PER>, who told them <PER>Harry</PER>’d seen enough of the trophy room to <PER>Harry</PER> a lifetime.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.2142857142857143
+sentence: “<PER>Riddle</PER> does sound like Percy — who asked him to squeal on <PER>Hagrid</PER>, anyway?” “But the monster had killed someone, <PER>Ron</PER>,” said <PER>Hermione</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Ron	score:0.2142857142857143
+sentence: “But why’s she got to go to the library?” “Because that’s what <PER>Hermione</PER> does,” said <PER>Ron</PER>, shrugging.
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	Malfoy	score:0.2142857142857143
+sentence: “ Dreadful thing, <PER>Dumbledore</PER>,” said <PER>Malfoy</PER> lazily, taking out a long roll of parchment, “but the governors feel it’s time for you to step aside.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.2142857142857143
+sentence: <PER>Harry</PER> and <PER>Ron</PER> had tried to visit <PER>Hermione</PER>, but visitors were now barred from the hospital wing.
+pattern_bef: Friend
+passive voice: False
+
+instance: Malfoy	Snape	score:0.2142857142857143
+sentence: “Sir, why don’t you apply for the headmaster’s job?” “Now, now, <PER>Malfoy</PER>,” said <PER>Snape</PER>, though he couldn’t suppress a thin-lipped smile.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.2142857142857143
+sentence: <PER>Harry</PER> hit <PER>Ron</PER> over the hand with his pruning shears.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.2142857142857143
+sentence: “What d’you reckon?” <PER>Harry</PER> said to <PER>Ron</PER>, whose eyes he could just make out, reflecting the light from his wand.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.2142857142857143
+sentence: “<PER>Harry</PER>!” <PER>Ron</PER> shouted, his voice breaking with relief.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.2142857142857143
+sentence: When <PER>Harry</PER> got outside again, <PER>Harry</PER> found <PER>Ron</PER> being violently sick in the pumpkin patch.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.2142857142857143
+sentence: “The first words out of those poor Petrified people’s mouths will be ‘It was <PER>Hagrid</PER>.’ Frankly, I’m astounded Professor <PER>McGonagall</PER> thinks all these security measures are necessary.” “I agree, sir,” said <PER>Harry</PER>, making <PER>Ron</PER> drop his books in surprise.
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.2142857142857143
+sentence: “We were going to — to go and see — ” “<PER>Hermione</PER>,” said <PER>Harry</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.2142857142857143
+sentence: <PER>Harry</PER> felt <PER>Ron</PER> slide silently down onto the wardrobe floor beside <PER>Harry</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.2142857142857143
+sentence: “She knew something, <PER>Harry</PER>,” said <PER>Ron</PER>, speaking for the first time since they had entered the wardrobe in the staffroom.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.2142857142857143
+sentence: “<PER>Harry</PER>,” said <PER>Ron</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.2142857142857143
+sentence: “Wait there,” <PER>Harry</PER> called to <PER>Ron</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ginny	score:0.2142857142857143
+sentence: “You’ve got to help me, Tom,” <PER>Harry</PER> said, raising <PER>Ginny</PER>’s head again.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Riddle	score:0.2142857142857143
+sentence: “What d’you mean, I won’t be — ?” “I’ve waited a long time for this, <PER>Harry</PER> Potter,” said <PER>Riddle</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Riddle	score:0.2142857142857143
+sentence: “Haven’t you guessed yet, <PER>Harry</PER> Potter?” said <PER>Riddle</PER> softly.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ginny	Riddle	score:0.2142857142857143
+sentence: “It took a very long time for stupid little <PER>Ginny</PER> to stop trusting <PER>Ginny</PER>'s diary,” said <PER>Riddle</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Riddle	score:0.2142857142857143
+sentence: “Well, you see, <PER>Ginny</PER> told me all about you, <PER>Harry</PER>,” said <PER>Riddle</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Riddle	score:0.2142857142857143
+sentence: “To business, <PER>Harry</PER>,” said <PER>Riddle</PER>, still smiling broadly.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Riddle	score:0.2142857142857143
+sentence: “You’re dead, <PER>Harry</PER> Potter,” said <PER>Riddle</PER>’s voice above him.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Riddle	score:0.2142857142857143
+sentence: “So ends the famous <PER>Harry</PER> Potter,” said <PER>Riddle</PER>’s distant voice.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.2142857142857143
+sentence: “<PER>Ron</PER>!” <PER>Harry</PER> yelled, speeding up.
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	Harry	score:0.2142857142857143
+sentence: “He’s <PER>Dumbledore</PER>’s,” said <PER>Harry</PER>, squeezing through <PER>Harry</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.2142857142857143
+sentence: “Have you thought how we’re going to get back up this?” <PER>Harry</PER> said to <PER>Ron</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.2142857142857143
+sentence: Fawkes went whooshing past <PER>Harry</PER>’s ear and settled on Professor <PER>Dumbledore</PER> ’s shoulder, just as <PER>Harry</PER> found himself and <PER>Ron</PER> being swept into Molly’s tight embrace.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ginny	Dumbledore	score:0.2142857142857143
+sentence: “There has been no lasting harm done, <PER>Ginny</PER>,” said <PER>Dumbledore</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	Ron	score:0.2142857142857143
+sentence: “He’ll lend you one.” “Would you mind taking Professor Lockhart up to the infirmary, too?” <PER>Dumbledore</PER> said to <PER>Ron</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Riddle	Dumbledore	score:0.2142857142857143
+sentence: “And so you met Tom <PER>Riddle</PER>,” said <PER>Dumbledore</PER> thoughtfully.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.2142857142857143
+sentence: “Only a true Gryffindor could have pulled that out of the hat, <PER>Harry</PER>,” said <PER>Dumbledore</PER> simply.
+pattern_bef: Friend
+passive voice: False
+
+instance: Malfoy	Harry	score:0.2142857142857143
+sentence: “Don’t you want to know how <PER>Ginny</PER> got hold of that diary, Mister <PER>Malfoy</PER>?” said <PER>Harry</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.2142857142857143
+sentence: Hogwarts was back to normal with only a few, small differences — Defense Against the Dark Arts classes were canceled (“but we’ve had plenty of practice at that anyway,” <PER>Ron</PER> told a disgruntled <PER>Hermione</PER>) and Lucius <PER>Malfoy</PER> had been sacked as a school governor.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.2142857142857142
+sentence: After a hurried lunch, <PER>Harry</PER> went upstairs to meet <PER>Ron</PER> in the library, and saw Justin Finch- Fletchley, the Hufflepuff boy from Herbology, coming toward him.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Dudley	score:0.2142856887408665
+sentence: As they stared at each other, <PER>Harry</PER> heard <PER>Dudley</PER>’s voice from the hall.
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Malfoy	score:0.2142856887408665
+sentence: <PER>Harry</PER>, <PER>Ron</PER>, and <PER>Hermione</PER> signed her list; <PER>Harry</PER>, <PER>Ron</PER>, and <PER>Hermione</PER> had heard that <PER>Malfoy</PER> was staying, which struck them as very suspicious.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.2142856887408665
+sentence: <PER>Harry</PER> heard <PER>Ron</PER> gasp and looked up again.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Riddle	score:0.2142856887408665
+sentence: Then <PER>Harry</PER> <PER>Harry</PER> heard <PER>Riddle</PER>’s hissing voice: “Kill him.” The basilisk was moving toward <PER>Harry</PER> <PER>Harry</PER>; <PER>Harry</PER> <PER>Harry</PER> could hear The basilisk heavy body slithering heavily across the dusty floor.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Riddle	score:0.2142856887408665
+sentence: “NO!” <PER>Harry</PER> heard <PER>Riddle</PER> screaming.
+pattern_bef: Friend
+passive voice: False
+
+instance: Riddle	Harry	score:0.1891109022636086
+sentence: “Phoenix tears ” said <PER>Riddle</PER> quietly, staring at <PER>Harry</PER>’s arm.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.18604653380637948
+sentence: “Why can’t we get through?” <PER>Harry</PER> hissed to <PER>Ron</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.18604651162790697
+sentence: “Meet you on the field in fifteen minutes.” When he’d found his scarlet team robes and pulled on his cloak for warmth, <PER>Harry</PER> scribbled a note to <PER>Ron</PER> explaining where he’d gone and went down the spiral staircase to the common room, his Nimbus Two Thousand on his shoulder.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.18604651162790697
+sentence: “Quick, behind here,” <PER>Harry</PER> hissed, dragging <PER>Ron</PER> behind a nearby bush.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.18604651162790697
+sentence: <PER>Harry</PER> had just set foot on the marble staircase when <PER>Harry</PER> heard it yet again — “ Kill this time let me rip tear ” <PER>Harry</PER> shouted aloud and <PER>Ron</PER> and <PER>Hermione</PER> both jumped away from <PER>Harry</PER> in alarm.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.17915917172535356
+sentence: “ ’Night,” <PER>Harry</PER> called back to <PER>Hermione</PER>, who was wearing a scowl just like Percy’s.
+pattern_bef: Friend
+passive voice: False
+
+instance: Dudley	Harry	score:0.17532048000988465
+sentence: <PER>Harry</PER> knew <PER>Harry</PER> shouldn’t have risen to <PER>Dudley</PER>’s bait, but <PER>Dudley</PER> had said the very thing <PER>Harry</PER> had been thinking <PER>Harry</PER> maybe <PER>Harry</PER> didn’t have any friends at Hogwarts.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.17490379725183758
+sentence: <PER>Harry</PER> could make out <PER>Hermione</PER>’s neat writing, <PER>Ron</PER>’s untidy scrawl, and even a scribble that looked as though it was from the Hogwarts gamekeeper, <PER>Hagrid</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.1730576966490064
+sentence: But the long silence from <PER>Ron</PER> and <PER>Hermione</PER> had made <PER>Harry</PER> feel so cut off from the magical world that even taunting <PER>Dudley</PER> had lost its appeal — and now <PER>Ron</PER> and <PER>Hermione</PER> had forgotten his birthday.
+pattern_bef: Friend
+passive voice: False
+
+instance: Malfoy	Dudley	score:0.1730576966490064
+sentence: <PER>Malfoy</PER> made <PER>Dudley</PER> Dursley look like a kind, thoughtful, and sensitive boy.
+pattern_bef: Friend
+passive voice: False
+
+instance: Snape	Harry	score:0.1730576966490064
+sentence: <PER>Harry</PER> had been held back in Potions, where <PER>Snape</PER> had made <PER>Harry</PER> stay behind to scrape tubeworms off the desks.
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Ron	score:0.17220963881531104
+sentence: “How can you stick up for Lockhart now, <PER>Hermione</PER>, eh?” <PER>Ron</PER> called through the curtain as he pulled <PER>Harry</PER>’s limp fingers through the cuff.
+pattern_bef: Friend
+passive voice: False
+
+instance: Malfoy	Harry	score:0.171610734292439
+sentence: <PER>Harry</PER> started stuffing everything feverishly into <PER>Harry</PER>'s ripped bag, desperate to get away before <PER>Malfoy</PER> could hear <PER>Harry</PER>'s musical valentine.
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Hagrid	score:0.17157783682190286
+sentence: He, <PER>Ron</PER>, and <PER>Hermione</PER> were planning to visit <PER>Hagrid</PER> on Saturday morning.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hagrid	score:0.16488911028747055
+sentence: <PER>Harry</PER> left the Invisibility Cloak on <PER>Hagrid</PER>’s table.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Ginny	score:0.16363023891054596
+sentence: “I suppose your parents will go hungry for a month to pay for all those.” <PER>Ron</PER> went as red as <PER>Ginny</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hagrid	score:0.16363023891054596
+sentence: <PER>Harry</PER> went back into <PER>Hagrid</PER>’s cabin to get the Invisibility Cloak.
+pattern_bef: Friend
+passive voice: False
+
+instance: Malfoy	Harry	score:0.1620739996433258
+sentence: Through a haze of rain and pain — <PER>Harry</PER> dived for the shimmering, sneering face below <PER>Harry</PER> and saw its eyes widen with fear: <PER>Malfoy</PER> thought <PER>Harry</PER> was attacking <PER>Harry</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Malfoy	score:0.1620739996433258
+sentence: <PER>Harry</PER> thought of <PER>Malfoy</PER> shouting, “You’ll be next, Mudbloods!” and of the Polyjuice Potion simmering away in Moaning Myrtle’s bathroom.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Malfoy	score:0.15698856415266982
+sentence: “And you, <PER>Malfoy</PER> — ” <PER>Harry</PER>, glancing over, saw <PER>Malfoy</PER> stoop and snatch up something.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	McGonagall	score:0.1542295310811549
+sentence: <PER>Harry</PER> had seen Professor <PER>McGonagall</PER> angry on several occasions, but either <PER>Harry</PER> had forgotten just how thin Professor <PER>McGonagall</PER>'s mouth could go, or <PER>Harry</PER> had never seen Professor <PER>McGonagall</PER>'s this angry before.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	McGonagall	score:0.1542295310811549
+sentence: <PER>Harry</PER> had seen Professor <PER>McGonagall</PER> angry on several occasions, but either <PER>Harry</PER> had forgotten just how thin Professor <PER>McGonagall</PER>'s mouth could go, or <PER>Harry</PER> had never seen Professor <PER>McGonagall</PER>'s this angry before.
+pattern_bef: Friend
+passive voice: False
+
+instance: Malfoy	Voldemort	score:0.1540469172608553
+sentence: “He was a big supporter of <PER>Voldemort</PER>.” “And when <PER>Voldemort</PER> disappeared,” said Fred, craning around to look at <PER>Harry</PER>, “Lucius <PER>Malfoy</PER> came back saying <PER>Voldemort</PER>’d never meant any of it.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Dumbledore	score:0.15163495710917885
+sentence: <PER>Harry</PER> and <PER>Ron</PER> knew <PER>Dumbledore</PER> would see through this at once, but <PER>Dumbledore</PER> asked no questions about the car.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Malfoy	score:0.15163495710917885
+sentence: <PER>Harry</PER> knew at once that <PER>Malfoy</PER> had said something really bad because there was an instant uproar at <PER>Harry</PER>'s words.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Malfoy	score:0.14933333333333332
+sentence: “Oh, it’s you,” said <PER>Ron</PER>, looking at <PER>Malfoy</PER> as if he were something unpleasant on the sole of his shoe.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.14933333333333332
+sentence: <PER>Harry</PER> looked quickly at <PER>Dumbledore</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.14933333333333332
+sentence: <PER>Harry</PER> nudged <PER>Ron</PER> in the ribs and nodded in Percy’s direction.
+pattern_bef: Friend
+passive voice: False
+
+instance: Hagrid	Harry	score:0.14933333333333332
+sentence: “Met her jus’ yesterday.” <PER>Hagrid</PER> looked sideways at <PER>Harry</PER>, his beard twitching.
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.14933333333333332
+sentence: “Why go up to that corridor?” <PER>Ron</PER> and <PER>Hermione</PER> looked at <PER>Harry</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Ron	score:0.14933333333333332
+sentence: “I never knew that,” said <PER>Hermione</PER>, looking at <PER>Ron</PER> in surprise.
+pattern_bef: Friend
+passive voice: False
+
+instance: Snape	Harry	score:0.14933333333333332
+sentence: <PER>Harry</PER> wondered why Lockhart was still smiling; if <PER>Snape</PER> had been looking at <PER>Harry</PER> like that <PER>Harry</PER>’d have been running as fast as <PER>Harry</PER> could in the opposite direction.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.14933333333333332
+sentence: He pulled it out, flicked it open, and read aloud: “To Miss Granger, wishing you a speedy recovery, from your concerned teacher, Professor Gilderoy Lockhart, Order of Merlin, Third Class, Honorary Member of the Dark Force Defense League, and five-time winner of Witch Weekly’s Most-Charming-Smile Award.” <PER>Ron</PER> looked up at <PER>Hermione</PER>, disgusted.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.14933333333333332
+sentence: “What’s up?” said <PER>Ron</PER>, looking at <PER>Harry</PER> with concern.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.14933333333333332
+sentence: Something wet touched <PER>Harry</PER>’s hand and <PER>Harry</PER> jumped backward, crushing <PER>Ron</PER>’s foot, but it was only Fang’s nose.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.14933333333333332
+sentence: “<PER>Harry</PER>, it’s our car!” “What?” “Come on!” <PER>Harry</PER> blundered after <PER>Ron</PER> toward the light, stumbling and tripping, and a moment later they had emerged into a clearing.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.14933333333333332
+sentence: <PER>Harry</PER> looked sideways at <PER>Ron</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Hermione	score:0.14933333333333332
+sentence: “Wonder if she did see the attacker, though?” said <PER>Ron</PER>, looking sadly at <PER>Hermione</PER> ’s rigid face.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.14933333333333332
+sentence: <PER>Harry</PER> stood aside as <PER>Ron</PER> came whizzing out of the pipe, too.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.14933333333333332
+sentence: <PER>Harry</PER> looked uncertainly at <PER>Ron</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.14933333333333332
+sentence: Instinctively, <PER>Harry</PER> looked at <PER>Dumbledore</PER>, who smiled faintly, the firelight glancing off his half-moon spectacles.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Riddle	score:0.14492301558397058
+sentence: Leering, he showed it to Crabbe and Goyle, and <PER>Harry</PER> realized that <PER>Harry</PER>’d got <PER>Riddle</PER>’s diary.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Riddle	score:0.13827428105753947
+sentence: It wasn’t until they had reached Professor Flitwick’s class that <PER>Harry</PER> noticed something rather odd about <PER>Riddle</PER>’s diary.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.13817928518567768
+sentence: <PER>Ron</PER> was just saying <PER>Harry</PER> wished <PER>Harry</PER> had asked <PER>Hermione</PER> how many rat tails you were supposed to add to a Hair-Raising Potion when an angry outburst from the floor above reached their ears.
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.13795962470046008
+sentence: Still tut-tutting about dangerous sports and inept teachers, Madam Pomfrey retreated, leaving <PER>Ron</PER> and <PER>Hermione</PER> to help <PER>Harry</PER> gulp down some water.
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.13683131401831394
+sentence: He dropped He's books into the cauldron, too, and started toward <PER>Malfoy</PER>, but <PER>Harry</PER> and <PER>Hermione</PER> grabbed the back of <PER>Harry</PER>'s jacket.
+pattern_bef: Friend
+passive voice: False
+
+instance: Malfoy	Harry	score:0.1367000724588121
+sentence: “Because if <PER>Harry</PER> here” — Mister <PER>Malfoy</PER> shot <PER>Harry</PER> a swift, sharp look — “and his friend <PER>Ron</PER> hadn’t discovered this book, why — <PER>Ginny</PER> Weasley might have taken all the blame.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ginny	score:0.13560063498360764
+sentence: <PER>Harry</PER> urged <PER>Ginny</PER> forward; they stepped over the motionless coils of the dead basilisk, through the echoing gloom, and back into the tunnel.
+pattern_bef: Friend
+passive voice: False
+
+instance: Snape	Harry	score:0.1350358138625325
+sentence: This wasn’t the first time <PER>Snape</PER> had given <PER>Harry</PER> the impression of being able to read minds.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.13494336463405332
+sentence: <PER>Ron</PER> looked exactly like <PER>Harry</PER> felt.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Riddle	score:0.13493202633742518
+sentence: On her first evening back in Gryffindor Tower, <PER>Harry</PER> showed her T. M. <PER>Riddle</PER>’s diary and told her the story of how they had found it.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Snape	score:0.13468711756588525
+sentence: “He saw my Kwikspell letter!” “If I might speak, Headmaster,” said <PER>Snape</PER> from the shadows, and <PER>Harry</PER>’s sense of foreboding increased; <PER>Harry</PER> was sure nothing <PER>Snape</PER> had to say was going to do <PER>Harry</PER> any good.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Riddle	score:0.13447543105851079
+sentence: <PER>Harry</PER> could tell that <PER>Riddle</PER> was doing some serious thinking.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.1335107781330942
+sentence: “It certainly seems so.” “So I should be in Slytherin,” <PER>Harry</PER> said, looking desperately into <PER>Dumbledore</PER> ’s face.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.13318338342203373
+sentence: “We ’d’ve come to meet you, but we decided to get started on the Polyjuice Potion,” <PER>Ron</PER> explained as <PER>Harry</PER>, with difficulty, locked the stall again.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.1323742973495814
+sentence: <PER>Ron</PER> looked as though <PER>Harry</PER>’d just been told <PER>Harry</PER> had to go and live in the Forbidden Forest.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Voldemort	score:0.1322832662532506
+sentence: “Dobby heard tell,” he said hoarsely, “that <PER>Harry</PER> Potter met <PER>Voldemort</PER> for a second time, just weeks ago that <PER>Harry</PER> Potter escaped yet again.” <PER>Harry</PER> nodded and Dobby’s eyes suddenly shone with tears.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ginny	Ron	score:0.1291018326980672
+sentence: <PER>Ginny</PER> went scarlet as <PER>Ron</PER> and <PER>Hermione</PER> fought their way over, both clutching stacks of Lockhart’s books.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Snape	score:0.12846510325159344
+sentence: <PER>Harry</PER> also happened to be <PER>Snape</PER> ’s least favorite student.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.12838582313173785
+sentence: <PER>Harry</PER> was just thinking that all <PER>Harry</PER> needed was for <PER>Dumbledore</PER> ’s pet bird to die while <PER>Harry</PER> was alone in the office with it, when the bird burst into flames.
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	Harry	score:0.12774110673870476
+sentence: “No, <PER>Harry</PER>, I don’t,” said <PER>Dumbledore</PER>, though <PER>Harry</PER>'s face was somber again.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Riddle	score:0.12774110673870476
+sentence: And while <PER>Harry</PER> was sure <PER>Harry</PER> had never heard the name T. M. <PER>Riddle</PER> before, it still seemed to mean something to <PER>Harry</PER>, almost as though <PER>Riddle</PER> was a friend he’d had when he was very small, and had half-forgotten.
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	Riddle	score:0.12746812616075787
+sentence: “Well, hurry off to bed,” said <PER>Dumbledore</PER>, giving <PER>Riddle</PER> exactly the kind of penetrating stare <PER>Harry</PER> knew so well.
+pattern_bef: Friend
+passive voice: False
+
+instance: Riddle	Hagrid	score:0.12670622553144184
+sentence: Tom <PER>Riddle</PER> had turned <PER>Hagrid</PER> in because Tom <PER>Riddle</PER> was faced with the prospect of a Muggle orphanage if the school closed.
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.12479512043598873
+sentence: <PER>Harry</PER> didn’t know whether the best bit was <PER>Hermione</PER> running toward <PER>Harry</PER>, screaming “You solved it!
+pattern_bef: Friend
+passive voice: False
+
+instance: McGonagall	Harry	score:0.12375577296282614
+sentence: “Get Madam Pomfrey,” whispered <PER>Dumbledore</PER>, and Professor <PER>McGonagall</PER> hurried past the end of <PER>Harry</PER>’s bed out of sight.
+pattern_bef: Friend
+passive voice: False
+
+instance: Malfoy	Harry	score:0.12287025372008109
+sentence: “All right there, Scarhead?” yelled <PER>Malfoy</PER>, shooting underneath <PER>Harry</PER> as though to show off the speed of <PER>Harry</PER>'s broom.
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.12248527442571899
+sentence: <PER>Ron</PER> and <PER>Hermione</PER> came hurrying over to wish <PER>Harry</PER> good luck as <PER>Harry</PER> entered the locker rooms.
+pattern_bef: Friend
+passive voice: False
+
+instance: Malfoy	Harry	score:0.12156924605369568
+sentence: For an agonizing moment, <PER>Harry</PER> hung in midair, not daring to speed toward <PER>Malfoy</PER> in case <PER>Harry</PER> looked up and saw the Snitch.
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	McGonagall	score:0.12122114830377329
+sentence: “If you want proof, <PER>Harry</PER>, that you belong in Gryffindor, I suggest you look more closely at this.” <PER>Dumbledore</PER> reached across to Professor <PER>McGonagall</PER>’s desk, picked up the blood-stained silver sword, and handed the blood-stained silver sword to <PER>Harry</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.12073158019707608
+sentence: “Ask Shis if She saw anything,” <PER>Harry</PER> mouthed at <PER>Hermione</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Hagrid	Riddle	score:0.11841541714717496
+sentence: “Well, he certainly kept an annoyingly close watch on me after <PER>Hagrid</PER> was expelled,” said <PER>Riddle</PER> carelessly.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ginny	score:0.11678917572486225
+sentence: “I’ll explain when we get out of here,” said <PER>Harry</PER> with a sideways glance at <PER>Ginny</PER>, who was crying harder than ever.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ginny	score:0.11660904374670145
+sentence: But then Her must be — “<PER>Ginny</PER>, please wake up,” <PER>Harry</PER> muttered desperately, shaking <PER>Ginny</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Snape	Malfoy	score:0.11585358217361608
+sentence: <PER>Snape</PER> smirked as Lockhart quickly picked it up, saying, “Whoops — my wand is a little overexcited — ” <PER>Snape</PER> moved closer to <PER>Malfoy</PER>, bent down, and whispered something in his ear.
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.11566685353006634
+sentence: When <PER>Snape</PER> turned and walked off to bully <PER>Neville</PER>, <PER>Hermione</PER> caught <PER>Harry</PER>’s eye and nodded.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.11546286499220049
+sentence: “Hang on ” <PER>Harry</PER> muttered to <PER>Ron</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Snape	Ron	score:0.11546286499220049
+sentence: “<PER>Snape</PER> mentioned it in class a few weeks ago — ” “D’you think we’ve got nothing better to do in Potions than listen to <PER>Snape</PER>?” muttered <PER>Ron</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.11546286499220049
+sentence: “<PER>Malfoy</PER> could have attacked half the Muggle-borns in the school by then!” But <PER>Hermione</PER> ’s eyes narrowed dangerously again, and “<PER>Malfoy</PER> added swiftly, “But it’s the best plan we’ve got, so full steam ahead, I say.” However, while <PER>Hermione</PER> was checking that the coast was clear for them to leave the bathroom, <PER>Ron</PER> muttered to <PER>Harry</PER>, “It’ll be a lot less hassle if you can just knock <PER>Malfoy</PER> off his broom tomorrow.” <PER>Harry</PER> woke early on Saturday morning and lay for a while thinking about the coming Quidditch match.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.11546286499220049
+sentence: “Don’t swing your arms like that,” <PER>Harry</PER> muttered to <PER>Ron</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Riddle	Harry	score:0.11338428088596886
+sentence: But to <PER>Harry</PER>’s disappointment, <PER>Riddle</PER> led <PER>Harry</PER> not into a hidden passageway or a secret tunnel but to the very dungeon in which <PER>Harry</PER> had Potions with <PER>Snape</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Riddle	Harry	score:0.11320840460913517
+sentence: <PER>Riddle</PER> stopped, and so did <PER>Harry</PER>, watching <PER>Harry</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: McGonagall	Dumbledore	score:0.11253409895126909
+sentence: Professor <PER>McGonagall</PER> stared at <PER>Dumbledore</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Snape	score:0.11116819330201355
+sentence: Not daring even to look at each other, <PER>Harry</PER> and <PER>Ron</PER> followed <PER>Snape</PER> up the steps into the vast, echoing entrance hall, which was lit with flaming torches.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	McGonagall	score:0.11116819320743287
+sentence: <PER>Harry</PER> and <PER>Ron</PER> followed Professor <PER>McGonagall</PER> back into the school and up the marble staircase.
+pattern_bef: Friend
+passive voice: False
+
+instance: Malfoy	Harry	score:0.11073092658709194
+sentence: “I don’t like your attitude!” <PER>Malfoy</PER> sneered and motioned for <PER>Harry</PER> and <PER>Ron</PER> to follow him.
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	Harry	score:0.1101064179957787
+sentence: “Oh, no one will be able to do that,” said <PER>Dumbledore</PER>, smiling at <PER>Harry</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.10828372296753086
+sentence: <PER>Ron</PER> grinned guiltily at <PER>Harry</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.10828372296753086
+sentence: <PER>Harry</PER> grinned awkwardly as <PER>Dumbledore</PER> watched <PER>Harry</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Voldemort	Harry	score:0.10625422263568784
+sentence: <PER>Harry</PER>’s parents had died in <PER>Voldemort</PER>’s attack, but <PER>Harry</PER> had escaped with <PER>Harry</PER>'s lightning scar, and somehow — nobody understood why — <PER>Voldemort</PER>’s powers had been destroyed the instant he had failed to kill <PER>Harry</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Malfoy	Harry	score:0.10511235102027894
+sentence: <PER>Malfoy</PER> <PER>Malfoy</PER> was strolling toward them, and for the first time in <PER>Malfoy</PER> <PER>Malfoy</PER>'s life, <PER>Harry</PER> was pleased to see <PER>Malfoy</PER> <PER>Malfoy</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Malfoy	Harry	score:0.10487874993042956
+sentence: It was hovering inches above <PER>Malfoy</PER>’s left ear — and <PER>Malfoy</PER>, busy laughing at <PER>Harry</PER>, hadn’t seen it.
+pattern_bef: Friend
+passive voice: False
+
+instance: Voldemort	Harry	score:0.10487874952269782
+sentence: Eyes still tightly shut, <PER>Harry</PER> <PER>Harry</PER> began to run blindly sideways, <PER>Harry</PER> <PER>Harry</PER>'s hands outstretched, feeling <PER>Harry</PER> <PER>Harry</PER>'s way — <PER>Voldemort</PER> was laughing <PER>Harry</PER> <PER>Harry</PER> tripped.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Dumbledore	score:0.10336968980163674
+sentence: She left, and <PER>Harry</PER> and <PER>Ron</PER> gazed uncertainly at Professor <PER>Dumbledore</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Voldemort	score:0.10233163452148442
+sentence: <PER>Harry</PER> had slipped through <PER>Voldemort</PER>’s clutches for a second time, but it had been a narrow escape, and even now, weeks later, <PER>Harry</PER> kept waking in the night, drenched in cold sweat, wondering where <PER>Voldemort</PER> was now, remembering <PER>Voldemort</PER>'s livid face, <PER>Voldemort</PER>'s wide, mad eyes.
+pattern_bef: Friend
+passive voice: False
+
+instance: Snape	McGonagall	score:0.10205248049883142
+sentence: If <PER>Snape</PER> had gone to fetch Professor <PER>McGonagall</PER>, head of Gryffindor House, <PER>Snape</PER> had gone to fetch Professor <PER>McGonagall</PER>, head of Gryffindor House were hardly any better off.
+pattern_bef: Friend
+passive voice: False
+
+instance: Snape	McGonagall	score:0.10205248049883142
+sentence: If <PER>Snape</PER> had gone to fetch Professor <PER>McGonagall</PER>, head of Gryffindor House, <PER>Snape</PER> had gone to fetch Professor <PER>McGonagall</PER>, head of Gryffindor House were hardly any better off.
+pattern_bef: Friend
+passive voice: False
+
+instance: Snape	Harry	score:0.10192712289946415
+sentence: Lockhart teamed <PER>Neville</PER> with Justin Finch- Fletchley, but <PER>Snape</PER> reached <PER>Harry</PER> and <PER>Ron</PER> first.
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.1009155805526668
+sentence: <PER>Harry</PER> had just set foot on the marble staircase when <PER>Harry</PER> heard it yet again — “ Kill this time let me rip tear ” <PER>Harry</PER> shouted aloud and <PER>Ron</PER> and <PER>Hermione</PER> both jumped away from <PER>Harry</PER> in alarm.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hermione	score:0.10078248120672018
+sentence: To <PER>Harry</PER>’s surprise, <PER>Hermione</PER> followed suit.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	McGonagall	score:0.10078248120672018
+sentence: To <PER>Harry</PER>’s surprise, Professor <PER>McGonagall</PER> didn’t object.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Voldemort	score:0.09997063041998189
+sentence: Eyes still tightly shut, <PER>Harry</PER> <PER>Harry</PER> began to run blindly sideways, <PER>Harry</PER> <PER>Harry</PER>'s hands outstretched, feeling <PER>Harry</PER> <PER>Harry</PER>'s way — <PER>Voldemort</PER> was laughing <PER>Harry</PER> <PER>Harry</PER> tripped.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Malfoy	score:0.09950545057407778
+sentence: <PER>Malfoy</PER> <PER>Malfoy</PER> was strolling toward them, and for the first time in <PER>Malfoy</PER> <PER>Malfoy</PER>'s life, <PER>Harry</PER> was pleased to see <PER>Malfoy</PER> <PER>Malfoy</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	McGonagall	score:0.0962564259349924
+sentence: <PER>Harry</PER> overheard him telling Professor <PER>McGonagall</PER> so while the Gryffindors were lining up for Transfiguration.
+pattern_bef: Friend
+passive voice: False
+
+instance: Malfoy	Harry	score:0.09554678456006516
+sentence: <PER>Malfoy</PER> marched through it, and <PER>Harry</PER> and <PER>Ron</PER> followed him.
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.09433980051676438
+sentence: “No — honestly — didn’t I just say how nice Myrtle’s looking?” said <PER>Hermione</PER>, nudging <PER>Harry</PER> and <PER>Ron</PER> painfully in the ribs.
+pattern_bef: Friend
+passive voice: False
+
+instance: Riddle	Harry	score:0.09323585273880575
+sentence: <PER>Riddle</PER> was pointing <PER>Harry</PER>’s wand at Fawkes; there was a bang like a gun, and Fawkes took flight again in a whirl of gold and scarlet.
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.09104975830032358
+sentence: “A promise is a promise,” <PER>Hermione</PER> reminded <PER>Harry</PER> bossily.
+pattern_bef: Friend
+passive voice: False
+
+instance: Malfoy	Harry	score:0.09058661826217207
+sentence: <PER>Harry</PER> hung back, with a vague feeling it would be unsporting to bewitch <PER>Malfoy</PER> while <PER>Harry</PER> was on the floor, but this was a mistake; gasping for breath, <PER>Malfoy</PER> pointed his wand at <PER>Harry</PER>’s knees, choked, “Tarantallegral” and the next second <PER>Harry</PER>’s legs began to jerk around out of <PER>Harry</PER>'s control in a kind of quickstep.
+pattern_bef: Friend
+passive voice: False
+
+instance: Hagrid	Ron	score:0.09026518525652671
+sentence: “Well, you’ve done a good job on them.” “That’s what yer little sister said,” said <PER>Hagrid</PER>, nodding at <PER>Ron</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Malfoy	score:0.08987691997347214
+sentence: Feeling that it would be a bit of a giveaway if <PER>Ron</PER> punched <PER>Malfoy</PER>, <PER>Harry</PER> shot him a warning look and said, “D’you know if the person who opened the Chamber last time was caught?” “Oh, yeah whoever it was was expelled,” said <PER>Malfoy</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.08981991923132604
+sentence: “Let me at him,” <PER>Ron</PER> growled as <PER>Harry</PER> and Dean hung onto his arms.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.08974753566321636
+sentence: “But I still want to talk to you.” <PER>Harry</PER> waited nervously while <PER>Dumbledore</PER> considered <PER>Dumbledore</PER>, the tips of <PER>Dumbledore</PER>'s long fingers together.
+pattern_bef: Friend
+passive voice: False
+
+instance: McGonagall	Harry	score:0.08930986298664456
+sentence: As he and Professor <PER>McGonagall</PER> stepped onto it, <PER>Harry</PER> heard the wall thud closed behind them.
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Ron	score:0.0881540401220734
+sentence: <PER>Harry</PER> could make out <PER>Hermione</PER>’s neat writing, <PER>Ron</PER>’s untidy scrawl, and even a scribble that looked as though it was from the Hogwarts gamekeeper, <PER>Hagrid</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Hagrid	Ron	score:0.08725228631358295
+sentence: “Watch it!” <PER>Hagrid</PER> roared, pulling <PER>Ron</PER> away from his precious pumpkins.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.08712180316447449
+sentence: Then <PER>Ron</PER> pushed <PER>Harry</PER> into an armchair and said, “You’re a Parselmouth.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hagrid	score:0.08220348474526362
+sentence: “Skulkin’ around Knockturn Alley, I dunno — dodgy place, <PER>Harry</PER> — don’ want no one ter see yeh down there — ” “I realized that,” said <PER>Harry</PER>, ducking as <PER>Hagrid</PER> made to brush him off again.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.08159038544721309
+sentence: “Hearing voices no one else can hear isn’t a good sign, even in the wizarding world.” Something in <PER>Ron</PER>’s voice made <PER>Harry</PER> ask, “You do believe me, don’t you?” “ ’Course I do,” said <PER>Ron</PER> quickly.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Malfoy	score:0.0815723342895508
+sentence: <PER>Harry</PER> watched nervously as <PER>Malfoy</PER> drew nearer and nearer to <PER>Harry</PER>'s hiding place, examining the objects for sale.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Malfoy	score:0.0815723342895508
+sentence: “Anyone who has been splashed, come here for a Deflating Draught — when I find out who did this — ” <PER>Harry</PER> tried not to laugh as <PER>Harry</PER> watched <PER>Malfoy</PER> hurry forward, <PER>Harry</PER>'s head drooping with the weight of a nose like a small melon.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Riddle	score:0.0815723342895508
+sentence: <PER>Harry</PER>, fear spreading up <PER>Harry</PER>'s numb legs, watched <PER>Riddle</PER> stop between the high pillars and look up into the stone face of Slytherin, high above him in the half-darkness.
+pattern_bef: Friend
+passive voice: False
+
+instance: Dumbledore	Harry	score:0.0815723342895508
+sentence: <PER>Harry</PER> grinned awkwardly as <PER>Dumbledore</PER> watched <PER>Harry</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Dudley	score:0.08093770472208661
+sentence: For the first couple of weeks back, <PER>Harry</PER> had enjoyed muttering nonsense words under <PER>Harry</PER>'s breath and watching <PER>Dudley</PER> tearing out of the room as fast as <PER>Harry</PER>'s fat legs would carry <PER>Harry</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Ron	score:0.08093770472208661
+sentence: “Get ’em all up, <PER>Ron</PER>.” “I don’t think there’s anything to do except wait for it to stop,” said <PER>Hermione</PER> anxiously, watching <PER>Ron</PER> bend over the basin.
+pattern_bef: Friend
+passive voice: False
+
+instance: Malfoy	Harry	score:0.0809125781779767
+sentence: “I said disarm only\” Lockhart shouted in alarm over the heads of the battling crowd, as <PER>Malfoy</PER> sank to his knees; <PER>Harry</PER> had hit him with a Tickling Charm, and <PER>Harry</PER> could barely move for laughing.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Malfoy	score:0.08010674288295527
+sentence: He and <PER>Ron</PER> hurried after <PER>Malfoy</PER>, who said as they turned into the next passage, “That Peter Weasley — ” “Percy,” <PER>Ron</PER> corrected him automatically.
+pattern_bef: Friend
+passive voice: False
+
+instance: Malfoy	Harry	score:0.07879560715132272
+sentence: Mister <PER>Malfoy</PER> almost knocked <PER>Harry</PER> over as <PER>Harry</PER> swept into the room.
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.07826865106918268
+sentence: As they edged nearer, <PER>Harry</PER> almost slipped — there was a large puddle of water on the floor; <PER>Ron</PER> and <PER>Hermione</PER> grabbed <PER>Harry</PER>, and they inched toward the message, eyes fixed on a dark shadow beneath it.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Ginny	score:0.07716220142888686
+sentence: “I’ll take <PER>Ginny</PER> and you two come right after us,” Mistress Weasley told <PER>Harry</PER> and <PER>Ron</PER>, grabbing <PER>Ginny</PER>’s hand and setting off.
+pattern_bef: Friend
+passive voice: False
+
+instance: Ron	Harry	score:0.07716220142888686
+sentence: “<PER>Harry</PER> — there’s something up there — ” said <PER>Ron</PER> hoarsely, grabbing <PER>Harry</PER>’s shoulder.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Hagrid	score:0.07617610931396479
+sentence: <PER>Harry</PER> could vividly remember <PER>Hagrid</PER> advising <PER>Harry</PER> not to leave the forest path last time He’d been in here.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.0756937775498161
+sentence: “Your bird — I couldn’t do anything — he just caught fire — ” To <PER>Harry</PER>’s astonishment, <PER>Dumbledore</PER> smiled.
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Snape	score:0.07552530434158755
+sentence: Through the confusion, <PER>Harry</PER> saw <PER>Hermione</PER> slip quietly into <PER>Snape</PER>’s office.
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.0753235140964077
+sentence: <PER>Harry</PER> sprinted up the marble staircase to the first floor, <PER>Ron</PER> and <PER>Hermione</PER> clattering behind <PER>Harry</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Malfoy	Hagrid	score:0.07414874649047853
+sentence: Mister Lucius <PER>Malfoy</PER> strode into <PER>Hagrid</PER>’s hut, swathed in a long black traveling cloak, smiling a cold and satisfied smile.
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Harry	score:0.0739547183848901
+sentence: <PER>Hermione</PER> had been urging <PER>Harry</PER> to report the robbery, but <PER>Harry</PER> didn’t like the idea.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Riddle	score:0.07298148586045416
+sentence: “<PER>Riddle</PER> just got a diary for Christmas and couldn’t be bothered filling a diary for Christmas in.” <PER>Harry</PER> couldn’t explain, even to <PER>Harry</PER>, why <PER>Harry</PER> didn’t just throw <PER>Riddle</PER>’s diary away.
+pattern_bef: Friend
+passive voice: False
+
+instance: McGonagall	Snape	score:0.07148411861306336
+sentence: Ten minutes later, <PER>Snape</PER> returned, and sure enough it was Professor <PER>McGonagall</PER> who accompanied <PER>Snape</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Malfoy	Harry	score:0.06988233682420941
+sentence: “Anyone who has been splashed, come here for a Deflating Draught — when I find out who did this — ” <PER>Harry</PER> tried not to laugh as <PER>Harry</PER> watched <PER>Malfoy</PER> hurry forward, <PER>Harry</PER>'s head drooping with the weight of a nose like a small melon.
+pattern_bef: Friend
+passive voice: False
+
+instance: McGonagall	Harry	score:0.06928944129844794
+sentence: As the teachers bent over Justin and Nearly Headless Nick, examining them, Peeves broke into song: “Oh, Potter, you rotter, oh, what have you done, You’re killing off students, you think it’s good fun — ” “That’s enough, Peeves!” barked Professor <PER>McGonagall</PER>, and Peeves zoomed away backward, with Professor <PER>McGonagall</PER>'s tongue out at <PER>Harry</PER>.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ron	score:0.06660324223836267
+sentence: Then <PER>Harry</PER> realized that <PER>Ron</PER> had covered nearly every inch of the shabby wallpaper with posters of the same seven witches and wizards, all wearing bright orange robes, carrying broomsticks, and waving energetically.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ginny	score:0.06660324223836267
+sentence: <PER>Harry</PER> suddenly realized who <PER>Ginny</PER> looked like.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Malfoy	score:0.06293477322520502
+sentence: <PER>Harry</PER> stumbled, but everything still seemed to be working, and wasting no more time, <PER>Harry</PER> pointed <PER>Harry</PER>'s wand straight at <PER>Malfoy</PER> and shouted, “Rictusempral” A jet of silver light hit <PER>Malfoy</PER> in the stomach and <PER>Harry</PER> doubled up, wheezing.
+pattern_bef: Friend
+passive voice: False
+
+instance: Harry	Ginny	score:0.06226238539052564
+sentence: <PER>Harry</PER> couldn’t see how <PER>Ginny</PER> could still be alive.
+pattern_bef: Friend
+passive voice: False
+
+instance: Hermione	Ron	score:0.06093195229407189
+sentence: “Have you still got Millicent’s nose or something?” <PER>Hermione</PER> let <PER>Hermione</PER>'s robes fall and <PER>Ron</PER> backed into the sink.
+pattern_bef: Friend
+passive voice: False
+
+instance: Malfoy	Harry	score:0.05978986087925853
+sentence: <PER>Harry</PER> watched nervously as <PER>Malfoy</PER> drew nearer and nearer to <PER>Harry</PER>'s hiding place, examining the objects for sale.
+pattern_bef: Friend
+passive voice: False
+
+instance: Hagrid	Harry	score:0.0534211623870573
+sentence: “Yer a mess!” said <PER>Hagrid</PER> gruffly, brushing soot off <PER>Harry</PER> so forcefully he nearly knocked he into a barrel of dragon dung outside an apothecary.
+pattern_bef: Friend
+passive voice: False
+

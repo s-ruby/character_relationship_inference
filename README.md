@@ -1,6 +1,11 @@
 # Character Relationship Inference
 
-This repository is the for the COMS 4995 Final Project. The project aims to automatically infer character relationships in fiction novels and output character arc visualizaitons. The project uses a variety of techniques in information extraction including snowball tchniques and [SpanBert](https://github.com/gkaramanolakis/SpanBERT).
+This repository is the for the Spring 2021 COMS 4995 Final Project. The project aims to automatically infer character relationships in fiction novels and output character arc visualizaitons. The project uses a variety of techniques in information extraction including a snowball approach using [BREDS](https://github.com/davidsbatista/BREDS) and [SpanBert](https://github.com/gkaramanolakis/SpanBERT).
+
+Team: \
+Dorothee Grant \
+Serena Killion \
+Aaron Liberatore 
 
 
 ## Install Requirements

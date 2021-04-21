@@ -1,0 +1,85 @@
+instance: Ginny	Ron	score:0.28571428572395974
+sentence: “<PER>Ginny</PER>” <PER>Ron</PER> thrust an arm through the gap in the rock to pull <PER>Ginny</PER>” <PER>Ron</PER>'s through first.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ginny	Ron	score:0.28571428572395974
+sentence: “<PER>Ginny</PER>” <PER>Ron</PER> thrust an arm through the gap in the rock to pull <PER>Ginny</PER>” <PER>Ron</PER>'s through first.
+pattern_bef: Foe
+passive voice: False
+
+instance: Malfoy	Harry	score:0.2857142857142858
+sentence: “<PER>Malfoy</PER> <PER>Malfoy</PER>,” <PER>Harry</PER> explained.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hagrid	Harry	score:0.2857142857142858
+sentence: “Oh, hello, <PER>Hagrid</PER>,” <PER>Harry</PER> said, looking up.
+pattern_bef: Foe
+passive voice: False
+
+instance: Dumbledore	Ron	score:0.2857142857142858
+sentence: “Professor <PER>Dumbledore</PER>,” <PER>Ron</PER> said quickly, “there was an accident down in the Chamber of Secrets.
+pattern_bef: Foe
+passive voice: False
+
+instance: Malfoy	Harry	score:0.2857142857142858
+sentence: “Mister <PER>Malfoy</PER>,” <PER>Harry</PER> gasped, skidding to a halt, “I’ve got something for you — ” And <PER>Harry</PER> forced the smelly sock into Lucius <PER>Malfoy</PER>’s hand.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hagrid	Ron	score:0.2857142857142857
+sentence: “<PER>Malfoy</PER> called her ‘Mudblood,’ <PER>Hagrid</PER> — ” <PER>Ron</PER> dived out of sight again as a fresh wave of slugs made their appearance.
+pattern_bef: Foe
+passive voice: False
+
+instance: Malfoy	Harry	score:0.2857142857142857
+sentence: “And you, <PER>Malfoy</PER> — ” <PER>Harry</PER>, glancing over, saw <PER>Malfoy</PER> stoop and snatch up something.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Voldemort	score:0.2857142857142857
+sentence: Eyes still tightly shut, <PER>Harry</PER> <PER>Harry</PER> began to run blindly sideways, <PER>Harry</PER> <PER>Harry</PER>'s hands outstretched, feeling <PER>Harry</PER> <PER>Harry</PER>'s way — <PER>Voldemort</PER> was laughing <PER>Harry</PER> <PER>Harry</PER> tripped.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Malfoy	score:0.2857142857142857
+sentence: “Because if <PER>Harry</PER> here” — Mister <PER>Malfoy</PER> shot <PER>Harry</PER> a swift, sharp look — “and his friend <PER>Ron</PER> hadn’t discovered this book, why — <PER>Ginny</PER> Weasley might have taken all the blame.
+pattern_bef: Foe
+passive voice: False
+
+instance: Riddle	Ginny	score:0.2567364968952208
+sentence: him had so far avoided mentioning <PER>Riddle</PER>’s diary — or <PER>Ginny</PER>.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Riddle	score:0.24404028840164027
+sentence: But there was no mistaking <PER>Harry</PER> — “Tom — Tom <PER>Riddle</PER>?” <PER>Riddle</PER> nodded, not taking his eyes off <PER>Harry</PER>’s face.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hagrid	Harry	score:0.23219208148818582
+sentence: “What did Lockhart want with you, <PER>Hagrid</PER>?” <PER>Harry</PER> asked, scratching Fang’s ears.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Dumbledore	score:0.2263956563958034
+sentence: Then it came to <PER>Harry</PER> — “Professor <PER>Dumbledore</PER>,” he said hurriedly.
+pattern_bef: Foe
+passive voice: False
+
+instance: Hagrid	Harry	score:0.21213280336380413
+sentence: “<PER>Hagrid</PER>!” <PER>Harry</PER> croaked in relief.
+pattern_bef: Foe
+passive voice: False
+
+instance: Harry	Ron	score:0.21213280336380413
+sentence: “<PER>Harry</PER>!” <PER>Ron</PER> shouted, his voice breaking with relief.
+pattern_bef: Foe
+passive voice: False
+
+instance: Ron	Harry	score:0.21213280336380413
+sentence: “<PER>Ron</PER>!” <PER>Harry</PER> yelled, speeding up.
+pattern_bef: Foe
+passive voice: False
+

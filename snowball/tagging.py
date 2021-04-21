@@ -15,9 +15,11 @@ def tag_characters(book_num, write_file):
     # print(temp)
     proc = []
     final = []
+    
+    text = text.replace("the Dark Lord", "Voldemort").replace("Draco", "Malfoy").replace("Lucien", "Malfoy").replace("He-Who-Must-Not-Be-Named", "Voldemort")
 
-    characters = ["Harry", "Riddle", "Voldemort", "Quirrell", "the Dark Lord", "Ron", "Hermione", "Malfoy", "Draco", "Dumbledore", "Snape", "Hagrid", "Ginny", "Dudley",
-                "Neville", "McGonagall", "Rita", "Umbridge", "Cornelius", "Ballatrix", "Lucius", "Cho"]
+    characters = ["Harry", "Riddle", "Voldemort", "Quirrell", "Ron", "Hermione", "Malfoy", "Dumbledore", "Snape", "Hagrid", "Ginny", "Dudley",
+                "Neville", "McGonagall", "Rita", "Umbridge", "Cornelius", "Ballatrix", "Cho"]
 
     for ch in characters:
         text = text.replace(ch, f"<PER>{ch}</PER>")
